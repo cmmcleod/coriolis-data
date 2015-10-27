@@ -1,5 +1,6 @@
 {
   "federal_gunship": {
+    "eddbID": 10,
     "properties": {
       "name": "Federal Gunship",
       "manufacturer": "Core Dynamics",

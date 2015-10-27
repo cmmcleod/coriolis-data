@@ -1,5 +1,6 @@
 {
   "adder": {
+    "eddbID": 1,
     "properties": {
       "name": "Adder",
       "manufacturer": "Zorgon Peterson",

@@ -1,5 +1,6 @@
 {
   "hauler": {
+    "eddbID": 12,
     "properties": {
       "name": "Hauler",
       "manufacturer": "Zorgon Peterson",
