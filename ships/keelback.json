@@ -1,25 +1,25 @@
 {
-  "diamondback": {
-    "eddbID": 6,
+  "keelback": {
+    "eddbID": 0,
     "properties": {
-      "name": "Diamondback Scout",
+      "name": "Keelback",
       "manufacturer": "Lakon",
-      "class": 1,
-      "hullCost": 461340,
-      "speed": 283,
-      "boost": 380,
+      "class": 2,
+      "hullCost": 865790,
+      "speed": 220,
+      "boost": 350,
       "boostEnergy": 11,
-      "agility": 8,
-      "baseShieldStrength": 118,
-      "baseArmour": 216,
-      "hullMass": 170,
+      "agility": 3,
+      "baseShieldStrength": 90,
+      "baseArmour": 162,
+      "hullMass": 155,
       "masslock": 8,
-      "pipSpeed": 0.09875
+      "pipSpeed": 0.1475
     },
-    "retailCost": 564330,
+    "retailCost": 1045950,
     "slots": {
       "standard": [
-        4,
+        3,
         4,
         4,
         2,
@@ -34,19 +34,21 @@
         1,
         0,
         0,
-        0,
         0
       ],
       "internal": [
+        5,
+        5,
+        4,
+        4,
         3,
-        3,
-        3,
+        2,
         2
       ]
     },
     "defaults": {
       "standard": [
-        "4E",
+        "3E",
         "4E",
         "4E",
         "2E",
@@ -55,19 +57,21 @@
         "4C"
       ],
       "hardpoints": [
+        0,
+        0,
         17,
         17,
-        0,
-        0,
-        0,
         0,
         0,
         0
       ],
       "internal": [
+        "03",
+        "03",
+        "02",
+        "02",
         "44",
-        0,
-        0,
+        "00",
         "2h"
       ]
     }

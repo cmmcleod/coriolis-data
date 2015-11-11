@@ -1,30 +1,30 @@
 {
-  "diamondback": {
-    "eddbID": 6,
+  "cobra_mk_iv": {
+    "eddbID": 0,
     "properties": {
-      "name": "Diamondback Scout",
-      "manufacturer": "Lakon",
+      "name": "Cobra Mk IV",
+      "manufacturer": "Faulcon DeLacy",
       "class": 1,
-      "hullCost": 461340,
-      "speed": 283,
-      "boost": 380,
+      "hullCost": 235800,
+      "speed": 280,
+      "boost": 400,
       "boostEnergy": 11,
-      "agility": 8,
-      "baseShieldStrength": 118,
+      "agility": 6,
+      "baseShieldStrength": 80,
       "baseArmour": 216,
-      "hullMass": 170,
+      "hullMass": 180,
       "masslock": 8,
-      "pipSpeed": 0.09875
+      "pipSpeed": 0.125
     },
-    "retailCost": 564330,
+    "retailCost": 379720,
     "slots": {
       "standard": [
         4,
         4,
         4,
-        2,
         3,
-        2,
+        3,
+        3,
         4
       ],
       "hardpoints": [
@@ -32,15 +32,16 @@
         2,
         1,
         1,
-        0,
-        0,
+        1,
         0,
         0
       ],
       "internal": [
-        3,
-        3,
-        3,
+        4,
+        4,
+        4,
+        2,
+        2,
         2
       ]
     },
@@ -49,9 +50,9 @@
         "4E",
         "4E",
         "4E",
-        "2E",
         "3E",
-        "2E",
+        "3E",
+        "3E",
         "4C"
       ],
       "hardpoints": [
@@ -61,12 +62,13 @@
         0,
         0,
         0,
-        0,
         0
       ],
       "internal": [
-        "44",
-        0,
+        "02",
+        "02",
+        "49",
+        "00",
         0,
         "2h"
       ]
