@@ -12,9 +12,9 @@
       "agility": 4,
       "baseShieldStrength": 150,
       "baseArmour": 270,
-      "hullMass": 150,
+      "hullMass": 190,
       "masslock": 7,
-      "pipSpeed": 0.09375
+      "pipSpeed": 0.0875
     },
     "retailCost": 437930,
     "slots": {
