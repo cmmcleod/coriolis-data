@@ -1,22 +1,22 @@
 {
-  "diamondback": {
-    "eddbID": 6,
+  "viper_mk_iv": {
+    "eddbID": 0,
     "properties": {
-      "name": "Diamondback Scout",
-      "manufacturer": "Lakon",
+      "name": "Viper Mk IV",
+      "manufacturer": "Faulcon DeLacy",
       "class": 1,
-      "hullCost": 461340,
-      "speed": 283,
-      "boost": 380,
+      "hullCost": 310220,
+      "speed": 270,
+      "boost": 340,
       "boostEnergy": 11,
-      "agility": 8,
-      "baseShieldStrength": 118,
-      "baseArmour": 216,
-      "hullMass": 170,
-      "masslock": 8,
-      "pipSpeed": 0.09875
+      "agility": 4,
+      "baseShieldStrength": 150,
+      "baseArmour": 270,
+      "hullMass": 190,
+      "masslock": 7,
+      "pipSpeed": 0.0875
     },
-    "retailCost": 564330,
+    "retailCost": 437930,
     "slots": {
       "standard": [
         4,
@@ -24,7 +24,7 @@
         4,
         2,
         3,
-        2,
+        3,
         4
       ],
       "hardpoints": [
@@ -33,15 +33,15 @@
         1,
         1,
         0,
-        0,
-        0,
         0
       ],
       "internal": [
+        4,
+        4,
         3,
-        3,
-        3,
-        2
+        2,
+        2,
+        1
       ]
     },
     "defaults": {
@@ -51,7 +51,7 @@
         "4E",
         "2E",
         "3E",
-        "2E",
+        "3E",
         "4C"
       ],
       "hardpoints": [
@@ -60,13 +60,13 @@
         0,
         0,
         0,
-        0,
-        0,
         0
       ],
       "internal": [
+        "02",
+        "02",
         "44",
-        0,
+        "00",
         0,
         "2h"
       ]

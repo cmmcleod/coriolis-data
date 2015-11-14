@@ -159,5 +159,40 @@
     { "id": "BO", "eddbID": 800, "name": "Military Grade Composite", "class": 1, "rating": "I", "cost": 43685900, "mass": 87 },
     { "id": "BP", "eddbID": 801, "name": "Mirrored Surface Composite", "class": 1, "rating": "I", "cost": 103244340, "mass": 87 },
     { "id": "BQ", "eddbID": 802, "name": "Reactive Surface Composite", "class": 1, "rating": "I", "cost": 114408510, "mass": 87 }
+  ],
+  "federal_corvette": [
+    { "id": "BR", "eddbID": 0, "name": "Lightweight Alloy", "class": 1, "rating": "I", "cost": 0, "mass": 0 },
+    { "id": "BS", "eddbID": 0, "name": "Reinforced Alloy", "class": 1, "rating": "I", "cost": 75187790, "mass": 30 },
+    { "id": "BT", "eddbID": 0, "name": "Military Grade Composite", "class": 1, "rating": "I", "cost": 169172510, "mass": 60 },
+    { "id": "BU", "eddbID": 0, "name": "Mirrored Surface Composite", "class": 1, "rating": "I", "cost": 399811020, "mass": 60 },
+    { "id": "BV", "eddbID": 0, "name": "Reactive Surface Composite", "class": 1, "rating": "I", "cost": 443044000, "mass": 60 }
+  ],
+  "imperial_cutter": [
+    { "id": "BW", "eddbID": 0, "name": "Lightweight Alloy", "class": 1, "rating": "I", "cost": 0, "mass": 0 },
+    { "id": "BX", "eddbID": 0, "name": "Reinforced Alloy", "class": 1, "rating": "I", "cost": 83587790, "mass": 30 },
+    { "id": "BY", "eddbID": 0, "name": "Military Grade Composite", "class": 1, "rating": "I", "cost": 188072510, "mass": 60 },
+    { "id": "BZ", "eddbID": 0, "name": "Mirrored Surface Composite", "class": 1, "rating": "I", "cost": 444478020, "mass": 60 },
+    { "id": "c0", "eddbID": 0, "name": "Reactive Surface Composite", "class": 1, "rating": "I", "cost": 492541000, "mass": 60 }
+  ],
+  "viper_mk_iv": [
+    { "id": "c1", "eddbID": 0, "name": "Lightweight Alloy", "class": 1, "rating": "I", "cost": 0, "mass": 0 },
+    { "id": "c2", "eddbID": 0, "name": "Reinforced Alloy", "class": 1, "rating": "I", "cost": 175180, "mass": 5 },
+    { "id": "c3", "eddbID": 0, "name": "Military Grade Composite", "class": 1, "rating": "I", "cost": 394140, "mass": 9 },
+    { "id": "c4", "eddbID": 0, "name": "Mirrored Surface Composite", "class": 1, "rating": "I", "cost": 931490, "mass": 9 },
+    { "id": "c5", "eddbID": 0, "name": "Reactive Surface Composite", "class": 1, "rating": "I", "cost": 1033210, "mass": 9 }
+  ],
+  "keelback": [
+    { "id": "c6", "eddbID": 0, "name": "Lightweight Alloy", "class": 1, "rating": "I", "cost": 0, "mass": 0 },
+    { "id": "c7", "eddbID": 0, "name": "Reinforced Alloy", "class": 1, "rating": "I", "cost": 1250460, "mass": 12 },
+    { "id": "c8", "eddbID": 0, "name": "Military Grade Composite", "class": 1, "rating": "I", "cost": 2813540, "mass": 23 },
+    { "id": "c9", "eddbID": 0, "name": "Mirrored Surface Composite", "class": 1, "rating": "I", "cost": 6649330, "mass": 23 },
+    { "id": "ca", "eddbID": 0, "name": "Reactive Surface Composite", "class": 1, "rating": "I", "cost": 7368340, "mass": 23 }
+  ],
+  "asp_scout": [
+    { "id": "cb", "eddbID": 0, "name": "Lightweight Alloy", "class": 1, "rating": "I", "cost": 0, "mass": 0 },
+    { "id": "cc", "eddbID": 0, "name": "Reinforced Alloy", "class": 1, "rating": "I", "cost": 1584460, "mass": 21 },
+    { "id": "cd", "eddbID": 0, "name": "Military Grade Composite", "class": 1, "rating": "I", "cost": 3565040, "mass": 42 },
+    { "id": "ce", "eddbID": 0, "name": "Mirrored Surface Composite", "class": 1, "rating": "I", "cost": 8425380, "mass": 42 },
+    { "id": "cf", "eddbID": 0, "name": "Reactive Surface Composite", "class": 1, "rating": "I", "cost": 9336440, "mass": 42 }
   ]
 }
