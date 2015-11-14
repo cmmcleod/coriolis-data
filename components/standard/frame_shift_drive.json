@@ -5,11 +5,11 @@
   "8B": { "id":"Fv", "eddbID": 994, "grp": "fd", "class": 8, "rating": "B", "cost": 0, "mass": 256, "power": 0, "optmass": 0, "maxfuel": 0, "fuelmul": 0.01, "fuelpower": 2.9 },
   "8A": { "id":"Fu", "eddbID": 995, "grp": "fd", "class": 8, "rating": "A", "cost": 0, "mass": 160, "power": 0, "optmass": 0, "maxfuel": 0, "fuelmul": 0.012, "fuelpower": 2.9 },
 
-  "7E": { "id":"Ft", "eddbID": 986, "grp": "fd", "class": 7, "rating": "E", "cost": 0, "mass": 80, "power": 0, "optmass": 0, "maxfuel": 0, "fuelmul": 0.011, "fuelpower": 2.75 },
-  "7D": { "id":"Fs", "eddbID": 987, "grp": "fd", "class": 7, "rating": "D", "cost": 0, "mass": 32, "power": 0, "optmass": 0, "maxfuel": 0, "fuelmul": 0.01, "fuelpower": 2.75 },
-  "7C": { "id":"Fr", "eddbID": 988, "grp": "fd", "class": 7, "rating": "C", "cost": 0, "mass": 80, "power": 0, "optmass": 0, "maxfuel": 0, "fuelmul": 0.008, "fuelpower": 2.75 },
-  "7B": { "id":"Fq", "eddbID": 989, "grp": "fd", "class": 7, "rating": "B", "cost": 0, "mass": 128, "power": 0, "optmass": 0, "maxfuel": 0, "fuelmul": 0.01, "fuelpower": 2.75 },
-  "7A": { "id":"Fp", "eddbID": 990, "grp": "fd", "class": 7, "rating": "A", "cost": 0, "mass": 80, "power": 0, "optmass": 0, "maxfuel": 0, "fuelmul": 0.012, "fuelpower": 2.75 },
+  "7E": { "id":"Ft", "eddbID": 986, "grp": "fd", "class": 7, "rating": "E", "cost": 633200, "mass": 80, "power": 0.48, "optmass": 1440, "maxfuel": 8.5, "fuelmul": 0.011, "fuelpower": 2.75 },
+  "7D": { "id":"Fs", "eddbID": 987, "grp": "fd", "class": 7, "rating": "D", "cost": 1899600, "mass": 32, "power": 0.54, "optmass": 1620, "maxfuel": 8.5, "fuelmul": 0.01, "fuelpower": 2.75 },
+  "7C": { "id":"Fr", "eddbID": 988, "grp": "fd", "class": 7, "rating": "C", "cost": 5698790, "mass": 80, "power": 0.6, "optmass": 1800, "maxfuel": 8.5, "fuelmul": 0.008, "fuelpower": 2.75 },
+  "7B": { "id":"Fq", "eddbID": 989, "grp": "fd", "class": 7, "rating": "B", "cost": 17096370, "mass": 128, "power": 0.75, "optmass": 2250, "maxfuel": 10.6, "fuelmul": 0.01, "fuelpower": 2.75 },
+  "7A": { "id":"Fp", "eddbID": 990, "grp": "fd", "class": 7, "rating": "A", "cost": 51289110, "mass": 80, "power": 0.9, "optmass": 2700, "maxfuel": 12.8, "fuelmul": 0.012, "fuelpower": 2.75 },
 
   "6E": { "id":"Fo", "eddbID": 981, "grp": "fd", "class": 6, "rating": "E", "cost": 199750, "mass": 40, "power": 0.4, "optmass": 960, "maxfuel": 5.3, "fuelmul": 0.011, "fuelpower": 2.6 },
   "6D": { "id":"Fn", "eddbID": 982, "grp": "fd", "class": 6, "rating": "D", "cost": 599240, "mass": 16, "power": 0.45, "optmass": 1080, "maxfuel": 5.3, "fuelmul": 0.01, "fuelpower": 2.6 },

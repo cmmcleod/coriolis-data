@@ -5,27 +5,27 @@
       "name": "Asp Scout",
       "manufacturer": "Lakon",
       "class": 2,
-      "hullCost": 6135660,
-      "speed": 250,
-      "boost": 340,
+      "hullCost": 3818240,
+      "speed": 220,
+      "boost": 300,
       "boostEnergy": 14,
-      "agility": 6,
-      "baseShieldStrength": 140,
-      "baseArmour": 378,
-      "hullMass": 280,
-      "masslock": 11,
-      "pipSpeed": 0.13
+      "agility": 8,
+      "baseShieldStrength": 120,
+      "baseArmour": 324,
+      "hullMass": 150,
+      "masslock": 8,
+      "pipSpeed": 0.125
     },
-    "retailCost": 6661150,
+    "retailCost": 3961150,
     "slots": {
       "standard": [
-        5,
-        5,
-        5,
         4,
         4,
-        5,
-        5
+        4,
+        3,
+        4,
+        4,
+        4
       ],
       "hardpoints": [
         2,
@@ -38,24 +38,22 @@
         0
       ],
       "internal": [
-        6,
-        5,
+        4,
+        4,
         3,
         3,
-        3,
-        2,
         2
       ]
     },
     "defaults": {
       "standard": [
-        "5E",
-        "5E",
-        "5E",
         "4E",
         "4E",
-        "5E",
-        "5C"
+        "4E",
+        "3E",
+        "4E",
+        "4E",
+        "4C"
       ],
       "hardpoints": [
         0,
@@ -68,9 +66,9 @@
         0
       ],
       "internal": [
-        "04",
-        "4e",
-        "01",
+        "02",
+        "02",
+        "44",
         0,
         0,
         "00",

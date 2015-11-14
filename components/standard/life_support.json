@@ -5,11 +5,11 @@
   "8B": { "id":"lA", "eddbID": 1034, "grp": "ls", "class": 8, "rating": "B", "cost": 0, "mass": 256, "power": 0, "time": 900 },
   "8A": { "id":"lz", "eddbID": 1035, "grp": "ls", "class": 8, "rating": "A", "cost": 0, "mass": 160, "power": 0, "time": 1500 },
 
-  "7E": { "id":"ly", "eddbID": 1026, "grp": "ls", "class": 7, "rating": "E", "cost": 0, "mass": 80, "power": 0, "time": 300 },
-  "7D": { "id":"lx", "eddbID": 1027, "grp": "ls", "class": 7, "rating": "D", "cost": 0, "mass": 32, "power": 0, "time": 450 },
-  "7C": { "id":"lw", "eddbID": 1028, "grp": "ls", "class": 7, "rating": "C", "cost": 0, "mass": 80, "power": 0, "time": 600 },
-  "7B": { "id":"lv", "eddbID": 1029, "grp": "ls", "class": 7, "rating": "B", "cost": 0, "mass": 128, "power": 0, "time": 900 },
-  "7A": { "id":"lu", "eddbID": 1030, "grp": "ls", "class": 7, "rating": "A", "cost": 0, "mass": 80, "power": 0, "time": 1500 },
+  "7E": { "id":"ly", "eddbID": 1026, "grp": "ls", "class": 7, "rating": "E", "cost": 249140, "mass": 80, "power": 0.72, "time": 300 },
+  "7D": { "id":"lx", "eddbID": 1027, "grp": "ls", "class": 7, "rating": "D", "cost": 622840, "mass": 32, "power": 0.81, "time": 450 },
+  "7C": { "id":"lw", "eddbID": 1028, "grp": "ls", "class": 7, "rating": "C", "cost": 1557110, "mass": 80, "power": 0.9, "time": 600 },
+  "7B": { "id":"lv", "eddbID": 1029, "grp": "ls", "class": 7, "rating": "B", "cost": 3892770, "mass": 128, "power": 0.99, "time": 900 },
+  "7A": { "id":"lu", "eddbID": 1030, "grp": "ls", "class": 7, "rating": "A", "cost": 9731930, "mass": 80, "power": 1.08, "time": 1500 },
 
   "6E": { "id":"lt", "eddbID": 1021, "grp": "ls", "class": 6, "rating": "E", "cost": 88980, "mass": 40, "power": 0.64, "time": 300 },
   "6D": { "id":"ls", "eddbID": 1022, "grp": "ls", "class": 6, "rating": "D", "cost": 222440, "mass": 16, "power": 0.72, "time": 450 },

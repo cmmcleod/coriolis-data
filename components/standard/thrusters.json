@@ -1,9 +1,9 @@
 {
-  "8E": { "id":"ty", "eddbID": 956, "grp": "t", "class": 8, "rating": "E", "M": 0.17, "P": 0.235, "cost": 0, "mass": 160, "power": 0, "optmass": 0, "maxmass": 0 },
-  "8D": { "id":"tx", "eddbID": 957, "grp": "t", "class": 8, "rating": "D", "M": 0.14, "P": 0.5145, "cost": 0, "mass": 64, "power": 0, "optmass": 0, "maxmass": 0 },
-  "8C": { "id":"tw", "eddbID": 958, "grp": "t", "class": 8, "rating": "C", "M": 0.10, "P": 1, "cost": 0, "mass": 160, "power": 0, "optmass": 0, "maxmass": 0 },
-  "8B": { "id":"tv", "eddbID": 959, "grp": "t", "class": 8, "rating": "B", "M": 0.07, "P": 1.51, "cost": 0, "mass": 256, "power": 0, "optmass": 0, "maxmass": 0 },
-  "8A": { "id":"tu", "eddbID": 960, "grp": "t", "class": 8, "rating": "A", "M": 0.04, "P": 2.33, "cost": 0, "mass": 160, "power": 0, "optmass": 0, "maxmass": 0 },
+  "8E": { "id":"ty", "eddbID": 956, "grp": "t", "class": 8, "rating": "E", "M": 0.17, "P": 0.235, "cost": 2007240, "mass": 160, "power": 7.20, "optmass": 2240, "maxmass": 3360 },
+  "8D": { "id":"tx", "eddbID": 957, "grp": "t", "class": 8, "rating": "D", "M": 0.14, "P": 0.5145, "cost": 6021720, "mass": 64, "power": 8.10, "optmass": 2520, "maxmass": 3780 },
+  "8C": { "id":"tw", "eddbID": 958, "grp": "t", "class": 8, "rating": "C", "M": 0.10, "P": 1, "cost": 18065170, "mass": 160, "power": 9, "optmass": 2800, "maxmass": 4200 },
+  "8B": { "id":"tv", "eddbID": 959, "grp": "t", "class": 8, "rating": "B", "M": 0.07, "P": 1.51, "cost": 54195500, "mass": 256, "power": 9.9, "optmass": 3080, "maxmass": 4620 },
+  "8A": { "id":"tu", "eddbID": 960, "grp": "t", "class": 8, "rating": "A", "M": 0.04, "P": 2.33, "cost": 162586490, "mass": 160, "power": 10.8, "optmass": 3360, "maxmass": 5040 },
 
   "7E": { "id":"tt", "eddbID": 951, "grp": "t", "class": 7, "rating": "E", "M": 0.17, "P": 0.235, "cost": 633200, "mass": 80, "power": 6.08, "optmass": 1440, "maxmass": 2160 },
   "7D": { "id":"ts", "eddbID": 952, "grp": "t", "class": 7, "rating": "D", "M": 0.14, "P": 0.5145, "cost": 1899600, "mass": 32, "power": 6.84, "optmass": 1620, "maxmass": 2430 },
