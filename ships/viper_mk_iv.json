@@ -1,0 +1,31 @@
+{
+  "viper_mk_iv": {
+    "eddbID": null,
+    "properties": {
+      "name": "Viper Mk IV",
+      "manufacturer": "Faulcon DeLacy",
+      "class": 1,
+      "hullCost": 310220,
+      "speed": 270,
+      "boost": 340,
+      "boostEnergy": 10,
+      "agility": 4,
+      "baseShieldStrength": 150,
+      "baseArmour": 270,
+      "hullMass": 150,
+      "masslock": 7,
+      "pipSpeed": 0.09375
+    },
+    "retailCost": 437930,
+    "slots": {
+      "standard": [4,4,4,2,3,3,4],
+      "hardpoints": [2,2,1,1,0,0],
+      "internal": [4,4,3,2,2,1]
+    },
+    "defaults": {
+      "standard": ["4E","4E","4E","2E","3E","3E","4C"],
+      "hardpoints": [0,0,17,17,0,0],
+      "internal": ["02","02","44",0,0,0]
+    }
+  }
+}

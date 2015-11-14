@@ -1,0 +1,31 @@
+{
+  "imperial_cutter": {
+    "eddbID": null,
+    "properties": {
+      "name": "Imperial Cutter",
+      "manufacturer": "Gutamaya",
+      "class": 3,
+      "hullCost": 199926890,
+      "speed": 200,
+      "boost": 320,
+      "boostEnergy": 23,
+      "agility": 2,
+      "baseShieldStrength": 605,
+      "baseArmour": 720,
+      "hullMass": 1100,
+      "masslock": null,
+      "pipSpeed": 0.05
+    },
+    "retailCost": 208969450,
+    "slots": {
+      "standard": [8,8,7,7,7,7,6],
+      "hardpoints": [4,3,3,2,2,2,2,0,0,0,0,0,0,0,0],
+      "internal": [8,8,6,6,6,5,5,4,3]
+    },
+    "defaults": {
+      "standard": ["8E","8E","7E","7E","7E","7E","6C"],
+      "hardpoints": [0,0,0,17,17,0,0,0,0,0,0,0,0,0,0],
+      "internal": ["4t","06","04",0,0,0,0,"01","2h"]
+    }
+  }
+}
