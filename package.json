@@ -1,0 +1,14 @@
+{
+  "name": "coriolis-data",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmmcleod/coriolis-data"
+  },
+  "main": "index.js",
+  "homepage": "http://coriolis.io",
+  "bugs": "https://github.com/cmmcleod/coriolis/issues",
+  "private": true,
+  "engine": "node >= 0.12.2",
+  "license": "MIT"
+}
