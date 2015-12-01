@@ -182,17 +182,17 @@
     { "id": "c5", "eddbID": 0, "name": "Reactive Surface Composite", "cost": 9336440, "mass": 42 }
   ],
   "viper_mk_iv": [
-    { "id": "c1", "eddbID": 0, "name": "Lightweight Alloy", "cost": 0, "mass": 0 },
-    { "id": "c2", "eddbID": 0, "name": "Reinforced Alloy", "cost": 175180, "mass": 5 },
-    { "id": "c3", "eddbID": 0, "name": "Military Grade Composite", "cost": 394140, "mass": 9 },
-    { "id": "c4", "eddbID": 0, "name": "Mirrored Surface Composite", "cost": 931490, "mass": 9 },
-    { "id": "c5", "eddbID": 0, "name": "Reactive Surface Composite", "cost": 1033210, "mass": 9 }
+    { "id": "c6", "eddbID": 0, "name": "Lightweight Alloy", "cost": 0, "mass": 0 },
+    { "id": "c7", "eddbID": 0, "name": "Reinforced Alloy", "cost": 175180, "mass": 5 },
+    { "id": "c8", "eddbID": 0, "name": "Military Grade Composite", "cost": 394140, "mass": 9 },
+    { "id": "c9", "eddbID": 0, "name": "Mirrored Surface Composite", "cost": 931490, "mass": 9 },
+    { "id": "ca", "eddbID": 0, "name": "Reactive Surface Composite", "cost": 1033210, "mass": 9 }
   ],
   "keelback": [
-    { "id": "c1", "eddbID": 0, "name": "Lightweight Alloy", "cost": 0, "mass": 0 },
-    { "id": "c2", "eddbID": 0, "name": "Reinforced Alloy", "cost": 1250460, "mass": 12 },
-    { "id": "c3", "eddbID": 0, "name": "Military Grade Composite", "cost": 2813540, "mass": 23 },
-    { "id": "c4", "eddbID": 0, "name": "Mirrored Surface Composite", "cost": 6649330, "mass": 23 },
-    { "id": "c5", "eddbID": 0, "name": "Reactive Surface Composite", "cost": 7368340, "mass": 23 }
+    { "id": "cb", "eddbID": 0, "name": "Lightweight Alloy", "cost": 0, "mass": 0 },
+    { "id": "cc", "eddbID": 0, "name": "Reinforced Alloy", "cost": 1250460, "mass": 12 },
+    { "id": "cd", "eddbID": 0, "name": "Military Grade Composite", "cost": 2813540, "mass": 23 },
+    { "id": "ce", "eddbID": 0, "name": "Mirrored Surface Composite", "cost": 6649330, "mass": 23 },
+    { "id": "cf", "eddbID": 0, "name": "Reactive Surface Composite", "cost": 7368340, "mass": 23 }
   ]
 }
