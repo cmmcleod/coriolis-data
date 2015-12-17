@@ -13,7 +13,7 @@
       "baseShieldStrength": 605,
       "baseArmour": 720,
       "hullMass": 1100,
-      "masslock": null,
+      "masslock": 27,
       "pipSpeed": 0.05
     },
     "retailCost": 208969450,
