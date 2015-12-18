@@ -16,7 +16,7 @@
       "masslock": 6,
       "pipSpeed": 0.1375
     },
-    "retailCost": 32000,
+    "retailCost": 40800,
     "slots": {
       "standard": [
         2,
@@ -51,8 +51,8 @@
         "1C"
       ],
       "hardpoints": [
-        17,
-        17,
+        18,
+        18,
         0,
         0
       ],
