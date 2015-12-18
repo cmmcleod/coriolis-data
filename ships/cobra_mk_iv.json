@@ -5,7 +5,7 @@
       "name": "Cobra Mk IV",
       "manufacturer": "Faulcon DeLacy",
       "class": 1,
-      "hullCost": 235800,
+      "hullCost": 620800,
       "speed": 200,
       "boost": 300,
       "boostEnergy": 11,
@@ -16,7 +16,7 @@
       "masslock": 8,
       "pipSpeed": 0.125
     },
-    "retailCost": 379720,
+    "retailCost": 764720,
     "slots": {
       "standard": [4, 4, 4, 3, 3, 3, 4],
       "hardpoints": [2, 2, 1, 1, 1, 0, 0],
