@@ -1,12 +1,12 @@
 {
   "pv": [
-    { "id": "v1", "eddbID": null, "grp": "pv", "class": 6, "rating": "H", "cost": 518400, "power": 0.6, "mass": 34, "vehicles": 4 },
-    { "id": "v2", "eddbID": null, "grp": "pv", "class": 6, "rating": "G", "cost": 622080, "power": 1.8, "mass": 17, "vehicles": 4 },
+    { "id": "v1", "eddbID": null, "grp": "pv", "class": 6, "rating": "H", "cost": 576000, "power": 0.6, "mass": 34, "vehicles": 4 },
+    { "id": "v2", "eddbID": null, "grp": "pv", "class": 6, "rating": "G", "cost": 691200, "power": 1.8, "mass": 17, "vehicles": 4 },
 
-    { "id": "v3", "eddbID": null, "grp": "pv", "class": 4, "rating": "H", "cost": 64800, "power": 0.4, "mass": 20, "vehicles": 2 },
-    { "id": "v4", "eddbID": null, "grp": "pv", "class": 4, "rating": "G", "cost": 77760, "power": 1.2, "mass": 10, "vehicles": 2 },
+    { "id": "v3", "eddbID": null, "grp": "pv", "class": 4, "rating": "H", "cost": 72000, "power": 0.4, "mass": 20, "vehicles": 2 },
+    { "id": "v4", "eddbID": null, "grp": "pv", "class": 4, "rating": "G", "cost": 86400, "power": 1.2, "mass": 10, "vehicles": 2 },
 
-    { "id": "v5", "eddbID": null, "grp": "pv", "class": 2, "rating": "H", "cost": 16200, "power": 0.25, "mass": 12, "vehicles": 1 },
-    { "id": "v6", "eddbID": null, "grp": "pv", "class": 2, "rating": "G", "cost": 19440, "power": 0.75, "mass": 6, "vehicles": 1 }
+    { "id": "v5", "eddbID": null, "grp": "pv", "class": 2, "rating": "H", "cost": 18000, "power": 0.25, "mass": 12, "vehicles": 1 },
+    { "id": "v6", "eddbID": null, "grp": "pv", "class": 2, "rating": "G", "cost": 21600, "power": 0.75, "mass": 6, "vehicles": 1 }
   ]
 }
