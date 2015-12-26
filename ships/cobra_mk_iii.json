@@ -5,7 +5,7 @@
       "name": "Cobra Mk III",
       "manufacturer": "Faulcon DeLacy",
       "class": 1,
-      "hullCost": 235800,
+      "hullCost": 205800,
       "speed": 280,
       "boost": 400,
       "boostEnergy": 11,
@@ -16,7 +16,7 @@
       "masslock": 8,
       "pipSpeed": 0.125
     },
-    "retailCost": 379720,
+    "retailCost": 349720,
     "slots": {
       "standard": [
         4,

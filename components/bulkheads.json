@@ -197,9 +197,9 @@
   ],
   "cobra_mk_iv": [
     { "id": "cg", "eddbID": 0, "name": "Lightweight Alloy", "cost": 0, "mass": 0 },
-    { "id": "ch", "eddbID": 0, "name": "Reinforced Alloy", "cost": 151890, "mass": 14 },
-    { "id": "ci", "eddbID": 0, "name": "Military Grade Composite", "cost": 341750, "mass": 27 },
-    { "id": "cj", "eddbID": 0, "name": "Mirrored Surface Composite", "cost": 797410, "mass": 27 },
-    { "id": "ck", "eddbID": 0, "name": "Reactive Surface Composite", "cost": 895000, "mass": 27 }
+    { "id": "ch", "eddbID": 0, "name": "Reinforced Alloy", "cost": 305890, "mass": 14 },
+    { "id": "ci", "eddbID": 0, "name": "Military Grade Composite", "cost": 688250, "mass": 27 },
+    { "id": "cj", "eddbID": 0, "name": "Mirrored Surface Composite", "cost": 1605910, "mass": 27 },
+    { "id": "ck", "eddbID": 0, "name": "Reactive Surface Composite", "cost": 1802440, "mass": 27 }
   ]
 }
