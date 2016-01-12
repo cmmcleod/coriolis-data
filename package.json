@@ -10,5 +10,14 @@
   "bugs": "https://github.com/cmmcleod/coriolis/issues",
   "private": true,
   "engine": "node >= 0.12.2",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint --ext .json modules ships",
+    "build": "node generate_index.js"
+  },
+  "devDependencies": {
+    "eslint": "^1.10.3",
+    "eslint-plugin-json": "^1.1.0",
+    "uglify-js": "^2.6.1"
+  }
 }

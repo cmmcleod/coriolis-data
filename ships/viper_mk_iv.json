@@ -1,6 +1,6 @@
 {
   "viper_mk_iv": {
-    "eddbID": null,
+    "eddbID": 28,
     "properties": {
       "name": "Viper Mk IV",
       "manufacturer": "Faulcon DeLacy",
@@ -17,15 +17,22 @@
       "pipSpeed": 0.0875
     },
     "retailCost": 437930,
+    "bulkheads": [
+      { "id": "c6", "eddbID": 0, "cost": 0, "mass": 0 },
+      { "id": "c7", "eddbID": 0, "cost": 175180, "mass": 5 },
+      { "id": "c8", "eddbID": 0, "cost": 394140, "mass": 9 },
+      { "id": "c9", "eddbID": 0, "cost": 931490, "mass": 9 },
+      { "id": "ca", "eddbID": 0, "cost": 1033210, "mass": 9 }
+    ],
     "slots": {
-      "standard": [4,4,4,2,3,3,4],
-      "hardpoints": [2,2,1,1,0,0],
-      "internal": [4,4,3,2,2,1]
+      "standard": [4, 4, 4, 2, 3, 3, 4],
+      "hardpoints": [2, 2, 1, 1, 0, 0],
+      "internal": [4, 4, 3, 2, 2, 1]
     },
     "defaults": {
-      "standard": ["4E","4E","4E","2E","3E","3E","4C"],
-      "hardpoints": [0,0,17,17,0,0],
-      "internal": ["02","02","44","00",0,"2h"]
+      "standard": ["4E", "4E", "4E", "2E", "3E", "3E", "4C"],
+      "hardpoints": [0, 0, 17, 17, 0, 0],
+      "internal": ["02", "02", "44", "00", 0, "2h"]
     }
   }
 }

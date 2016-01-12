@@ -5,7 +5,7 @@
       "name": "Cobra Mk III",
       "manufacturer": "Faulcon DeLacy",
       "class": 1,
-      "hullCost": 235800,
+      "hullCost": 205800,
       "speed": 280,
       "boost": 400,
       "boostEnergy": 11,
@@ -16,60 +16,23 @@
       "masslock": 8,
       "pipSpeed": 0.125
     },
-    "retailCost": 379720,
+    "retailCost": 349720,
+    "bulkheads": [
+      { "id": "bk", "eddbID": 763, "cost": 0, "mass": 0 },
+      { "id": "bl", "eddbID": 764, "cost": 151890, "mass": 14 },
+      { "id": "bm", "eddbID": 765, "cost": 341750, "mass": 27 },
+      { "id": "bn", "eddbID": 766, "cost": 797410, "mass": 27 },
+      { "id": "bo", "eddbID": 767, "cost": 895000, "mass": 27 }
+    ],
     "slots": {
-      "standard": [
-        4,
-        4,
-        4,
-        3,
-        3,
-        3,
-        4
-      ],
-      "hardpoints": [
-        2,
-        2,
-        1,
-        1,
-        0,
-        0
-      ],
-      "internal": [
-        4,
-        4,
-        4,
-        2,
-        2,
-        2
-      ]
+      "standard": [4, 4, 4, 3, 3, 3, 4],
+      "hardpoints": [2, 2, 1, 1, 0, 0],
+      "internal": [4, 4, 4, 2, 2, 2]
     },
     "defaults": {
-      "standard": [
-        "4E",
-        "4E",
-        "4E",
-        "3E",
-        "3E",
-        "3E",
-        "4C"
-      ],
-      "hardpoints": [
-        17,
-        17,
-        0,
-        0,
-        0,
-        0
-      ],
-      "internal": [
-        "02",
-        "02",
-        "49",
-        "00",
-        0,
-        "2h"
-      ]
+      "standard": ["4E", "4E", "4E", "3E", "3E", "3E", "4C"],
+      "hardpoints": [17, 17, 0, 0, 0, 0],
+      "internal": ["02", "02", "49", "00", 0, "2h"]
     }
   }
 }

@@ -1,0 +1,38 @@
+{
+  "cobra_mk_iv": {
+    "eddbID": 29,
+    "properties": {
+      "name": "Cobra Mk IV",
+      "manufacturer": "Faulcon DeLacy",
+      "class": 1,
+      "hullCost": 603740,
+      "speed": 200,
+      "boost": 300,
+      "boostEnergy": 11,
+      "agility": 4,
+      "baseShieldStrength": 120,
+      "baseArmour": 216,
+      "hullMass": 210,
+      "masslock": 8,
+      "pipSpeed": 0.125
+    },
+    "retailCost": 747660,
+    "bulkheads": [
+      { "id": "cg", "eddbID": 0, "cost": 0, "mass": 0 },
+      { "id": "ch", "eddbID": 0, "cost": 305890, "mass": 14 },
+      { "id": "ci", "eddbID": 0, "cost": 688250, "mass": 27 },
+      { "id": "cj", "eddbID": 0, "cost": 1605910, "mass": 27 },
+      { "id": "ck", "eddbID": 0, "cost": 1802440, "mass": 27 }
+    ],
+    "slots": {
+      "standard": [4, 4, 4, 3, 3, 3, 4],
+      "hardpoints": [2, 2, 1, 1, 1, 0, 0],
+      "internal": [4, 4, 4, 4, 3, 3, 2, 2]
+    },
+    "defaults": {
+      "standard": ["4E", "4E", "4E", "3E", "3E", "3E", "4C"],
+      "hardpoints": [17, 17, 0, 0, 0, 0, 0 ],
+      "internal": ["02", "02", "49", 0, 0, 0, "00", "2h"]
+    }
+  }
+}

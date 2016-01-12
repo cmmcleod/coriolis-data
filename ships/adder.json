@@ -17,55 +17,22 @@
       "pipSpeed": 0.13625
     },
     "retailCost": 87810,
+    "bulkheads": [
+      { "id": "Bx", "eddbID": 803, "cost": 0, "mass": 0 },
+      { "id": "By", "eddbID": 804, "cost": 30622340, "mass": 75 },
+      { "id": "Bz", "eddbID": 805, "cost": 68900260, "mass": 150 },
+      { "id": "BA", "eddbID": 806, "cost": 162834280, "mass": 150 },
+      { "id": "BB", "eddbID": 807, "cost": 180442120, "mass": 150 }
+    ],
     "slots": {
-      "standard": [
-        3,
-        3,
-        3,
-        1,
-        2,
-        3,
-        3
-      ],
-      "hardpoints": [
-        2,
-        1,
-        1,
-        0,
-        0
-      ],
-      "internal": [
-        3,
-        3,
-        2,
-        2,
-        1
-      ]
+      "standard": [3, 3, 3, 1, 2, 3, 3],
+      "hardpoints": [2, 1, 1, 0, 0],
+      "internal": [3, 3, 2, 2, 1]
     },
     "defaults": {
-      "standard": [
-        "3E",
-        "3E",
-        "3E",
-        "1E",
-        "2E",
-        "3E",
-        "3C"
-      ],
-      "hardpoints": [
-        0,
-        17,
-        17,
-        0,
-        0
-      ],
-      "internal": [
-        "01",
-        "44",
-        "00",
-        0,
-        "2h"
-      ]
+      "standard": ["3E", "3E", "3E", "1E", "2E", "3E", "3C"],
+      "hardpoints": [0, 17, 17, 0, 0],
+      "internal": ["01", "44", "00", 0, "2h"]
     }
   }
 }
