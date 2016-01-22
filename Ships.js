@@ -27,5 +27,5 @@ module.exports = {
   type_9_heavy: require('./ships/type_9_heavy').type_9_heavy,
   viper: require('./ships/viper').viper,
   viper_mk_iv: require('./ships/viper_mk_iv').viper_mk_iv,
-  vulture: require('./ships/vulture').vulture,
+  vulture: require('./ships/vulture').vulture
 };

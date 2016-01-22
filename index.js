@@ -4508,7 +4508,7 @@ module.exports = {
         "class": 1,
         rating: "C",
         cost: 1e3,
-        capacity: 2
+        fuel: 2
       },
       "2C": {
         id: "f2",
@@ -4517,7 +4517,7 @@ module.exports = {
         "class": 2,
         rating: "C",
         cost: 3750,
-        capacity: 4
+        fuel: 4
       },
       "3C": {
         id: "f3",
@@ -4526,7 +4526,7 @@ module.exports = {
         "class": 3,
         rating: "C",
         cost: 7060,
-        capacity: 8
+        fuel: 8
       },
       "4C": {
         id: "f4",
@@ -4535,7 +4535,7 @@ module.exports = {
         "class": 4,
         rating: "C",
         cost: 24730,
-        capacity: 16
+        fuel: 16
       },
       "5C": {
         id: "f5",
@@ -4544,7 +4544,7 @@ module.exports = {
         "class": 5,
         rating: "C",
         cost: 97750,
-        capacity: 32
+        fuel: 32
       },
       "6C": {
         id: "f6",
@@ -4553,7 +4553,7 @@ module.exports = {
         "class": 6,
         rating: "C",
         cost: 341580,
-        capacity: 64
+        fuel: 64
       },
       "7C": {
         id: "f7",
@@ -4562,7 +4562,7 @@ module.exports = {
         "class": 7,
         rating: "C",
         cost: 1780910,
-        capacity: 128
+        fuel: 128
       },
       "8C": {
         id: "f8",
@@ -4571,7 +4571,7 @@ module.exports = {
         "class": 8,
         rating: "C",
         cost: 5428400,
-        capacity: 256
+        fuel: 256
       }
     } ],
     hardpoints: {
@@ -6385,7 +6385,7 @@ module.exports = {
         power: 1.8,
         ammo: 1e4,
         repair: 120,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "1e",
         eddbID: 1343,
@@ -6396,7 +6396,7 @@ module.exports = {
         power: 2.4,
         ammo: 9e3,
         repair: 144,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "1d",
         eddbID: 1351,
@@ -6407,7 +6407,7 @@ module.exports = {
         power: 3,
         ammo: 1e4,
         repair: 200,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "1c",
         eddbID: 1359,
@@ -6418,7 +6418,7 @@ module.exports = {
         power: 3.45,
         ammo: 12e3,
         repair: 276,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "1b",
         eddbID: 1367,
@@ -6429,7 +6429,7 @@ module.exports = {
         power: 4.2,
         ammo: 11e3,
         repair: 308,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "1a",
         eddbID: 1334,
@@ -6440,7 +6440,7 @@ module.exports = {
         power: 1.58,
         ammo: 8700,
         repair: 104.4,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "19",
         eddbID: 1342,
@@ -6451,7 +6451,7 @@ module.exports = {
         power: 2.1,
         ammo: 7800,
         repair: 124.8,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "18",
         eddbID: 1350,
@@ -6462,7 +6462,7 @@ module.exports = {
         power: 2.63,
         ammo: 8700,
         repair: 174,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "17",
         eddbID: 1358,
@@ -6473,7 +6473,7 @@ module.exports = {
         power: 3.02,
         ammo: 10400,
         repair: 239.2,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "16",
         eddbID: 1366,
@@ -6484,7 +6484,7 @@ module.exports = {
         power: 3.68,
         ammo: 9600,
         repair: 268.8,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "15",
         eddbID: 1333,
@@ -6495,7 +6495,7 @@ module.exports = {
         power: 1.4,
         ammo: 7400,
         repair: 88.8,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "14",
         eddbID: 1341,
@@ -6506,7 +6506,7 @@ module.exports = {
         power: 1.86,
         ammo: 6700,
         repair: 107.2,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "13",
         eddbID: 1349,
@@ -6517,7 +6517,7 @@ module.exports = {
         power: 2.33,
         ammo: 7400,
         repair: 148,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "12",
         eddbID: 1357,
@@ -6528,7 +6528,7 @@ module.exports = {
         power: 2.67,
         ammo: 8900,
         repair: 204.7,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "11",
         eddbID: 1365,
@@ -6539,7 +6539,7 @@ module.exports = {
         power: 3.26,
         ammo: 8100,
         repair: 226.8,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "10",
         eddbID: 1332,
@@ -6550,7 +6550,7 @@ module.exports = {
         power: 1.17,
         ammo: 6100,
         repair: 73.2,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0v",
         eddbID: 1340,
@@ -6561,7 +6561,7 @@ module.exports = {
         power: 1.56,
         ammo: 5500,
         repair: 88,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0u",
         eddbID: 1348,
@@ -6572,7 +6572,7 @@ module.exports = {
         power: 1.95,
         ammo: 6100,
         repair: 122,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0t",
         eddbID: 1356,
@@ -6583,7 +6583,7 @@ module.exports = {
         power: 2.24,
         ammo: 7300,
         repair: 167.9,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0s",
         eddbID: 1364,
@@ -6594,7 +6594,7 @@ module.exports = {
         power: 2.73,
         ammo: 6700,
         repair: 187.6,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0r",
         eddbID: 1331,
@@ -6605,7 +6605,7 @@ module.exports = {
         power: .99,
         ammo: 4900,
         repair: 58.8,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0q",
         eddbID: 1339,
@@ -6616,7 +6616,7 @@ module.exports = {
         power: 1.32,
         ammo: 4400,
         repair: 70.4,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0p",
         eddbID: 1347,
@@ -6627,7 +6627,7 @@ module.exports = {
         power: 1.65,
         ammo: 4900,
         repair: 98,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0o",
         eddbID: 1355,
@@ -6638,7 +6638,7 @@ module.exports = {
         power: 1.9,
         ammo: 5900,
         repair: 135.7,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0n",
         eddbID: 1363,
@@ -6649,7 +6649,7 @@ module.exports = {
         power: 2.31,
         ammo: 5400,
         repair: 151.2,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0m",
         eddbID: 1330,
@@ -6660,7 +6660,7 @@ module.exports = {
         power: .81,
         ammo: 3600,
         repair: 43.2,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0l",
         eddbID: 1338,
@@ -6671,7 +6671,7 @@ module.exports = {
         power: 1.08,
         ammo: 3200,
         repair: 51.2,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0k",
         eddbID: 1346,
@@ -6682,7 +6682,7 @@ module.exports = {
         power: 1.35,
         ammo: 3600,
         repair: 72,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0j",
         eddbID: 1354,
@@ -6693,7 +6693,7 @@ module.exports = {
         power: 1.55,
         ammo: 4300,
         repair: 98.9,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0i",
         eddbID: 1362,
@@ -6704,7 +6704,7 @@ module.exports = {
         power: 1.89,
         ammo: 4e3,
         repair: 112,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0h",
         eddbID: 1329,
@@ -6715,7 +6715,7 @@ module.exports = {
         power: .68,
         ammo: 2300,
         repair: 27.6,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0g",
         eddbID: 1337,
@@ -6726,7 +6726,7 @@ module.exports = {
         power: .9,
         ammo: 2100,
         repair: 33.6,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0f",
         eddbID: 1345,
@@ -6737,7 +6737,7 @@ module.exports = {
         power: 1.13,
         ammo: 2300,
         repair: 46,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0e",
         eddbID: 1353,
@@ -6748,7 +6748,7 @@ module.exports = {
         power: 1.29,
         ammo: 2800,
         repair: 64.4,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0d",
         eddbID: 1361,
@@ -6759,7 +6759,7 @@ module.exports = {
         power: 1.58,
         ammo: 2500,
         repair: 70,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0c",
         eddbID: 1328,
@@ -6770,7 +6770,7 @@ module.exports = {
         power: .54,
         ammo: 1e3,
         repair: 12,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0b",
         eddbID: 1336,
@@ -6781,7 +6781,7 @@ module.exports = {
         power: .72,
         ammo: 900,
         repair: 14.4,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "0a",
         eddbID: 1344,
@@ -6792,7 +6792,7 @@ module.exports = {
         power: .9,
         ammo: 1e3,
         repair: 20,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "09",
         eddbID: 1352,
@@ -6803,7 +6803,7 @@ module.exports = {
         power: 1.04,
         ammo: 1200,
         repair: 27.6,
-        ammocost: 100
+        ammocost: 1
       }, {
         id: "08",
         eddbID: 1360,
@@ -6814,7 +6814,7 @@ module.exports = {
         power: 1.26,
         ammo: 1100,
         repair: 30.8,
-        ammocost: 100
+        ammocost: 1
       } ],
       bsg: [ {
         id: "B6",
@@ -6944,7 +6944,7 @@ module.exports = {
         "class": 1,
         rating: "E",
         cost: 1e3,
-        capacity: 2
+        cargo: 2
       }, {
         id: "01",
         eddbID: 1192,
@@ -6952,7 +6952,7 @@ module.exports = {
         "class": 2,
         rating: "E",
         cost: 3250,
-        capacity: 4
+        cargo: 4
       }, {
         id: "02",
         eddbID: 1193,
@@ -6960,7 +6960,7 @@ module.exports = {
         "class": 3,
         rating: "E",
         cost: 10560,
-        capacity: 8
+        cargo: 8
       }, {
         id: "03",
         eddbID: 1194,
@@ -6968,7 +6968,7 @@ module.exports = {
         "class": 4,
         rating: "E",
         cost: 34330,
-        capacity: 16
+        cargo: 16
       }, {
         id: "04",
         eddbID: 1195,
@@ -6976,7 +6976,7 @@ module.exports = {
         "class": 5,
         rating: "E",
         cost: 111570,
-        capacity: 32
+        cargo: 32
       }, {
         id: "05",
         eddbID: 1196,
@@ -6984,7 +6984,7 @@ module.exports = {
         "class": 6,
         rating: "E",
         cost: 362590,
-        capacity: 64
+        cargo: 64
       }, {
         id: "06",
         eddbID: 1197,
@@ -6992,7 +6992,7 @@ module.exports = {
         "class": 7,
         rating: "E",
         cost: 1178420,
-        capacity: 128
+        cargo: 128
       }, {
         id: "07",
         eddbID: 1198,
@@ -7000,7 +7000,7 @@ module.exports = {
         "class": 8,
         rating: "E",
         cost: 3829870,
-        capacity: 256
+        cargo: 256
       } ],
       cc: [ {
         id: "Cf",
@@ -8355,7 +8355,7 @@ module.exports = {
         "class": 1,
         rating: "C",
         cost: 1e3,
-        capacity: 2
+        fuel: 2
       }, {
         id: "f2",
         eddbID: 1200,
@@ -8363,7 +8363,7 @@ module.exports = {
         "class": 2,
         rating: "C",
         cost: 3750,
-        capacity: 4
+        fuel: 4
       }, {
         id: "f3",
         eddbID: 1201,
@@ -8371,7 +8371,7 @@ module.exports = {
         "class": 3,
         rating: "C",
         cost: 7060,
-        capacity: 8
+        fuel: 8
       }, {
         id: "f4",
         eddbID: 1202,
@@ -8379,7 +8379,7 @@ module.exports = {
         "class": 4,
         rating: "C",
         cost: 24730,
-        capacity: 16
+        fuel: 16
       }, {
         id: "f5",
         eddbID: 1203,
@@ -8387,7 +8387,7 @@ module.exports = {
         "class": 5,
         rating: "C",
         cost: 97750,
-        capacity: 32
+        fuel: 32
       }, {
         id: "f6",
         eddbID: 1204,
@@ -8395,7 +8395,7 @@ module.exports = {
         "class": 6,
         rating: "C",
         cost: 341580,
-        capacity: 64
+        fuel: 64
       }, {
         id: "f7",
         eddbID: 1205,
@@ -8403,7 +8403,7 @@ module.exports = {
         "class": 7,
         rating: "C",
         cost: 1780910,
-        capacity: 128
+        fuel: 128
       }, {
         id: "f8",
         eddbID: 1206,
@@ -8411,7 +8411,7 @@ module.exports = {
         "class": 8,
         rating: "C",
         cost: 5428400,
-        capacity: 256
+        fuel: 256
       } ],
       pv: [ {
         id: "v1",
@@ -9006,7 +9006,6 @@ module.exports = {
         rating: "C",
         cost: 1545e3,
         mass: 2,
-        power: 0,
         rangeLS: null
       }, {
         id: "2g",
@@ -9017,7 +9016,6 @@ module.exports = {
         rating: "D",
         cost: 505e3,
         mass: 2,
-        power: 0,
         rangeLS: 1e3
       }, {
         id: "2h",
@@ -9028,7 +9026,6 @@ module.exports = {
         rating: "E",
         cost: 1e3,
         mass: 2,
-        power: 0,
         rangeLS: 500
       }, {
         id: "2i",
@@ -9038,9 +9035,7 @@ module.exports = {
         "class": 1,
         rating: "C",
         cost: 25e4,
-        mass: 1.3,
-        power: 0,
-        rangeLS: .33
+        mass: 1.3
       } ],
       scb: [ {
         id: "65",
