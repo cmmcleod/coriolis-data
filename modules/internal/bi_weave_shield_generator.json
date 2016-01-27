@@ -1,12 +1,12 @@
 {
   "bsg": [
-    { "id": "B6", "eddbID": 0, "grp": "bsg", "class": 1, "rating": "C", "cost": 7710,     "mass": 1.3, "power": 1.2, "minmass": 13,  "optmass": 25,   "maxmass": 63,   "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4 },
-    { "id": "B5", "eddbID": 0, "grp": "bsg", "class": 2, "rating": "C", "cost": 26710,    "mass": 2.5, "power": 0.9, "minmass": 23,  "optmass": 55,   "maxmass": 138,  "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4 },
-    { "id": "B4", "eddbID": 0, "grp": "bsg", "class": 3, "rating": "C", "cost": 84650,    "mass": 5,   "power": 1.8, "minmass": 83,  "optmass": 165,  "maxmass": 413,  "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4 },
-    { "id": "B3", "eddbID": 0, "grp": "bsg", "class": 4, "rating": "C", "cost": 268350,   "mass": 10,  "power": 2.2, "minmass": 143, "optmass": 285,  "maxmass": 713,  "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4 },
-    { "id": "B2", "eddbID": 0, "grp": "bsg", "class": 5, "rating": "C", "cost": 850660,   "mass": 20,  "power": 2.6, "minmass": 203, "optmass": 405,  "maxmass": 1013, "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4 },
-    { "id": "B1", "eddbID": 0, "grp": "bsg", "class": 6, "rating": "C", "cost": 2696600,  "mass": 40,  "power": 3.1, "minmass": 270, "optmass": 540,  "maxmass": 1350, "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4 },
-    { "id": "B0", "eddbID": 0, "grp": "bsg", "class": 7, "rating": "C", "cost": 8548200,  "mass": 80,  "power": 3.5, "minmass": 530, "optmass": 1060, "maxmass": 2650, "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4 },
-    { "id": "B7", "eddbID": 0, "grp": "bsg", "class": 8, "rating": "C", "cost": 27097750, "mass": 160, "power": 4,   "minmass": 900, "optmass": 1800, "maxmass": 4500, "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4 }
+    { "id": "B6", "eddbID": 1530, "grp": "bsg", "class": 1, "rating": "C", "cost": 7710,     "mass": 1.3, "power": 1.2, "minmass": 13,  "optmass": 25,   "maxmass": 63,   "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4 },
+    { "id": "B5", "eddbID": 1531, "grp": "bsg", "class": 2, "rating": "C", "cost": 26710,    "mass": 2.5, "power": 1.5, "minmass": 23,  "optmass": 55,   "maxmass": 138,  "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4 },
+    { "id": "B4", "eddbID": 1532, "grp": "bsg", "class": 3, "rating": "C", "cost": 84650,    "mass": 5,   "power": 1.8, "minmass": 83,  "optmass": 165,  "maxmass": 413,  "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4 },
+    { "id": "B3", "eddbID": 1533, "grp": "bsg", "class": 4, "rating": "C", "cost": 268350,   "mass": 10,  "power": 2.2, "minmass": 143, "optmass": 285,  "maxmass": 713,  "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4 },
+    { "id": "B2", "eddbID": 1534, "grp": "bsg", "class": 5, "rating": "C", "cost": 850660,   "mass": 20,  "power": 2.6, "minmass": 203, "optmass": 405,  "maxmass": 1013, "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4 },
+    { "id": "B1", "eddbID": 1535, "grp": "bsg", "class": 6, "rating": "C", "cost": 2696600,  "mass": 40,  "power": 3.1, "minmass": 270, "optmass": 540,  "maxmass": 1350, "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4 },
+    { "id": "B0", "eddbID": 1536, "grp": "bsg", "class": 7, "rating": "C", "cost": 8548200,  "mass": 80,  "power": 3.5, "minmass": 530, "optmass": 1060, "maxmass": 2650, "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4 },
+    { "id": "B7", "eddbID": 1537, "grp": "bsg", "class": 8, "rating": "C", "cost": 27097750, "mass": 160, "power": 4,   "minmass": 900, "optmass": 1800, "maxmass": 4500, "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4 }
   ]
 }

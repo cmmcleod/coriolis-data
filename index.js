@@ -185,27 +185,27 @@ module.exports = {
       retailCost: 3961150,
       bulkheads: [ {
         id: "c1",
-        eddbID: 0,
+        eddbID: 1503,
         cost: 0,
         mass: 0
       }, {
         id: "c2",
-        eddbID: 0,
+        eddbID: 1504,
         cost: 1584460,
         mass: 21
       }, {
         id: "c3",
-        eddbID: 0,
+        eddbID: 1505,
         cost: 3565040,
         mass: 42
       }, {
         id: "c4",
-        eddbID: 0,
+        eddbID: 1506,
         cost: 8425380,
         mass: 42
       }, {
         id: "c5",
-        eddbID: 0,
+        eddbID: 1507,
         cost: 9336440,
         mass: 42
       } ],
@@ -295,27 +295,27 @@ module.exports = {
       retailCost: 747660,
       bulkheads: [ {
         id: "cg",
-        eddbID: 0,
+        eddbID: 1518,
         cost: 0,
         mass: 0
       }, {
         id: "ch",
-        eddbID: 0,
+        eddbID: 1519,
         cost: 305890,
         mass: 14
       }, {
         id: "ci",
-        eddbID: 0,
+        eddbID: 1520,
         cost: 688250,
         mass: 27
       }, {
         id: "cj",
-        eddbID: 0,
+        eddbID: 1521,
         cost: 1605910,
         mass: 27
       }, {
         id: "ck",
-        eddbID: 0,
+        eddbID: 1522,
         cost: 1802440,
         mass: 27
       } ],
@@ -570,27 +570,27 @@ module.exports = {
       retailCost: 187969450,
       bulkheads: [ {
         id: "BW",
-        eddbID: 0,
+        eddbID: 1498,
         cost: 0,
         mass: 0
       }, {
         id: "BX",
-        eddbID: 0,
+        eddbID: 1499,
         cost: 75187790,
         mass: 30
       }, {
         id: "BY",
-        eddbID: 0,
+        eddbID: 1500,
         cost: 169172510,
         mass: 60
       }, {
         id: "BZ",
-        eddbID: 0,
+        eddbID: 1501,
         cost: 399811020,
         mass: 60
       }, {
         id: "c0",
-        eddbID: 0,
+        eddbID: 1502,
         cost: 443044e3,
         mass: 60
       } ],
@@ -955,27 +955,27 @@ module.exports = {
       retailCost: 208969450,
       bulkheads: [ {
         id: "BR",
-        eddbID: 0,
+        eddbID: 1493,
         cost: 0,
         mass: 0
       }, {
         id: "BS",
-        eddbID: 0,
+        eddbID: 1494,
         cost: 83587790,
         mass: 30
       }, {
         id: "BT",
-        eddbID: 0,
+        eddbID: 1495,
         cost: 188072510,
         mass: 60
       }, {
         id: "BU",
-        eddbID: 0,
+        eddbID: 1496,
         cost: 444478020,
         mass: 60
       }, {
         id: "BV",
-        eddbID: 0,
+        eddbID: 1497,
         cost: 492541e3,
         mass: 60
       } ],
@@ -1042,7 +1042,7 @@ module.exports = {
       defaults: {
         standard: [ "3E", "3E", "3E", "1E", "2E", "2E", "2C" ],
         hardpoints: [ 0, 17, 17, 0 ],
-        internal: [ "44", "00", "2h" ]
+        internal: [ "44", "00", "2h", 0 ]
       }
     },
     keelback: {
@@ -1065,27 +1065,27 @@ module.exports = {
       retailCost: 3126150,
       bulkheads: [ {
         id: "cb",
-        eddbID: 0,
+        eddbID: 1513,
         cost: 0,
         mass: 0
       }, {
         id: "cc",
-        eddbID: 0,
+        eddbID: 1514,
         cost: 1250460,
         mass: 12
       }, {
         id: "cd",
-        eddbID: 0,
+        eddbID: 1515,
         cost: 2813540,
         mass: 23
       }, {
         id: "ce",
-        eddbID: 0,
+        eddbID: 1516,
         cost: 6649330,
         mass: 23
       }, {
         id: "cf",
-        eddbID: 0,
+        eddbID: 1517,
         cost: 7368340,
         mass: 23
       } ],
@@ -1517,27 +1517,27 @@ module.exports = {
       retailCost: 437930,
       bulkheads: [ {
         id: "c6",
-        eddbID: 0,
+        eddbID: 1508,
         cost: 0,
         mass: 0
       }, {
         id: "c7",
-        eddbID: 0,
+        eddbID: 1509,
         cost: 175180,
         mass: 5
       }, {
         id: "c8",
-        eddbID: 0,
+        eddbID: 1510,
         cost: 394140,
         mass: 9
       }, {
         id: "c9",
-        eddbID: 0,
+        eddbID: 1511,
         cost: 931490,
         mass: 9
       }, {
         id: "ca",
-        eddbID: 0,
+        eddbID: 1512,
         cost: 1033210,
         mass: 9
       } ],
@@ -6818,7 +6818,7 @@ module.exports = {
       } ],
       bsg: [ {
         id: "B6",
-        eddbID: 0,
+        eddbID: 1530,
         grp: "bsg",
         "class": 1,
         rating: "C",
@@ -6833,13 +6833,13 @@ module.exports = {
         maxmul: .4
       }, {
         id: "B5",
-        eddbID: 0,
+        eddbID: 1531,
         grp: "bsg",
         "class": 2,
         rating: "C",
         cost: 26710,
         mass: 2.5,
-        power: .9,
+        power: 1.5,
         minmass: 23,
         optmass: 55,
         maxmass: 138,
@@ -6848,7 +6848,7 @@ module.exports = {
         maxmul: .4
       }, {
         id: "B4",
-        eddbID: 0,
+        eddbID: 1532,
         grp: "bsg",
         "class": 3,
         rating: "C",
@@ -6863,7 +6863,7 @@ module.exports = {
         maxmul: .4
       }, {
         id: "B3",
-        eddbID: 0,
+        eddbID: 1533,
         grp: "bsg",
         "class": 4,
         rating: "C",
@@ -6878,7 +6878,7 @@ module.exports = {
         maxmul: .4
       }, {
         id: "B2",
-        eddbID: 0,
+        eddbID: 1534,
         grp: "bsg",
         "class": 5,
         rating: "C",
@@ -6893,7 +6893,7 @@ module.exports = {
         maxmul: .4
       }, {
         id: "B1",
-        eddbID: 0,
+        eddbID: 1535,
         grp: "bsg",
         "class": 6,
         rating: "C",
@@ -6908,7 +6908,7 @@ module.exports = {
         maxmul: .4
       }, {
         id: "B0",
-        eddbID: 0,
+        eddbID: 1536,
         grp: "bsg",
         "class": 7,
         rating: "C",
@@ -6923,7 +6923,7 @@ module.exports = {
         maxmul: .4
       }, {
         id: "B7",
-        eddbID: 0,
+        eddbID: 1537,
         grp: "bsg",
         "class": 8,
         rating: "C",
@@ -7815,6 +7815,71 @@ module.exports = {
         power: .32,
         rate: 42
       } ],
+      ft: [ {
+        id: "f1",
+        eddbID: 1199,
+        grp: "ft",
+        "class": 1,
+        rating: "C",
+        cost: 1e3,
+        fuel: 2
+      }, {
+        id: "f2",
+        eddbID: 1200,
+        grp: "ft",
+        "class": 2,
+        rating: "C",
+        cost: 3750,
+        fuel: 4
+      }, {
+        id: "f3",
+        eddbID: 1201,
+        grp: "ft",
+        "class": 3,
+        rating: "C",
+        cost: 7060,
+        fuel: 8
+      }, {
+        id: "f4",
+        eddbID: 1202,
+        grp: "ft",
+        "class": 4,
+        rating: "C",
+        cost: 24730,
+        fuel: 16
+      }, {
+        id: "f5",
+        eddbID: 1203,
+        grp: "ft",
+        "class": 5,
+        rating: "C",
+        cost: 97750,
+        fuel: 32
+      }, {
+        id: "f6",
+        eddbID: 1204,
+        grp: "ft",
+        "class": 6,
+        rating: "C",
+        cost: 341580,
+        fuel: 64
+      }, {
+        id: "f7",
+        eddbID: 1205,
+        grp: "ft",
+        "class": 7,
+        rating: "C",
+        cost: 1780910,
+        fuel: 128
+      }, {
+        id: "f8",
+        eddbID: 1206,
+        grp: "ft",
+        "class": 8,
+        rating: "C",
+        cost: 5428400,
+        fuel: 256
+      } ],
       fx: [ {
         id: "Ff",
         eddbID: 1429,
@@ -8348,74 +8413,9 @@ module.exports = {
         mass: 2,
         armouradd: 110
       } ],
-      ft: [ {
-        id: "f1",
-        eddbID: 1199,
-        grp: "ft",
-        "class": 1,
-        rating: "C",
-        cost: 1e3,
-        fuel: 2
-      }, {
-        id: "f2",
-        eddbID: 1200,
-        grp: "ft",
-        "class": 2,
-        rating: "C",
-        cost: 3750,
-        fuel: 4
-      }, {
-        id: "f3",
-        eddbID: 1201,
-        grp: "ft",
-        "class": 3,
-        rating: "C",
-        cost: 7060,
-        fuel: 8
-      }, {
-        id: "f4",
-        eddbID: 1202,
-        grp: "ft",
-        "class": 4,
-        rating: "C",
-        cost: 24730,
-        fuel: 16
-      }, {
-        id: "f5",
-        eddbID: 1203,
-        grp: "ft",
-        "class": 5,
-        rating: "C",
-        cost: 97750,
-        fuel: 32
-      }, {
-        id: "f6",
-        eddbID: 1204,
-        grp: "ft",
-        "class": 6,
-        rating: "C",
-        cost: 341580,
-        fuel: 64
-      }, {
-        id: "f7",
-        eddbID: 1205,
-        grp: "ft",
-        "class": 7,
-        rating: "C",
-        cost: 1780910,
-        fuel: 128
-      }, {
-        id: "f8",
-        eddbID: 1206,
-        grp: "ft",
-        "class": 8,
-        rating: "C",
-        cost: 5428400,
-        fuel: 256
-      } ],
       pv: [ {
         id: "v1",
-        eddbID: null,
+        eddbID: 1524,
         grp: "pv",
         "class": 6,
         rating: "H",
@@ -8425,7 +8425,7 @@ module.exports = {
         bays: 4
       }, {
         id: "v2",
-        eddbID: null,
+        eddbID: 1525,
         grp: "pv",
         "class": 6,
         rating: "G",
@@ -8435,7 +8435,7 @@ module.exports = {
         bays: 4
       }, {
         id: "v3",
-        eddbID: null,
+        eddbID: 1526,
         grp: "pv",
         "class": 4,
         rating: "H",
@@ -8445,7 +8445,7 @@ module.exports = {
         bays: 2
       }, {
         id: "v4",
-        eddbID: null,
+        eddbID: 1527,
         grp: "pv",
         "class": 4,
         rating: "G",
@@ -8455,7 +8455,7 @@ module.exports = {
         bays: 2
       }, {
         id: "v5",
-        eddbID: null,
+        eddbID: 1528,
         grp: "pv",
         "class": 2,
         rating: "H",
@@ -8465,7 +8465,7 @@ module.exports = {
         bays: 1
       }, {
         id: "v6",
-        eddbID: null,
+        eddbID: 1529,
         grp: "pv",
         "class": 2,
         rating: "G",
