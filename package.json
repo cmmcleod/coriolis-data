@@ -14,7 +14,7 @@
   "scripts": {
     "lint": "eslint --ext .json modules ships",
     "test": "jasmine-node spec",
-    "build": "node generate_index.js"
+    "start": "node generate_index.js"
   },
   "devDependencies": {
     "eslint": "^1.10.3",
