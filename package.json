@@ -12,9 +12,10 @@
   "engine": "node >= 0.12.2",
   "license": "MIT",
   "scripts": {
-    "lint": "eslint --ext .json modules ships",
-    "test": "jasmine-node spec",
-    "start": "node generate_index.js"
+    "lint": "eslint --plugin json --ext .json modules ships",
+    "jasmine": "jasmine-node spec",
+    "test": "npm run lint && npm run jasmine",
+    "start": "node generate_distribution.js"
   },
   "devDependencies": {
     "eslint": "^1.10.3",

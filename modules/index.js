@@ -1,0 +1,50 @@
+module.exports = {
+  standard: [
+    require('./standard/power_plant'),
+    require('./standard/thrusters'),
+    require('./standard/frame_shift_drive'),
+    require('./standard/life_support'),
+    require('./standard/power_distributor'),
+    require('./standard/sensors'),
+    require('./standard/fuel_tank')
+  ],
+  hardpoints: {
+    pl: require('./hardpoints/pulse_laser').pl,
+    ul: require('./hardpoints/burst_laser').ul,
+    bl: require('./hardpoints/beam_laser').bl,
+    mc: require('./hardpoints/multi_cannon').mc,
+    c: require('./hardpoints/cannon').c,
+    fc: require('./hardpoints/fragment_cannon').fc,
+    rg: require('./hardpoints/rail_gun').rg,
+    pa: require('./hardpoints/plasma_accelerator').pa,
+    mr: require('./hardpoints/missile_rack').mr,
+    tp: require('./hardpoints/torpedo_pylon').tp,
+    nl: require('./hardpoints/mine_launcher').nl,
+    ml: require('./hardpoints/mining_laser').ml,
+    cs: require('./hardpoints/cargo_scanner').cs,
+    cm: require('./hardpoints/countermeasures').cm,
+    ws: require('./hardpoints/frame_shift_wake_scanner').ws,
+    kw: require('./hardpoints/kill_warrant_scanner').kw,
+    sb: require('./hardpoints/shield_booster').sb
+  },
+  internal: {
+    am: require('./internal/auto_field_maintenance_unit').am,
+    bsg: require('./internal/bi_weave_shield_generator').bsg,
+    cr: require('./internal/cargo_rack').cr,
+    cc: require('./internal/collector_limpet_controllers').cc,
+    dc: require('./internal/docking_computer').dc,
+    fi: require('./internal/frame_shift_drive_interdictor').fi,
+    fs: require('./internal/fuel_scoop').fs,
+    ft: require('./internal/internal_fuel_tank').ft,
+    fx: require('./internal/fuel_transfer_limpet_controllers').fx,
+    hb: require('./internal/hatch_breaker_limpet_controller').hb,
+    hr: require('./internal/hull_reinforcement_package').hr,
+    pv: require('./internal/planetary_vehicle_hanger').pv,
+    psg: require('./internal/pristmatic_shield_generator').psg,
+    pc: require('./internal/prospector_limpet_controllers').pc,
+    rf: require('./internal/refinery').rf,
+    sc: require('./internal/scanner').sc,
+    scb: require('./internal/shield_cell_bank').scb,
+    sg: require('./internal/shield_generator').sg
+  }
+};
