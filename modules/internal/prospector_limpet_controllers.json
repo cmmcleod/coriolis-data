@@ -1,27 +1,27 @@
 {
   "pc": [
-    { "id": "Pf", "eddbID": 1449, "grp":"pc", "class":7, "rating":"E", "cost": 437400, "mass": 80.0, "power":0.55, "range": 5.10, "maximum": 8 },
-    { "id": "Pg", "eddbID": 1450, "grp":"pc", "class":7, "rating":"D", "cost": 874800, "mass": 32.0, "power":0.41, "range": 6.80, "maximum": 8 },
-    { "id": "Ph", "eddbID": 1451, "grp":"pc", "class":7, "rating":"C", "cost":1749600, "mass": 80.0, "power":0.69, "range": 8.50, "maximum": 8 },
-    { "id": "Pi", "eddbID": 1452, "grp":"pc", "class":7, "rating":"B", "cost":3499200, "mass":128.0, "power":0.97, "range":10.20, "maximum": 8 },
-    { "id": "Pj", "eddbID": 1453, "grp":"pc", "class":7, "rating":"A", "cost":6998400, "mass": 80.0, "power":0.83, "range":11.90, "maximum": 8 },
+    { "id": "Pf", "edID": 128671284, "eddbID": 1449, "grp":"pc", "class":7, "rating":"E", "cost": 437400, "mass": 80.0, "power":0.55, "range": 5.10, "maximum": 8 },
+    { "id": "Pg", "edID": 128671285, "eddbID": 1450, "grp":"pc", "class":7, "rating":"D", "cost": 874800, "mass": 32.0, "power":0.41, "range": 6.80, "maximum": 8 },
+    { "id": "Ph", "edID": 128671286, "eddbID": 1451, "grp":"pc", "class":7, "rating":"C", "cost":1749600, "mass": 80.0, "power":0.69, "range": 8.50, "maximum": 8 },
+    { "id": "Pi", "edID": 128671287, "eddbID": 1452, "grp":"pc", "class":7, "rating":"B", "cost":3499200, "mass":128.0, "power":0.97, "range":10.20, "maximum": 8 },
+    { "id": "Pj", "edID": 128671288, "eddbID": 1453, "grp":"pc", "class":7, "rating":"A", "cost":6998400, "mass": 80.0, "power":0.83, "range":11.90, "maximum": 8 },
 
-    { "id": "Pa", "eddbID": 1444, "grp":"pc", "class":5, "rating":"E", "cost":  48600, "mass": 20.0, "power":0.40, "range": 3.90, "maximum": 4 },
-    { "id": "Pb", "eddbID": 1445, "grp":"pc", "class":5, "rating":"D", "cost":  97200, "mass":  8.0, "power":0.30, "range": 5.20, "maximum": 4 },
-    { "id": "Pc", "eddbID": 1446, "grp":"pc", "class":5, "rating":"C", "cost": 194400, "mass": 20.0, "power":0.50, "range": 6.50, "maximum": 4 },
-    { "id": "Pd", "eddbID": 1447, "grp":"pc", "class":5, "rating":"B", "cost": 388800, "mass": 32.0, "power":0.97, "range": 7.80, "maximum": 4 },
-    { "id": "Pe", "eddbID": 1448, "grp":"pc", "class":5, "rating":"A", "cost": 777600, "mass": 20.0, "power":0.60, "range": 9.10, "maximum": 4 },
+    { "id": "Pa", "edID": 128671279, "eddbID": 1444, "grp":"pc", "class":5, "rating":"E", "cost":  48600, "mass": 20.0, "power":0.40, "range": 3.90, "maximum": 4 },
+    { "id": "Pb", "edID": 128671280, "eddbID": 1445, "grp":"pc", "class":5, "rating":"D", "cost":  97200, "mass":  8.0, "power":0.30, "range": 5.20, "maximum": 4 },
+    { "id": "Pc", "edID": 128671281, "eddbID": 1446, "grp":"pc", "class":5, "rating":"C", "cost": 194400, "mass": 20.0, "power":0.50, "range": 6.50, "maximum": 4 },
+    { "id": "Pd", "edID": 128671282, "eddbID": 1447, "grp":"pc", "class":5, "rating":"B", "cost": 388800, "mass": 32.0, "power":0.97, "range": 7.80, "maximum": 4 },
+    { "id": "Pe", "edID": 128671283, "eddbID": 1448, "grp":"pc", "class":5, "rating":"A", "cost": 777600, "mass": 20.0, "power":0.60, "range": 9.10, "maximum": 4 },
 
-    { "id": "P5", "eddbID": 1439, "grp":"pc", "class":3, "rating":"E", "cost":   5400, "mass":  5.0, "power":0.27, "range": 3.30, "maximum": 2 },
-    { "id": "P6", "eddbID": 1440, "grp":"pc", "class":3, "rating":"D", "cost":  10800, "mass":  2.0, "power":0.20, "range": 4.40, "maximum": 2 },
-    { "id": "P7", "eddbID": 1441, "grp":"pc", "class":3, "rating":"C", "cost":  21600, "mass":  5.0, "power":0.34, "range": 5.50, "maximum": 2 },
-    { "id": "P8", "eddbID": 1442, "grp":"pc", "class":3, "rating":"B", "cost":  43200, "mass":  8.0, "power":0.48, "range": 6.60, "maximum": 2 },
-    { "id": "P9", "eddbID": 1443, "grp":"pc", "class":3, "rating":"A", "cost":  86400, "mass":  5.0, "power":0.41, "range": 7.70, "maximum": 2 },
+    { "id": "P5", "edID": 128671274, "eddbID": 1439, "grp":"pc", "class":3, "rating":"E", "cost":   5400, "mass":  5.0, "power":0.27, "range": 3.30, "maximum": 2 },
+    { "id": "P6", "edID": 128671275, "eddbID": 1440, "grp":"pc", "class":3, "rating":"D", "cost":  10800, "mass":  2.0, "power":0.20, "range": 4.40, "maximum": 2 },
+    { "id": "P7", "edID": 128671276, "eddbID": 1441, "grp":"pc", "class":3, "rating":"C", "cost":  21600, "mass":  5.0, "power":0.34, "range": 5.50, "maximum": 2 },
+    { "id": "P8", "edID": 128671277, "eddbID": 1442, "grp":"pc", "class":3, "rating":"B", "cost":  43200, "mass":  8.0, "power":0.48, "range": 6.60, "maximum": 2 },
+    { "id": "P9", "edID": 128671278, "eddbID": 1443, "grp":"pc", "class":3, "rating":"A", "cost":  86400, "mass":  5.0, "power":0.41, "range": 7.70, "maximum": 2 },
 
-    { "id": "P0", "eddbID": 1434, "grp":"pc", "class":1, "rating":"E", "cost":    600, "mass":  1.3, "power":0.18, "range": 3.00, "maximum": 1 },
-    { "id": "P1", "eddbID": 1435, "grp":"pc", "class":1, "rating":"D", "cost":   1200, "mass":  0.5, "power":0.14, "range": 4.00, "maximum": 1 },
-    { "id": "P2", "eddbID": 1436, "grp":"pc", "class":1, "rating":"C", "cost":   2400, "mass":  1.3, "power":0.23, "range": 5.00, "maximum": 1 },
-    { "id": "P3", "eddbID": 1437, "grp":"pc", "class":1, "rating":"B", "cost":   4800, "mass":  2.0, "power":0.32, "range": 6.00, "maximum": 1 },
-    { "id": "P4", "eddbID": 1438, "grp":"pc", "class":1, "rating":"A", "cost":   9600, "mass":  1.3, "power":0.28, "range": 7.00, "maximum": 1 }
+    { "id": "P0", "edID": 128671269, "eddbID": 1434, "grp":"pc", "class":1, "rating":"E", "cost":    600, "mass":  1.3, "power":0.18, "range": 3.00, "maximum": 1 },
+    { "id": "P1", "edID": 128671270, "eddbID": 1435, "grp":"pc", "class":1, "rating":"D", "cost":   1200, "mass":  0.5, "power":0.14, "range": 4.00, "maximum": 1 },
+    { "id": "P2", "edID": 128671271, "eddbID": 1436, "grp":"pc", "class":1, "rating":"C", "cost":   2400, "mass":  1.3, "power":0.23, "range": 5.00, "maximum": 1 },
+    { "id": "P3", "edID": 128671272, "eddbID": 1437, "grp":"pc", "class":1, "rating":"B", "cost":   4800, "mass":  2.0, "power":0.32, "range": 6.00, "maximum": 1 },
+    { "id": "P4", "edID": 128671273, "eddbID": 1438, "grp":"pc", "class":1, "rating":"A", "cost":   9600, "mass":  1.3, "power":0.28, "range": 7.00, "maximum": 1 }
   ]
 }
