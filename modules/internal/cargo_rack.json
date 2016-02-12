@@ -1,12 +1,12 @@
 {
   "cr": [
-    { "id": "00", "edID": 128064338, "eddbID": 1191, "grp": "cr", "class": 1, "rating": "E", "cost": 1000,     "capacity": 2 },
-    { "id": "01", "edID": 128064339, "eddbID": 1192, "grp": "cr", "class": 2, "rating": "E", "cost": 3250,     "capacity": 4 },
-    { "id": "02", "edID": 128064340, "eddbID": 1193, "grp": "cr", "class": 3, "rating": "E", "cost": 10560,    "capacity": 8 },
-    { "id": "03", "edID": 128064341, "eddbID": 1194, "grp": "cr", "class": 4, "rating": "E", "cost": 34330,    "capacity": 16 },
-    { "id": "04", "edID": 128064342, "eddbID": 1195, "grp": "cr", "class": 5, "rating": "E", "cost": 111570,   "capacity": 32 },
-    { "id": "05", "edID": 128064343, "eddbID": 1196, "grp": "cr", "class": 6, "rating": "E", "cost": 362590,   "capacity": 64 },
-    { "id": "06", "edID": 128064344, "eddbID": 1197, "grp": "cr", "class": 7, "rating": "E", "cost": 1178420,  "capacity": 128 },
-    { "id": "07", "edID": 128064345, "eddbID": 1198, "grp": "cr", "class": 8, "rating": "E", "cost": 3829870,  "capacity": 256 }
+    { "id": "00", "edID": 128064338, "eddbID": 1191, "grp": "cr", "class": 1, "rating": "E", "cost": 1000,     "cargo": 2 },
+    { "id": "01", "edID": 128064339, "eddbID": 1192, "grp": "cr", "class": 2, "rating": "E", "cost": 3250,     "cargo": 4 },
+    { "id": "02", "edID": 128064340, "eddbID": 1193, "grp": "cr", "class": 3, "rating": "E", "cost": 10560,    "cargo": 8 },
+    { "id": "03", "edID": 128064341, "eddbID": 1194, "grp": "cr", "class": 4, "rating": "E", "cost": 34330,    "cargo": 16 },
+    { "id": "04", "edID": 128064342, "eddbID": 1195, "grp": "cr", "class": 5, "rating": "E", "cost": 111570,   "cargo": 32 },
+    { "id": "05", "edID": 128064343, "eddbID": 1196, "grp": "cr", "class": 6, "rating": "E", "cost": 362590,   "cargo": 64 },
+    { "id": "06", "edID": 128064344, "eddbID": 1197, "grp": "cr", "class": 7, "rating": "E", "cost": 1178420,  "cargo": 128 },
+    { "id": "07", "edID": 128064345, "eddbID": 1198, "grp": "cr", "class": 8, "rating": "E", "cost": 3829870,  "cargo": 256 }
   ]
 }

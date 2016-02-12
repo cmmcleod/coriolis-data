@@ -1,12 +1,12 @@
 {
   "ft": [
-    { "id": "f1", "edID": 128064346, "eddbID": 1199, "grp": "ft", "class": 1, "rating": "C", "cost": 1000, "capacity": 2 },
-    { "id": "f2", "edID": 128064347, "eddbID": 1200, "grp": "ft", "class": 2, "rating": "C", "cost": 3750, "capacity": 4 },
-    { "id": "f3", "edID": 128064348, "eddbID": 1201, "grp": "ft", "class": 3, "rating": "C", "cost": 7060, "capacity": 8 },
-    { "id": "f4", "edID": 128064349, "eddbID": 1202, "grp": "ft", "class": 4, "rating": "C", "cost": 24730, "capacity": 16 },
-    { "id": "f5", "edID": 128064350, "eddbID": 1203, "grp": "ft", "class": 5, "rating": "C", "cost": 97750, "capacity": 32 },
-    { "id": "f6", "edID": 128064351, "eddbID": 1204, "grp": "ft", "class": 6, "rating": "C", "cost": 341580, "capacity": 64 },
-    { "id": "f7", "edID": 128064352, "eddbID": 1205, "grp": "ft", "class": 7, "rating": "C", "cost": 1780910, "capacity": 128 },
-    { "id": "f8", "edID": 128064353, "eddbID": 1206, "grp": "ft", "class": 8, "rating": "C", "cost": 5428400, "capacity": 256 }
+    { "id": "f1", "edID": 128064346, "eddbID": 1199, "grp": "ft", "class": 1, "rating": "C", "cost": 1000, "fuel": 2 },
+    { "id": "f2", "edID": 128064347, "eddbID": 1200, "grp": "ft", "class": 2, "rating": "C", "cost": 3750, "fuel": 4 },
+    { "id": "f3", "edID": 128064348, "eddbID": 1201, "grp": "ft", "class": 3, "rating": "C", "cost": 7060, "fuel": 8 },
+    { "id": "f4", "edID": 128064349, "eddbID": 1202, "grp": "ft", "class": 4, "rating": "C", "cost": 24730, "fuel": 16 },
+    { "id": "f5", "edID": 128064350, "eddbID": 1203, "grp": "ft", "class": 5, "rating": "C", "cost": 97750, "fuel": 32 },
+    { "id": "f6", "edID": 128064351, "eddbID": 1204, "grp": "ft", "class": 6, "rating": "C", "cost": 341580, "fuel": 64 },
+    { "id": "f7", "edID": 128064352, "eddbID": 1205, "grp": "ft", "class": 7, "rating": "C", "cost": 1780910, "fuel": 128 },
+    { "id": "f8", "edID": 128064353, "eddbID": 1206, "grp": "ft", "class": 8, "rating": "C", "cost": 5428400, "fuel": 256 }
   ]
 }

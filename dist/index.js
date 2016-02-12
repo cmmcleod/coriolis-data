@@ -1612,6 +1612,7 @@ module.exports = {
     standard: [ {
       "8E": {
         id: "py",
+        edID: 128064063,
         eddbID: 921,
         grp: "pp",
         "class": 8,
@@ -1623,6 +1624,7 @@ module.exports = {
       },
       "8D": {
         id: "px",
+        edID: 128064064,
         eddbID: 922,
         grp: "pp",
         "class": 8,
@@ -1634,6 +1636,7 @@ module.exports = {
       },
       "8C": {
         id: "pw",
+        edID: 128064065,
         eddbID: 923,
         grp: "pp",
         "class": 8,
@@ -1645,6 +1648,7 @@ module.exports = {
       },
       "8B": {
         id: "pv",
+        edID: 128064066,
         eddbID: 924,
         grp: "pp",
         "class": 8,
@@ -1656,6 +1660,7 @@ module.exports = {
       },
       "8A": {
         id: "pu",
+        edID: 128064067,
         eddbID: 925,
         grp: "pp",
         "class": 8,
@@ -1667,6 +1672,7 @@ module.exports = {
       },
       "7E": {
         id: "pt",
+        edID: 128064058,
         eddbID: 916,
         grp: "pp",
         "class": 7,
@@ -1678,6 +1684,7 @@ module.exports = {
       },
       "7D": {
         id: "ps",
+        edID: 128064059,
         eddbID: 917,
         grp: "pp",
         "class": 7,
@@ -1689,6 +1696,7 @@ module.exports = {
       },
       "7C": {
         id: "pr",
+        edID: 128064060,
         eddbID: 918,
         grp: "pp",
         "class": 7,
@@ -1700,6 +1708,7 @@ module.exports = {
       },
       "7B": {
         id: "pq",
+        edID: 128064061,
         eddbID: 919,
         grp: "pp",
         "class": 7,
@@ -1711,6 +1720,7 @@ module.exports = {
       },
       "7A": {
         id: "pp",
+        edID: 128064062,
         eddbID: 920,
         grp: "pp",
         "class": 7,
@@ -1722,6 +1732,7 @@ module.exports = {
       },
       "6E": {
         id: "po",
+        edID: 128064053,
         eddbID: 911,
         grp: "pp",
         "class": 6,
@@ -1733,6 +1744,7 @@ module.exports = {
       },
       "6D": {
         id: "pn",
+        edID: 128064054,
         eddbID: 912,
         grp: "pp",
         "class": 6,
@@ -1744,6 +1756,7 @@ module.exports = {
       },
       "6C": {
         id: "pm",
+        edID: 128064055,
         eddbID: 913,
         grp: "pp",
         "class": 6,
@@ -1755,6 +1768,7 @@ module.exports = {
       },
       "6B": {
         id: "pl",
+        edID: 128064056,
         eddbID: 914,
         grp: "pp",
         "class": 6,
@@ -1766,6 +1780,7 @@ module.exports = {
       },
       "6A": {
         id: "pk",
+        edID: 128064057,
         eddbID: 915,
         grp: "pp",
         "class": 6,
@@ -1777,6 +1792,7 @@ module.exports = {
       },
       "5E": {
         id: "pj",
+        edID: 128064048,
         eddbID: 906,
         grp: "pp",
         "class": 5,
@@ -1788,6 +1804,7 @@ module.exports = {
       },
       "5D": {
         id: "pi",
+        edID: 128064049,
         eddbID: 907,
         grp: "pp",
         "class": 5,
@@ -1799,6 +1816,7 @@ module.exports = {
       },
       "5C": {
         id: "ph",
+        edID: 128064050,
         eddbID: 908,
         grp: "pp",
         "class": 5,
@@ -1810,6 +1828,7 @@ module.exports = {
       },
       "5B": {
         id: "pg",
+        edID: 128064051,
         eddbID: 909,
         grp: "pp",
         "class": 5,
@@ -1821,6 +1840,7 @@ module.exports = {
       },
       "5A": {
         id: "pf",
+        edID: 128064052,
         eddbID: 910,
         grp: "pp",
         "class": 5,
@@ -1832,6 +1852,7 @@ module.exports = {
       },
       "4E": {
         id: "pe",
+        edID: 128064043,
         eddbID: 901,
         grp: "pp",
         "class": 4,
@@ -1843,6 +1864,7 @@ module.exports = {
       },
       "4D": {
         id: "pd",
+        edID: 128064044,
         eddbID: 902,
         grp: "pp",
         "class": 4,
@@ -1854,6 +1876,7 @@ module.exports = {
       },
       "4C": {
         id: "pc",
+        edID: 128064045,
         eddbID: 903,
         grp: "pp",
         "class": 4,
@@ -1865,6 +1888,7 @@ module.exports = {
       },
       "4B": {
         id: "pb",
+        edID: 128064046,
         eddbID: 904,
         grp: "pp",
         "class": 4,
@@ -1876,6 +1900,7 @@ module.exports = {
       },
       "4A": {
         id: "pa",
+        edID: 128064047,
         eddbID: 905,
         grp: "pp",
         "class": 4,
@@ -1887,6 +1912,7 @@ module.exports = {
       },
       "3E": {
         id: "p9",
+        edID: 128064038,
         eddbID: 896,
         grp: "pp",
         "class": 3,
@@ -1898,6 +1924,7 @@ module.exports = {
       },
       "3D": {
         id: "p8",
+        edID: 128064039,
         eddbID: 897,
         grp: "pp",
         "class": 3,
@@ -1909,6 +1936,7 @@ module.exports = {
       },
       "3C": {
         id: "p7",
+        edID: 128064040,
         eddbID: 898,
         grp: "pp",
         "class": 3,
@@ -1920,6 +1948,7 @@ module.exports = {
       },
       "3B": {
         id: "p6",
+        edID: 128064041,
         eddbID: 899,
         grp: "pp",
         "class": 3,
@@ -1931,6 +1960,7 @@ module.exports = {
       },
       "3A": {
         id: "p5",
+        edID: 128064042,
         eddbID: 900,
         grp: "pp",
         "class": 3,
@@ -1942,6 +1972,7 @@ module.exports = {
       },
       "2E": {
         id: "p4",
+        edID: 128064033,
         eddbID: 891,
         grp: "pp",
         "class": 2,
@@ -1953,6 +1984,7 @@ module.exports = {
       },
       "2D": {
         id: "p3",
+        edID: 128064034,
         eddbID: 892,
         grp: "pp",
         "class": 2,
@@ -1964,6 +1996,7 @@ module.exports = {
       },
       "2C": {
         id: "p2",
+        edID: 128064035,
         eddbID: 893,
         grp: "pp",
         "class": 2,
@@ -1975,6 +2008,7 @@ module.exports = {
       },
       "2B": {
         id: "p1",
+        edID: 128064036,
         eddbID: 894,
         grp: "pp",
         "class": 2,
@@ -1986,6 +2020,7 @@ module.exports = {
       },
       "2A": {
         id: "p0",
+        edID: 128064037,
         eddbID: 895,
         grp: "pp",
         "class": 2,
@@ -1998,6 +2033,7 @@ module.exports = {
     }, {
       "8E": {
         id: "ty",
+        edID: 128064098,
         eddbID: 956,
         grp: "t",
         "class": 8,
@@ -2012,6 +2048,7 @@ module.exports = {
       },
       "8D": {
         id: "tx",
+        edID: 128064099,
         eddbID: 957,
         grp: "t",
         "class": 8,
@@ -2026,6 +2063,7 @@ module.exports = {
       },
       "8C": {
         id: "tw",
+        edID: 128064100,
         eddbID: 958,
         grp: "t",
         "class": 8,
@@ -2040,6 +2078,7 @@ module.exports = {
       },
       "8B": {
         id: "tv",
+        edID: 128064101,
         eddbID: 959,
         grp: "t",
         "class": 8,
@@ -2054,6 +2093,7 @@ module.exports = {
       },
       "8A": {
         id: "tu",
+        edID: 128064102,
         eddbID: 960,
         grp: "t",
         "class": 8,
@@ -2068,6 +2108,7 @@ module.exports = {
       },
       "7E": {
         id: "tt",
+        edID: 128064093,
         eddbID: 951,
         grp: "t",
         "class": 7,
@@ -2082,6 +2123,7 @@ module.exports = {
       },
       "7D": {
         id: "ts",
+        edID: 128064094,
         eddbID: 952,
         grp: "t",
         "class": 7,
@@ -2096,6 +2138,7 @@ module.exports = {
       },
       "7C": {
         id: "tr",
+        edID: 128064095,
         eddbID: 953,
         grp: "t",
         "class": 7,
@@ -2110,6 +2153,7 @@ module.exports = {
       },
       "7B": {
         id: "tq",
+        edID: 128064096,
         eddbID: 954,
         grp: "t",
         "class": 7,
@@ -2124,6 +2168,7 @@ module.exports = {
       },
       "7A": {
         id: "tp",
+        edID: 128064097,
         eddbID: 955,
         grp: "t",
         "class": 7,
@@ -2138,6 +2183,7 @@ module.exports = {
       },
       "6E": {
         id: "to",
+        edID: 128064088,
         eddbID: 946,
         grp: "t",
         "class": 6,
@@ -2152,6 +2198,7 @@ module.exports = {
       },
       "6D": {
         id: "tn",
+        edID: 128064089,
         eddbID: 947,
         grp: "t",
         "class": 6,
@@ -2166,6 +2213,7 @@ module.exports = {
       },
       "6C": {
         id: "tm",
+        edID: 128064090,
         eddbID: 948,
         grp: "t",
         "class": 6,
@@ -2180,6 +2228,7 @@ module.exports = {
       },
       "6B": {
         id: "tl",
+        edID: 128064091,
         eddbID: 949,
         grp: "t",
         "class": 6,
@@ -2194,6 +2243,7 @@ module.exports = {
       },
       "6A": {
         id: "tk",
+        edID: 128064092,
         eddbID: 950,
         grp: "t",
         "class": 6,
@@ -2208,6 +2258,7 @@ module.exports = {
       },
       "5E": {
         id: "tj",
+        edID: 128064083,
         eddbID: 941,
         grp: "t",
         "class": 5,
@@ -2222,6 +2273,7 @@ module.exports = {
       },
       "5D": {
         id: "ti",
+        edID: 128064084,
         eddbID: 942,
         grp: "t",
         "class": 5,
@@ -2236,6 +2288,7 @@ module.exports = {
       },
       "5C": {
         id: "th",
+        edID: 128064085,
         eddbID: 943,
         grp: "t",
         "class": 5,
@@ -2250,6 +2303,7 @@ module.exports = {
       },
       "5B": {
         id: "tg",
+        edID: 128064086,
         eddbID: 944,
         grp: "t",
         "class": 5,
@@ -2264,6 +2318,7 @@ module.exports = {
       },
       "5A": {
         id: "tf",
+        edID: 128064087,
         eddbID: 945,
         grp: "t",
         "class": 5,
@@ -2278,6 +2333,7 @@ module.exports = {
       },
       "4E": {
         id: "te",
+        edID: 128064078,
         eddbID: 936,
         grp: "t",
         "class": 4,
@@ -2292,6 +2348,7 @@ module.exports = {
       },
       "4D": {
         id: "td",
+        edID: 128064079,
         eddbID: 937,
         grp: "t",
         "class": 4,
@@ -2306,6 +2363,7 @@ module.exports = {
       },
       "4C": {
         id: "tc",
+        edID: 128064080,
         eddbID: 938,
         grp: "t",
         "class": 4,
@@ -2320,6 +2378,7 @@ module.exports = {
       },
       "4B": {
         id: "tb",
+        edID: 128064081,
         eddbID: 939,
         grp: "t",
         "class": 4,
@@ -2334,6 +2393,7 @@ module.exports = {
       },
       "4A": {
         id: "ta",
+        edID: 128064082,
         eddbID: 940,
         grp: "t",
         "class": 4,
@@ -2348,6 +2408,7 @@ module.exports = {
       },
       "3E": {
         id: "t9",
+        edID: 128064073,
         eddbID: 931,
         grp: "t",
         "class": 3,
@@ -2362,6 +2423,7 @@ module.exports = {
       },
       "3D": {
         id: "t8",
+        edID: 128064074,
         eddbID: 932,
         grp: "t",
         "class": 3,
@@ -2376,6 +2438,7 @@ module.exports = {
       },
       "3C": {
         id: "t7",
+        edID: 128064075,
         eddbID: 933,
         grp: "t",
         "class": 3,
@@ -2390,6 +2453,7 @@ module.exports = {
       },
       "3B": {
         id: "t6",
+        edID: 128064076,
         eddbID: 934,
         grp: "t",
         "class": 3,
@@ -2404,6 +2468,7 @@ module.exports = {
       },
       "3A": {
         id: "t5",
+        edID: 128064077,
         eddbID: 935,
         grp: "t",
         "class": 3,
@@ -2418,6 +2483,7 @@ module.exports = {
       },
       "2E": {
         id: "t4",
+        edID: 128064068,
         eddbID: 926,
         grp: "t",
         "class": 2,
@@ -2432,6 +2498,7 @@ module.exports = {
       },
       "2D": {
         id: "t3",
+        edID: 128064069,
         eddbID: 927,
         grp: "t",
         "class": 2,
@@ -2446,6 +2513,7 @@ module.exports = {
       },
       "2C": {
         id: "t2",
+        edID: 128064070,
         eddbID: 928,
         grp: "t",
         "class": 2,
@@ -2460,6 +2528,7 @@ module.exports = {
       },
       "2B": {
         id: "t1",
+        edID: 128064071,
         eddbID: 929,
         grp: "t",
         "class": 2,
@@ -2474,6 +2543,7 @@ module.exports = {
       },
       "2A": {
         id: "t0",
+        edID: 128064072,
         eddbID: 930,
         grp: "t",
         "class": 2,
@@ -2489,6 +2559,7 @@ module.exports = {
     }, {
       "8E": {
         id: "Fy",
+        edID: 128064133,
         eddbID: 991,
         grp: "fd",
         "class": 8,
@@ -2503,6 +2574,7 @@ module.exports = {
       },
       "8D": {
         id: "Fx",
+        edID: 128064134,
         eddbID: 992,
         grp: "fd",
         "class": 8,
@@ -2517,6 +2589,7 @@ module.exports = {
       },
       "8C": {
         id: "Fw",
+        edID: 128064135,
         eddbID: 993,
         grp: "fd",
         "class": 8,
@@ -2531,6 +2604,7 @@ module.exports = {
       },
       "8B": {
         id: "Fv",
+        edID: 128064136,
         eddbID: 994,
         grp: "fd",
         "class": 8,
@@ -2545,6 +2619,7 @@ module.exports = {
       },
       "8A": {
         id: "Fu",
+        edID: 128064137,
         eddbID: 995,
         grp: "fd",
         "class": 8,
@@ -2559,6 +2634,7 @@ module.exports = {
       },
       "7E": {
         id: "Ft",
+        edID: 128064128,
         eddbID: 986,
         grp: "fd",
         "class": 7,
@@ -2573,6 +2649,7 @@ module.exports = {
       },
       "7D": {
         id: "Fs",
+        edID: 128064129,
         eddbID: 987,
         grp: "fd",
         "class": 7,
@@ -2587,6 +2664,7 @@ module.exports = {
       },
       "7C": {
         id: "Fr",
+        edID: 128064130,
         eddbID: 988,
         grp: "fd",
         "class": 7,
@@ -2601,6 +2679,7 @@ module.exports = {
       },
       "7B": {
         id: "Fq",
+        edID: 128064131,
         eddbID: 989,
         grp: "fd",
         "class": 7,
@@ -2615,6 +2694,7 @@ module.exports = {
       },
       "7A": {
         id: "Fp",
+        edID: 128064132,
         eddbID: 990,
         grp: "fd",
         "class": 7,
@@ -2629,6 +2709,7 @@ module.exports = {
       },
       "6E": {
         id: "Fo",
+        edID: 128064123,
         eddbID: 981,
         grp: "fd",
         "class": 6,
@@ -2643,6 +2724,7 @@ module.exports = {
       },
       "6D": {
         id: "Fn",
+        edID: 128064124,
         eddbID: 982,
         grp: "fd",
         "class": 6,
@@ -2657,6 +2739,7 @@ module.exports = {
       },
       "6C": {
         id: "Fm",
+        edID: 128064125,
         eddbID: 983,
         grp: "fd",
         "class": 6,
@@ -2671,6 +2754,7 @@ module.exports = {
       },
       "6B": {
         id: "Fl",
+        edID: 128064126,
         eddbID: 984,
         grp: "fd",
         "class": 6,
@@ -2685,6 +2769,7 @@ module.exports = {
       },
       "6A": {
         id: "Fk",
+        edID: 128064127,
         eddbID: 985,
         grp: "fd",
         "class": 6,
@@ -2699,6 +2784,7 @@ module.exports = {
       },
       "5E": {
         id: "Fj",
+        edID: 128064118,
         eddbID: 976,
         grp: "fd",
         "class": 5,
@@ -2713,6 +2799,7 @@ module.exports = {
       },
       "5D": {
         id: "Fi",
+        edID: 128064119,
         eddbID: 977,
         grp: "fd",
         "class": 5,
@@ -2727,6 +2814,7 @@ module.exports = {
       },
       "5C": {
         id: "Fh",
+        edID: 128064120,
         eddbID: 978,
         grp: "fd",
         "class": 5,
@@ -2741,6 +2829,7 @@ module.exports = {
       },
       "5B": {
         id: "Fg",
+        edID: 128064121,
         eddbID: 979,
         grp: "fd",
         "class": 5,
@@ -2755,6 +2844,7 @@ module.exports = {
       },
       "5A": {
         id: "Ff",
+        edID: 128064122,
         eddbID: 980,
         grp: "fd",
         "class": 5,
@@ -2769,6 +2859,7 @@ module.exports = {
       },
       "4E": {
         id: "Fe",
+        edID: 128064113,
         eddbID: 971,
         grp: "fd",
         "class": 4,
@@ -2783,6 +2874,7 @@ module.exports = {
       },
       "4D": {
         id: "Fd",
+        edID: 128064114,
         eddbID: 972,
         grp: "fd",
         "class": 4,
@@ -2797,6 +2889,7 @@ module.exports = {
       },
       "4C": {
         id: "Fc",
+        edID: 128064115,
         eddbID: 973,
         grp: "fd",
         "class": 4,
@@ -2811,6 +2904,7 @@ module.exports = {
       },
       "4B": {
         id: "Fb",
+        edID: 128064116,
         eddbID: 974,
         grp: "fd",
         "class": 4,
@@ -2825,6 +2919,7 @@ module.exports = {
       },
       "4A": {
         id: "Fa",
+        edID: 128064117,
         eddbID: 975,
         grp: "fd",
         "class": 4,
@@ -2839,6 +2934,7 @@ module.exports = {
       },
       "3E": {
         id: "F9",
+        edID: 128064108,
         eddbID: 966,
         grp: "fd",
         "class": 3,
@@ -2853,6 +2949,7 @@ module.exports = {
       },
       "3D": {
         id: "F8",
+        edID: 128064109,
         eddbID: 967,
         grp: "fd",
         "class": 3,
@@ -2867,6 +2964,7 @@ module.exports = {
       },
       "3C": {
         id: "F7",
+        edID: 128064110,
         eddbID: 968,
         grp: "fd",
         "class": 3,
@@ -2881,6 +2979,7 @@ module.exports = {
       },
       "3B": {
         id: "F6",
+        edID: 128064111,
         eddbID: 969,
         grp: "fd",
         "class": 3,
@@ -2895,6 +2994,7 @@ module.exports = {
       },
       "3A": {
         id: "F5",
+        edID: 128064112,
         eddbID: 970,
         grp: "fd",
         "class": 3,
@@ -2909,6 +3009,7 @@ module.exports = {
       },
       "2E": {
         id: "F4",
+        edID: 128064103,
         eddbID: 961,
         grp: "fd",
         "class": 2,
@@ -2923,6 +3024,7 @@ module.exports = {
       },
       "2D": {
         id: "F3",
+        edID: 128064104,
         eddbID: 962,
         grp: "fd",
         "class": 2,
@@ -2937,6 +3039,7 @@ module.exports = {
       },
       "2C": {
         id: "F2",
+        edID: 128064105,
         eddbID: 963,
         grp: "fd",
         "class": 2,
@@ -2951,6 +3054,7 @@ module.exports = {
       },
       "2B": {
         id: "F1",
+        edID: 128064106,
         eddbID: 964,
         grp: "fd",
         "class": 2,
@@ -2965,6 +3069,7 @@ module.exports = {
       },
       "2A": {
         id: "F0",
+        edID: 128064107,
         eddbID: 965,
         grp: "fd",
         "class": 2,
@@ -2980,6 +3085,7 @@ module.exports = {
     }, {
       "8E": {
         id: "lD",
+        edID: 128064173,
         eddbID: 1031,
         grp: "ls",
         "class": 8,
@@ -2991,6 +3097,7 @@ module.exports = {
       },
       "8D": {
         id: "lC",
+        edID: 128064174,
         eddbID: 1032,
         grp: "ls",
         "class": 8,
@@ -3002,6 +3109,7 @@ module.exports = {
       },
       "8C": {
         id: "lB",
+        edID: 128064175,
         eddbID: 1033,
         grp: "ls",
         "class": 8,
@@ -3013,6 +3121,7 @@ module.exports = {
       },
       "8B": {
         id: "lA",
+        edID: 128064176,
         eddbID: 1034,
         grp: "ls",
         "class": 8,
@@ -3024,6 +3133,7 @@ module.exports = {
       },
       "8A": {
         id: "lz",
+        edID: 128064177,
         eddbID: 1035,
         grp: "ls",
         "class": 8,
@@ -3035,6 +3145,7 @@ module.exports = {
       },
       "7E": {
         id: "ly",
+        edID: 128064168,
         eddbID: 1026,
         grp: "ls",
         "class": 7,
@@ -3046,6 +3157,7 @@ module.exports = {
       },
       "7D": {
         id: "lx",
+        edID: 128064169,
         eddbID: 1027,
         grp: "ls",
         "class": 7,
@@ -3057,6 +3169,7 @@ module.exports = {
       },
       "7C": {
         id: "lw",
+        edID: 128064170,
         eddbID: 1028,
         grp: "ls",
         "class": 7,
@@ -3068,6 +3181,7 @@ module.exports = {
       },
       "7B": {
         id: "lv",
+        edID: 128064171,
         eddbID: 1029,
         grp: "ls",
         "class": 7,
@@ -3079,6 +3193,7 @@ module.exports = {
       },
       "7A": {
         id: "lu",
+        edID: 128064172,
         eddbID: 1030,
         grp: "ls",
         "class": 7,
@@ -3090,6 +3205,7 @@ module.exports = {
       },
       "6E": {
         id: "lt",
+        edID: 128064163,
         eddbID: 1021,
         grp: "ls",
         "class": 6,
@@ -3101,6 +3217,7 @@ module.exports = {
       },
       "6D": {
         id: "ls",
+        edID: 128064164,
         eddbID: 1022,
         grp: "ls",
         "class": 6,
@@ -3112,6 +3229,7 @@ module.exports = {
       },
       "6C": {
         id: "lr",
+        edID: 128064165,
         eddbID: 1023,
         grp: "ls",
         "class": 6,
@@ -3123,6 +3241,7 @@ module.exports = {
       },
       "6B": {
         id: "lq",
+        edID: 128064166,
         eddbID: 1024,
         grp: "ls",
         "class": 6,
@@ -3134,6 +3253,7 @@ module.exports = {
       },
       "6A": {
         id: "lp",
+        edID: 128064167,
         eddbID: 1025,
         grp: "ls",
         "class": 6,
@@ -3145,6 +3265,7 @@ module.exports = {
       },
       "5E": {
         id: "lo",
+        edID: 128064158,
         eddbID: 1016,
         grp: "ls",
         "class": 5,
@@ -3156,6 +3277,7 @@ module.exports = {
       },
       "5D": {
         id: "ln",
+        edID: 128064159,
         eddbID: 1017,
         grp: "ls",
         "class": 5,
@@ -3167,6 +3289,7 @@ module.exports = {
       },
       "5C": {
         id: "lm",
+        edID: 128064160,
         eddbID: 1018,
         grp: "ls",
         "class": 5,
@@ -3178,6 +3301,7 @@ module.exports = {
       },
       "5B": {
         id: "ll",
+        edID: 128064161,
         eddbID: 1019,
         grp: "ls",
         "class": 5,
@@ -3189,6 +3313,7 @@ module.exports = {
       },
       "5A": {
         id: "lk",
+        edID: 128064162,
         eddbID: 1020,
         grp: "ls",
         "class": 5,
@@ -3200,6 +3325,7 @@ module.exports = {
       },
       "4E": {
         id: "lj",
+        edID: 128064153,
         eddbID: 1011,
         grp: "ls",
         "class": 4,
@@ -3211,6 +3337,7 @@ module.exports = {
       },
       "4D": {
         id: "li",
+        edID: 128064154,
         eddbID: 1012,
         grp: "ls",
         "class": 4,
@@ -3222,6 +3349,7 @@ module.exports = {
       },
       "4C": {
         id: "lh",
+        edID: 128064155,
         eddbID: 1013,
         grp: "ls",
         "class": 4,
@@ -3233,6 +3361,7 @@ module.exports = {
       },
       "4B": {
         id: "lg",
+        edID: 128064156,
         eddbID: 1014,
         grp: "ls",
         "class": 4,
@@ -3244,6 +3373,7 @@ module.exports = {
       },
       "4A": {
         id: "lf",
+        edID: 128064157,
         eddbID: 1015,
         grp: "ls",
         "class": 4,
@@ -3255,6 +3385,7 @@ module.exports = {
       },
       "3E": {
         id: "le",
+        edID: 128064148,
         eddbID: 1006,
         grp: "ls",
         "class": 3,
@@ -3266,6 +3397,7 @@ module.exports = {
       },
       "3D": {
         id: "ld",
+        edID: 128064149,
         eddbID: 1007,
         grp: "ls",
         "class": 3,
@@ -3277,6 +3409,7 @@ module.exports = {
       },
       "3C": {
         id: "lc",
+        edID: 128064150,
         eddbID: 1008,
         grp: "ls",
         "class": 3,
@@ -3288,6 +3421,7 @@ module.exports = {
       },
       "3B": {
         id: "lb",
+        edID: 128064151,
         eddbID: 1009,
         grp: "ls",
         "class": 3,
@@ -3299,6 +3433,7 @@ module.exports = {
       },
       "3A": {
         id: "la",
+        edID: 128064152,
         eddbID: 1010,
         grp: "ls",
         "class": 3,
@@ -3310,6 +3445,7 @@ module.exports = {
       },
       "2E": {
         id: "l9",
+        edID: 128064143,
         eddbID: 1001,
         grp: "ls",
         "class": 2,
@@ -3321,6 +3457,7 @@ module.exports = {
       },
       "2D": {
         id: "l8",
+        edID: 128064144,
         eddbID: 1002,
         grp: "ls",
         "class": 2,
@@ -3332,6 +3469,7 @@ module.exports = {
       },
       "2C": {
         id: "l7",
+        edID: 128064145,
         eddbID: 1003,
         grp: "ls",
         "class": 2,
@@ -3343,6 +3481,7 @@ module.exports = {
       },
       "2B": {
         id: "l6",
+        edID: 128064146,
         eddbID: 1004,
         grp: "ls",
         "class": 2,
@@ -3354,6 +3493,7 @@ module.exports = {
       },
       "2A": {
         id: "l5",
+        edID: 128064147,
         eddbID: 1005,
         grp: "ls",
         "class": 2,
@@ -3365,6 +3505,7 @@ module.exports = {
       },
       "1E": {
         id: "l4",
+        edID: 128064138,
         eddbID: 996,
         grp: "ls",
         "class": 1,
@@ -3376,6 +3517,7 @@ module.exports = {
       },
       "1D": {
         id: "l3",
+        edID: 128064139,
         eddbID: 997,
         grp: "ls",
         "class": 1,
@@ -3387,6 +3529,7 @@ module.exports = {
       },
       "1C": {
         id: "l2",
+        edID: 128064140,
         eddbID: 998,
         grp: "ls",
         "class": 1,
@@ -3398,6 +3541,7 @@ module.exports = {
       },
       "1B": {
         id: "l1",
+        edID: 128064141,
         eddbID: 999,
         grp: "ls",
         "class": 1,
@@ -3409,6 +3553,7 @@ module.exports = {
       },
       "1A": {
         id: "l0",
+        edID: 128064142,
         eddbID: 1e3,
         grp: "ls",
         "class": 1,
@@ -3421,6 +3566,7 @@ module.exports = {
     }, {
       "8E": {
         id: "dD",
+        edID: 128064213,
         eddbID: 1071,
         grp: "pd",
         "class": 8,
@@ -3437,6 +3583,7 @@ module.exports = {
       },
       "8D": {
         id: "dC",
+        edID: 128064214,
         eddbID: 1072,
         grp: "pd",
         "class": 8,
@@ -3453,6 +3600,7 @@ module.exports = {
       },
       "8C": {
         id: "dB",
+        edID: 128064215,
         eddbID: 1073,
         grp: "pd",
         "class": 8,
@@ -3469,6 +3617,7 @@ module.exports = {
       },
       "8B": {
         id: "dA",
+        edID: 128064216,
         eddbID: 1074,
         grp: "pd",
         "class": 8,
@@ -3485,6 +3634,7 @@ module.exports = {
       },
       "8A": {
         id: "dz",
+        edID: 128064217,
         eddbID: 1075,
         grp: "pd",
         "class": 8,
@@ -3501,6 +3651,7 @@ module.exports = {
       },
       "7E": {
         id: "dy",
+        edID: 128064208,
         eddbID: 1066,
         grp: "pd",
         "class": 7,
@@ -3517,6 +3668,7 @@ module.exports = {
       },
       "7D": {
         id: "dx",
+        edID: 128064209,
         eddbID: 1067,
         grp: "pd",
         "class": 7,
@@ -3533,6 +3685,7 @@ module.exports = {
       },
       "7C": {
         id: "dw",
+        edID: 128064210,
         eddbID: 1068,
         grp: "pd",
         "class": 7,
@@ -3549,6 +3702,7 @@ module.exports = {
       },
       "7B": {
         id: "dv",
+        edID: 128064211,
         eddbID: 1069,
         grp: "pd",
         "class": 7,
@@ -3565,6 +3719,7 @@ module.exports = {
       },
       "7A": {
         id: "du",
+        edID: 128064212,
         eddbID: 1070,
         grp: "pd",
         "class": 7,
@@ -3581,6 +3736,7 @@ module.exports = {
       },
       "6E": {
         id: "dt",
+        edID: 128064203,
         eddbID: 1061,
         grp: "pd",
         "class": 6,
@@ -3597,6 +3753,7 @@ module.exports = {
       },
       "6D": {
         id: "ds",
+        edID: 128064204,
         eddbID: 1062,
         grp: "pd",
         "class": 6,
@@ -3613,6 +3770,7 @@ module.exports = {
       },
       "6C": {
         id: "dr",
+        edID: 128064205,
         eddbID: 1063,
         grp: "pd",
         "class": 6,
@@ -3629,6 +3787,7 @@ module.exports = {
       },
       "6B": {
         id: "dq",
+        edID: 128064206,
         eddbID: 1064,
         grp: "pd",
         "class": 6,
@@ -3645,6 +3804,7 @@ module.exports = {
       },
       "6A": {
         id: "dp",
+        edID: 128064207,
         eddbID: 1065,
         grp: "pd",
         "class": 6,
@@ -3661,6 +3821,7 @@ module.exports = {
       },
       "5E": {
         id: "do",
+        edID: 128064198,
         eddbID: 1056,
         grp: "pd",
         "class": 5,
@@ -3677,6 +3838,7 @@ module.exports = {
       },
       "5D": {
         id: "dn",
+        edID: 128064199,
         eddbID: 1057,
         grp: "pd",
         "class": 5,
@@ -3693,6 +3855,7 @@ module.exports = {
       },
       "5C": {
         id: "dm",
+        edID: 128064200,
         eddbID: 1058,
         grp: "pd",
         "class": 5,
@@ -3709,6 +3872,7 @@ module.exports = {
       },
       "5B": {
         id: "dl",
+        edID: 128064201,
         eddbID: 1059,
         grp: "pd",
         "class": 5,
@@ -3725,6 +3889,7 @@ module.exports = {
       },
       "5A": {
         id: "dk",
+        edID: 128064202,
         eddbID: 1060,
         grp: "pd",
         "class": 5,
@@ -3741,6 +3906,7 @@ module.exports = {
       },
       "4E": {
         id: "dj",
+        edID: 128064193,
         eddbID: 1051,
         grp: "pd",
         "class": 4,
@@ -3757,6 +3923,7 @@ module.exports = {
       },
       "4D": {
         id: "di",
+        edID: 128064194,
         eddbID: 1052,
         grp: "pd",
         "class": 4,
@@ -3773,6 +3940,7 @@ module.exports = {
       },
       "4C": {
         id: "dh",
+        edID: 128064195,
         eddbID: 1053,
         grp: "pd",
         "class": 4,
@@ -3789,6 +3957,7 @@ module.exports = {
       },
       "4B": {
         id: "dg",
+        edID: 128064196,
         eddbID: 1054,
         grp: "pd",
         "class": 4,
@@ -3805,6 +3974,7 @@ module.exports = {
       },
       "4A": {
         id: "df",
+        edID: 128064197,
         eddbID: 1055,
         grp: "pd",
         "class": 4,
@@ -3821,6 +3991,7 @@ module.exports = {
       },
       "3E": {
         id: "de",
+        edID: 128064188,
         eddbID: 1046,
         grp: "pd",
         "class": 3,
@@ -3837,6 +4008,7 @@ module.exports = {
       },
       "3D": {
         id: "dd",
+        edID: 128064189,
         eddbID: 1047,
         grp: "pd",
         "class": 3,
@@ -3853,6 +4025,7 @@ module.exports = {
       },
       "3C": {
         id: "dc",
+        edID: 128064190,
         eddbID: 1048,
         grp: "pd",
         "class": 3,
@@ -3869,6 +4042,7 @@ module.exports = {
       },
       "3B": {
         id: "db",
+        edID: 128064191,
         eddbID: 1049,
         grp: "pd",
         "class": 3,
@@ -3885,6 +4059,7 @@ module.exports = {
       },
       "3A": {
         id: "da",
+        edID: 128064192,
         eddbID: 1050,
         grp: "pd",
         "class": 3,
@@ -3901,6 +4076,7 @@ module.exports = {
       },
       "2E": {
         id: "d9",
+        edID: 128064183,
         eddbID: 1041,
         grp: "pd",
         "class": 2,
@@ -3917,6 +4093,7 @@ module.exports = {
       },
       "2D": {
         id: "d8",
+        edID: 128064184,
         eddbID: 1042,
         grp: "pd",
         "class": 2,
@@ -3933,6 +4110,7 @@ module.exports = {
       },
       "2C": {
         id: "d7",
+        edID: 128064185,
         eddbID: 1043,
         grp: "pd",
         "class": 2,
@@ -3949,6 +4127,7 @@ module.exports = {
       },
       "2B": {
         id: "d6",
+        edID: 128064186,
         eddbID: 1044,
         grp: "pd",
         "class": 2,
@@ -3965,6 +4144,7 @@ module.exports = {
       },
       "2A": {
         id: "d5",
+        edID: 128064187,
         eddbID: 1045,
         grp: "pd",
         "class": 2,
@@ -3981,6 +4161,7 @@ module.exports = {
       },
       "1E": {
         id: "d4",
+        edID: 128064178,
         eddbID: 1036,
         grp: "pd",
         "class": 1,
@@ -3997,6 +4178,7 @@ module.exports = {
       },
       "1D": {
         id: "d3",
+        edID: 128064179,
         eddbID: 1037,
         grp: "pd",
         "class": 1,
@@ -4013,6 +4195,7 @@ module.exports = {
       },
       "1C": {
         id: "d2",
+        edID: 128064180,
         eddbID: 1038,
         grp: "pd",
         "class": 1,
@@ -4029,6 +4212,7 @@ module.exports = {
       },
       "1B": {
         id: "d1",
+        edID: 128064181,
         eddbID: 1039,
         grp: "pd",
         "class": 1,
@@ -4045,6 +4229,7 @@ module.exports = {
       },
       "1A": {
         id: "d0",
+        edID: 128064182,
         eddbID: 1040,
         grp: "pd",
         "class": 1,
@@ -4062,6 +4247,7 @@ module.exports = {
     }, {
       "8E": {
         id: "sy",
+        edID: 128064253,
         eddbID: 1111,
         grp: "s",
         "class": 8,
@@ -4073,6 +4259,7 @@ module.exports = {
       },
       "8D": {
         id: "sx",
+        edID: 128064254,
         eddbID: 1112,
         grp: "s",
         "class": 8,
@@ -4084,6 +4271,7 @@ module.exports = {
       },
       "8C": {
         id: "sw",
+        edID: 128064255,
         eddbID: 1113,
         grp: "s",
         "class": 8,
@@ -4095,6 +4283,7 @@ module.exports = {
       },
       "8B": {
         id: "sv",
+        edID: 128064256,
         eddbID: 1114,
         grp: "s",
         "class": 8,
@@ -4106,6 +4295,7 @@ module.exports = {
       },
       "8A": {
         id: "su",
+        edID: 128064257,
         eddbID: 1115,
         grp: "s",
         "class": 8,
@@ -4117,6 +4307,7 @@ module.exports = {
       },
       "7E": {
         id: "sD",
+        edID: 128064248,
         eddbID: 1106,
         grp: "s",
         "class": 7,
@@ -4128,6 +4319,7 @@ module.exports = {
       },
       "7D": {
         id: "sC",
+        edID: 128064249,
         eddbID: 1107,
         grp: "s",
         "class": 7,
@@ -4139,6 +4331,7 @@ module.exports = {
       },
       "7C": {
         id: "sB",
+        edID: 128064250,
         eddbID: 1108,
         grp: "s",
         "class": 7,
@@ -4150,6 +4343,7 @@ module.exports = {
       },
       "7B": {
         id: "sA",
+        edID: 128064251,
         eddbID: 1109,
         grp: "s",
         "class": 7,
@@ -4161,6 +4355,7 @@ module.exports = {
       },
       "7A": {
         id: "sz",
+        edID: 128064252,
         eddbID: 1110,
         grp: "s",
         "class": 7,
@@ -4172,6 +4367,7 @@ module.exports = {
       },
       "6E": {
         id: "st",
+        edID: 128064243,
         eddbID: 1101,
         grp: "s",
         "class": 6,
@@ -4183,6 +4379,7 @@ module.exports = {
       },
       "6D": {
         id: "ss",
+        edID: 128064244,
         eddbID: 1102,
         grp: "s",
         "class": 6,
@@ -4194,6 +4391,7 @@ module.exports = {
       },
       "6C": {
         id: "sr",
+        edID: 128064245,
         eddbID: 1103,
         grp: "s",
         "class": 6,
@@ -4205,6 +4403,7 @@ module.exports = {
       },
       "6B": {
         id: "sq",
+        edID: 128064246,
         eddbID: 1104,
         grp: "s",
         "class": 6,
@@ -4216,6 +4415,7 @@ module.exports = {
       },
       "6A": {
         id: "sp",
+        edID: 128064247,
         eddbID: 1105,
         grp: "s",
         "class": 6,
@@ -4227,6 +4427,7 @@ module.exports = {
       },
       "5E": {
         id: "so",
+        edID: 128064238,
         eddbID: 1096,
         grp: "s",
         "class": 5,
@@ -4238,6 +4439,7 @@ module.exports = {
       },
       "5D": {
         id: "sn",
+        edID: 128064239,
         eddbID: 1097,
         grp: "s",
         "class": 5,
@@ -4249,6 +4451,7 @@ module.exports = {
       },
       "5C": {
         id: "sm",
+        edID: 128064240,
         eddbID: 1098,
         grp: "s",
         "class": 5,
@@ -4260,6 +4463,7 @@ module.exports = {
       },
       "5B": {
         id: "sl",
+        edID: 128064241,
         eddbID: 1099,
         grp: "s",
         "class": 5,
@@ -4271,6 +4475,7 @@ module.exports = {
       },
       "5A": {
         id: "sk",
+        edID: 128064242,
         eddbID: 1100,
         grp: "s",
         "class": 5,
@@ -4282,6 +4487,7 @@ module.exports = {
       },
       "4E": {
         id: "sj",
+        edID: 128064233,
         eddbID: 1091,
         grp: "s",
         "class": 4,
@@ -4293,6 +4499,7 @@ module.exports = {
       },
       "4D": {
         id: "si",
+        edID: 128064234,
         eddbID: 1092,
         grp: "s",
         "class": 4,
@@ -4304,6 +4511,7 @@ module.exports = {
       },
       "4C": {
         id: "sh",
+        edID: 128064235,
         eddbID: 1093,
         grp: "s",
         "class": 4,
@@ -4315,6 +4523,7 @@ module.exports = {
       },
       "4B": {
         id: "sg",
+        edID: 128064236,
         eddbID: 1094,
         grp: "s",
         "class": 4,
@@ -4326,6 +4535,7 @@ module.exports = {
       },
       "4A": {
         id: "sf",
+        edID: 128064237,
         eddbID: 1095,
         grp: "s",
         "class": 4,
@@ -4337,6 +4547,7 @@ module.exports = {
       },
       "3E": {
         id: "se",
+        edID: 128064228,
         eddbID: 1086,
         grp: "s",
         "class": 3,
@@ -4348,6 +4559,7 @@ module.exports = {
       },
       "3D": {
         id: "sd",
+        edID: 128064229,
         eddbID: 1087,
         grp: "s",
         "class": 3,
@@ -4359,6 +4571,7 @@ module.exports = {
       },
       "3C": {
         id: "sc",
+        edID: 128064230,
         eddbID: 1088,
         grp: "s",
         "class": 3,
@@ -4370,6 +4583,7 @@ module.exports = {
       },
       "3B": {
         id: "sb",
+        edID: 128064231,
         eddbID: 1089,
         grp: "s",
         "class": 3,
@@ -4381,6 +4595,7 @@ module.exports = {
       },
       "3A": {
         id: "sa",
+        edID: 128064232,
         eddbID: 1090,
         grp: "s",
         "class": 3,
@@ -4392,6 +4607,7 @@ module.exports = {
       },
       "2E": {
         id: "s9",
+        edID: 128064223,
         eddbID: 1081,
         grp: "s",
         "class": 2,
@@ -4403,6 +4619,7 @@ module.exports = {
       },
       "2D": {
         id: "s8",
+        edID: 128064224,
         eddbID: 1082,
         grp: "s",
         "class": 2,
@@ -4414,6 +4631,7 @@ module.exports = {
       },
       "2C": {
         id: "s7",
+        edID: 128064225,
         eddbID: 1083,
         grp: "s",
         "class": 2,
@@ -4425,6 +4643,7 @@ module.exports = {
       },
       "2B": {
         id: "s6",
+        edID: 128064226,
         eddbID: 1084,
         grp: "s",
         "class": 2,
@@ -4436,6 +4655,7 @@ module.exports = {
       },
       "2A": {
         id: "s5",
+        edID: 128064227,
         eddbID: 1085,
         grp: "s",
         "class": 2,
@@ -4447,6 +4667,7 @@ module.exports = {
       },
       "1E": {
         id: "s4",
+        edID: 128064218,
         eddbID: 1076,
         grp: "s",
         "class": 1,
@@ -4458,6 +4679,7 @@ module.exports = {
       },
       "1D": {
         id: "s3",
+        edID: 128064219,
         eddbID: 1077,
         grp: "s",
         "class": 1,
@@ -4469,6 +4691,7 @@ module.exports = {
       },
       "1C": {
         id: "s2",
+        edID: 128064220,
         eddbID: 1078,
         grp: "s",
         "class": 1,
@@ -4480,6 +4703,7 @@ module.exports = {
       },
       "1B": {
         id: "s1",
+        edID: 128064221,
         eddbID: 1079,
         grp: "s",
         "class": 1,
@@ -4491,6 +4715,7 @@ module.exports = {
       },
       "1A": {
         id: "s0",
+        edID: 128064222,
         eddbID: 1080,
         grp: "s",
         "class": 1,
@@ -4503,6 +4728,7 @@ module.exports = {
     }, {
       "1C": {
         id: "f1",
+        edID: 128064346,
         eddbID: 1199,
         grp: "ft",
         "class": 1,
@@ -4512,6 +4738,7 @@ module.exports = {
       },
       "2C": {
         id: "f2",
+        edID: 128064347,
         eddbID: 1200,
         grp: "ft",
         "class": 2,
@@ -4521,6 +4748,7 @@ module.exports = {
       },
       "3C": {
         id: "f3",
+        edID: 128064348,
         eddbID: 1201,
         grp: "ft",
         "class": 3,
@@ -4530,6 +4758,7 @@ module.exports = {
       },
       "4C": {
         id: "f4",
+        edID: 128064349,
         eddbID: 1202,
         grp: "ft",
         "class": 4,
@@ -4539,6 +4768,7 @@ module.exports = {
       },
       "5C": {
         id: "f5",
+        edID: 128064350,
         eddbID: 1203,
         grp: "ft",
         "class": 5,
@@ -4548,6 +4778,7 @@ module.exports = {
       },
       "6C": {
         id: "f6",
+        edID: 128064351,
         eddbID: 1204,
         grp: "ft",
         "class": 6,
@@ -4557,6 +4788,7 @@ module.exports = {
       },
       "7C": {
         id: "f7",
+        edID: 128064352,
         eddbID: 1205,
         grp: "ft",
         "class": 7,
@@ -4566,6 +4798,7 @@ module.exports = {
       },
       "8C": {
         id: "f8",
+        edID: 128064353,
         eddbID: 1206,
         grp: "ft",
         "class": 8,
@@ -4577,6 +4810,7 @@ module.exports = {
     hardpoints: {
       pl: [ {
         id: "1d",
+        edID: 128049383,
         eddbID: 825,
         grp: "pl",
         "class": 3,
@@ -4596,6 +4830,7 @@ module.exports = {
         thermload: 1
       }, {
         id: "1e",
+        edID: 128049387,
         eddbID: 828,
         grp: "pl",
         "class": 3,
@@ -4615,6 +4850,7 @@ module.exports = {
         thermload: 1
       }, {
         id: "1f",
+        edID: 128049390,
         eddbID: 831,
         grp: "pl",
         "class": 3,
@@ -4634,6 +4870,7 @@ module.exports = {
         thermload: 1
       }, {
         id: "1a",
+        edID: 128049382,
         eddbID: 824,
         grp: "pl",
         "class": 2,
@@ -4653,6 +4890,7 @@ module.exports = {
         thermload: 1
       }, {
         id: "1b",
+        edID: 128049386,
         eddbID: 827,
         grp: "pl",
         "class": 2,
@@ -4672,6 +4910,7 @@ module.exports = {
         thermload: 1
       }, {
         id: "1c",
+        edID: 128049389,
         eddbID: 830,
         grp: "pl",
         "class": 2,
@@ -4691,6 +4930,7 @@ module.exports = {
         thermload: 1
       }, {
         id: "17",
+        edID: 128049381,
         eddbID: 823,
         grp: "pl",
         "class": 1,
@@ -4710,6 +4950,7 @@ module.exports = {
         thermload: 1
       }, {
         id: "18",
+        edID: 128049385,
         eddbID: 826,
         grp: "pl",
         "class": 1,
@@ -4729,6 +4970,7 @@ module.exports = {
         thermload: 1
       }, {
         id: "19",
+        edID: 128049388,
         eddbID: 829,
         grp: "pl",
         "class": 1,
@@ -4766,6 +5008,7 @@ module.exports = {
       } ],
       ul: [ {
         id: "14",
+        edID: 128049402,
         eddbID: 834,
         grp: "ul",
         "class": 3,
@@ -4785,6 +5028,7 @@ module.exports = {
         thermload: 1
       }, {
         id: "15",
+        edID: 128049406,
         eddbID: 837,
         grp: "ul",
         "class": 3,
@@ -4804,6 +5048,7 @@ module.exports = {
         thermload: 1
       }, {
         id: "16",
+        edID: 128049409,
         eddbID: 840,
         grp: "ul",
         "class": 3,
@@ -4823,6 +5068,7 @@ module.exports = {
         thermload: 1
       }, {
         id: "7h",
+        edID: 128049401,
         eddbID: 833,
         grp: "ul",
         "class": 2,
@@ -4839,6 +5085,7 @@ module.exports = {
         thermload: 1
       }, {
         id: "7i",
+        edID: 128049405,
         eddbID: 836,
         grp: "ul",
         "class": 2,
@@ -4855,6 +5102,7 @@ module.exports = {
         thermload: 1
       }, {
         id: "7j",
+        edID: 128049408,
         eddbID: 839,
         grp: "ul",
         "class": 2,
@@ -4871,6 +5119,7 @@ module.exports = {
         thermload: 1
       }, {
         id: "11",
+        edID: 128049400,
         eddbID: 832,
         grp: "ul",
         "class": 1,
@@ -4890,6 +5139,7 @@ module.exports = {
         thermload: 1
       }, {
         id: "12",
+        edID: 128049404,
         eddbID: 835,
         grp: "ul",
         "class": 1,
@@ -4909,6 +5159,7 @@ module.exports = {
         thermload: 1
       }, {
         id: "13",
+        edID: 128049407,
         eddbID: 838,
         grp: "ul",
         "class": 1,
@@ -4946,6 +5197,7 @@ module.exports = {
       } ],
       bl: [ {
         id: "0u",
+        edID: 128049430,
         eddbID: 843,
         grp: "bl",
         "class": 3,
@@ -4964,6 +5216,7 @@ module.exports = {
         thermload: 5
       }, {
         id: "0v",
+        edID: 128049434,
         eddbID: 846,
         grp: "bl",
         "class": 3,
@@ -4982,6 +5235,7 @@ module.exports = {
         thermload: 6
       }, {
         id: "0o",
+        edID: 128049437,
         eddbID: 849,
         grp: "bl",
         "class": 3,
@@ -5000,6 +5254,7 @@ module.exports = {
         thermload: 4
       }, {
         id: "0r",
+        edID: 128049429,
         eddbID: 842,
         grp: "bl",
         "class": 2,
@@ -5018,6 +5273,7 @@ module.exports = {
         thermload: 4
       }, {
         id: "0s",
+        edID: 128049433,
         eddbID: 845,
         grp: "bl",
         "class": 2,
@@ -5036,6 +5292,7 @@ module.exports = {
         thermload: 4
       }, {
         id: "0t",
+        edID: 128049436,
         eddbID: 848,
         grp: "bl",
         "class": 2,
@@ -5054,6 +5311,7 @@ module.exports = {
         thermload: 3
       }, {
         id: "10",
+        edID: 128049428,
         eddbID: 841,
         grp: "bl",
         "class": 1,
@@ -5072,6 +5330,7 @@ module.exports = {
         thermload: 3
       }, {
         id: "0p",
+        edID: 128049432,
         eddbID: 844,
         grp: "bl",
         "class": 1,
@@ -5090,6 +5349,7 @@ module.exports = {
         thermload: 3
       }, {
         id: "0q",
+        edID: 128049435,
         eddbID: 847,
         grp: "bl",
         "class": 1,
@@ -5126,6 +5386,7 @@ module.exports = {
       } ],
       mc: [ {
         id: "26",
+        edID: 128049456,
         eddbID: 868,
         grp: "mc",
         "class": 2,
@@ -5147,6 +5408,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "27",
+        edID: 128049460,
         eddbID: 870,
         grp: "mc",
         "class": 2,
@@ -5168,6 +5430,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "28",
+        edID: 128049463,
         eddbID: 872,
         grp: "mc",
         "class": 2,
@@ -5189,6 +5452,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "23",
+        edID: 128049455,
         eddbID: 867,
         grp: "mc",
         "class": 1,
@@ -5210,6 +5474,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "24",
+        edID: 128049459,
         eddbID: 869,
         grp: "mc",
         "class": 1,
@@ -5231,6 +5496,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "25",
+        edID: 128049462,
         eddbID: 871,
         grp: "mc",
         "class": 1,
@@ -5272,6 +5538,7 @@ module.exports = {
       } ],
       c: [ {
         id: "1q",
+        edID: 128049441,
         eddbID: 853,
         grp: "c",
         "class": 4,
@@ -5293,6 +5560,7 @@ module.exports = {
         ammocost: 20
       }, {
         id: "1r",
+        edID: 128049444,
         eddbID: 856,
         grp: "c",
         "class": 4,
@@ -5314,6 +5582,7 @@ module.exports = {
         ammocost: 20
       }, {
         id: "1n",
+        edID: 128049440,
         eddbID: 852,
         grp: "c",
         "class": 3,
@@ -5335,6 +5604,7 @@ module.exports = {
         ammocost: 20
       }, {
         id: "1o",
+        edID: 128671120,
         eddbID: 1383,
         grp: "c",
         "class": 3,
@@ -5356,6 +5626,7 @@ module.exports = {
         ammocost: 20
       }, {
         id: "1p",
+        edID: 128049447,
         eddbID: 859,
         grp: "c",
         "class": 3,
@@ -5377,6 +5648,7 @@ module.exports = {
         ammocost: 20
       }, {
         id: "1k",
+        edID: 128049439,
         eddbID: 851,
         grp: "c",
         "class": 2,
@@ -5398,6 +5670,7 @@ module.exports = {
         ammocost: 20
       }, {
         id: "1l",
+        edID: 128049443,
         eddbID: 855,
         grp: "c",
         "class": 2,
@@ -5419,6 +5692,7 @@ module.exports = {
         ammocost: 20
       }, {
         id: "1m",
+        edID: 128049446,
         eddbID: 858,
         grp: "c",
         "class": 2,
@@ -5440,6 +5714,7 @@ module.exports = {
         ammocost: 20
       }, {
         id: "1h",
+        edID: 128049438,
         eddbID: 850,
         grp: "c",
         "class": 1,
@@ -5461,6 +5736,7 @@ module.exports = {
         ammocost: 20
       }, {
         id: "1i",
+        edID: 128049442,
         eddbID: 854,
         grp: "c",
         "class": 1,
@@ -5482,6 +5758,7 @@ module.exports = {
         ammocost: 20
       }, {
         id: "1j",
+        edID: 128049445,
         eddbID: 857,
         grp: "c",
         "class": 1,
@@ -5504,6 +5781,7 @@ module.exports = {
       } ],
       fc: [ {
         id: "1t",
+        edID: 128049450,
         eddbID: 862,
         grp: "fc",
         "class": 3,
@@ -5525,6 +5803,7 @@ module.exports = {
         ammocost: 50
       }, {
         id: "1u",
+        edID: 128671321,
         eddbID: 1454,
         grp: "fc",
         "class": 3,
@@ -5546,6 +5825,7 @@ module.exports = {
         ammocost: 50
       }, {
         id: "1v",
+        edID: 128671322,
         eddbID: 1455,
         grp: "fc",
         "class": 3,
@@ -5567,6 +5847,7 @@ module.exports = {
         ammocost: 50
       }, {
         id: "1s",
+        edID: 128049449,
         eddbID: 861,
         grp: "fc",
         "class": 2,
@@ -5588,6 +5869,7 @@ module.exports = {
         ammocost: 50
       }, {
         id: "7e",
+        edID: 128049452,
         eddbID: 864,
         grp: "fc",
         "class": 2,
@@ -5607,6 +5889,7 @@ module.exports = {
         ammocost: 50
       }, {
         id: "7f",
+        edID: 128049454,
         eddbID: 866,
         grp: "fc",
         "class": 2,
@@ -5626,6 +5909,7 @@ module.exports = {
         ammocost: 50
       }, {
         id: "20",
+        edID: 128049448,
         eddbID: 860,
         grp: "fc",
         "class": 1,
@@ -5647,6 +5931,7 @@ module.exports = {
         ammocost: 50
       }, {
         id: "21",
+        edID: 128049451,
         eddbID: 863,
         grp: "fc",
         "class": 1,
@@ -5668,6 +5953,7 @@ module.exports = {
         ammocost: 50
       }, {
         id: "22",
+        edID: 128049453,
         eddbID: 865,
         grp: "fc",
         "class": 1,
@@ -5709,6 +5995,7 @@ module.exports = {
       } ],
       rg: [ {
         id: "29",
+        edID: 128049488,
         eddbID: 876,
         grp: "rg",
         "class": 1,
@@ -5730,6 +6017,7 @@ module.exports = {
         ammocost: 200
       }, {
         id: "2a",
+        edID: 128049489,
         eddbID: 877,
         grp: "rg",
         "class": 2,
@@ -5771,6 +6059,7 @@ module.exports = {
       } ],
       pa: [ {
         id: "1g",
+        edID: 128049465,
         eddbID: 873,
         grp: "pa",
         "class": 2,
@@ -5792,6 +6081,7 @@ module.exports = {
         ammocost: 200
       }, {
         id: "2b",
+        edID: 128049466,
         eddbID: 874,
         grp: "pa",
         "class": 3,
@@ -5813,6 +6103,7 @@ module.exports = {
         ammocost: 200
       }, {
         id: "2c",
+        edID: 128049467,
         eddbID: 875,
         grp: "pa",
         "class": 4,
@@ -5855,6 +6146,7 @@ module.exports = {
       } ],
       mr: [ {
         id: "2f",
+        edID: 128666725,
         eddbID: 1327,
         grp: "mr",
         "class": 2,
@@ -5877,6 +6169,7 @@ module.exports = {
         ammocost: 500
       }, {
         id: "2g",
+        edID: 128049493,
         eddbID: 879,
         grp: "mr",
         "class": 2,
@@ -5899,6 +6192,7 @@ module.exports = {
         ammocost: 666.67
       }, {
         id: "2d",
+        edID: 128666724,
         eddbID: 1326,
         grp: "mr",
         "class": 1,
@@ -5921,6 +6215,7 @@ module.exports = {
         ammocost: 500
       }, {
         id: "2e",
+        edID: 128049492,
         eddbID: 878,
         grp: "mr",
         "class": 1,
@@ -5964,6 +6259,7 @@ module.exports = {
       } ],
       tp: [ {
         id: "2h",
+        edID: 128049509,
         eddbID: 882,
         grp: "tp",
         "class": 1,
@@ -5980,6 +6276,7 @@ module.exports = {
         missile: "S"
       }, {
         id: "2i",
+        edID: 128049510,
         eddbID: 883,
         grp: "tp",
         "class": 2,
@@ -5997,6 +6294,7 @@ module.exports = {
       } ],
       nl: [ {
         id: "2j",
+        edID: 128049500,
         eddbID: 880,
         grp: "nl",
         "class": 1,
@@ -6013,6 +6311,7 @@ module.exports = {
         ammocost: 209
       }, {
         id: "2k",
+        edID: 128049501,
         eddbID: 881,
         grp: "nl",
         "class": 2,
@@ -6047,6 +6346,7 @@ module.exports = {
       } ],
       ml: [ {
         id: "2l",
+        edID: 128049525,
         eddbID: 888,
         grp: "ml",
         "class": 1,
@@ -6059,6 +6359,7 @@ module.exports = {
         thermload: 3
       }, {
         id: "2m",
+        edID: 128049526,
         eddbID: 889,
         grp: "ml",
         "class": 2,
@@ -6088,6 +6389,7 @@ module.exports = {
       } ],
       cs: [ {
         id: "0d",
+        edID: 128662520,
         eddbID: 1227,
         grp: "cs",
         "class": 0,
@@ -6099,6 +6401,7 @@ module.exports = {
         time: 10
       }, {
         id: "0c",
+        edID: 128662521,
         eddbID: 1228,
         grp: "cs",
         "class": 0,
@@ -6110,6 +6413,7 @@ module.exports = {
         time: 10
       }, {
         id: "0b",
+        edID: 128662522,
         eddbID: 1229,
         grp: "cs",
         "class": 0,
@@ -6121,6 +6425,7 @@ module.exports = {
         time: 10
       }, {
         id: "0a",
+        edID: 128662523,
         eddbID: 1230,
         grp: "cs",
         "class": 0,
@@ -6132,6 +6437,7 @@ module.exports = {
         time: 10
       }, {
         id: "09",
+        edID: 128662524,
         eddbID: 1231,
         grp: "cs",
         "class": 0,
@@ -6144,6 +6450,7 @@ module.exports = {
       } ],
       cm: [ {
         id: "00",
+        edID: 128049513,
         eddbID: 884,
         grp: "cm",
         name: "Chaff Launcher",
@@ -6160,6 +6467,7 @@ module.exports = {
         ammocost: 30
       }, {
         id: "01",
+        edID: 128049516,
         eddbID: 885,
         grp: "cm",
         name: "Electronic Countermeasure",
@@ -6174,6 +6482,7 @@ module.exports = {
         cooldown: 10
       }, {
         id: "02",
+        edID: 128049519,
         eddbID: 886,
         grp: "cm",
         name: "Heat Sink Launcher",
@@ -6190,6 +6499,7 @@ module.exports = {
         ammocost: 25
       }, {
         id: "03",
+        edID: 128049522,
         eddbID: 887,
         grp: "cm",
         name: "Point Defence",
@@ -6207,6 +6517,7 @@ module.exports = {
       } ],
       ws: [ {
         id: "0i",
+        edID: 128662525,
         eddbID: 1232,
         grp: "ws",
         "class": 0,
@@ -6218,6 +6529,7 @@ module.exports = {
         time: 10
       }, {
         id: "0h",
+        edID: 128662526,
         eddbID: 1233,
         grp: "ws",
         "class": 0,
@@ -6229,6 +6541,7 @@ module.exports = {
         time: 10
       }, {
         id: "0g",
+        edID: 128662527,
         eddbID: 1234,
         grp: "ws",
         "class": 0,
@@ -6240,6 +6553,7 @@ module.exports = {
         time: 10
       }, {
         id: "0f",
+        edID: 128662528,
         eddbID: 1235,
         grp: "ws",
         "class": 0,
@@ -6251,6 +6565,7 @@ module.exports = {
         time: 10
       }, {
         id: "0e",
+        edID: 128662529,
         eddbID: 1236,
         grp: "ws",
         "class": 0,
@@ -6263,6 +6578,7 @@ module.exports = {
       } ],
       kw: [ {
         id: "0n",
+        edID: 128662530,
         eddbID: 1237,
         grp: "kw",
         "class": 0,
@@ -6274,6 +6590,7 @@ module.exports = {
         time: 10
       }, {
         id: "0m",
+        edID: 128662531,
         eddbID: 1238,
         grp: "kw",
         "class": 0,
@@ -6285,6 +6602,7 @@ module.exports = {
         time: 10
       }, {
         id: "0l",
+        edID: 128662532,
         eddbID: 1239,
         grp: "kw",
         "class": 0,
@@ -6296,6 +6614,7 @@ module.exports = {
         time: 10
       }, {
         id: "0k",
+        edID: 128662533,
         eddbID: 1240,
         grp: "kw",
         "class": 0,
@@ -6307,6 +6626,7 @@ module.exports = {
         time: 10
       }, {
         id: "0j",
+        edID: 128662534,
         eddbID: 1241,
         grp: "kw",
         "class": 0,
@@ -6319,6 +6639,7 @@ module.exports = {
       } ],
       sb: [ {
         id: "08",
+        edID: 128668532,
         eddbID: 1368,
         grp: "sb",
         "class": 0,
@@ -6330,6 +6651,7 @@ module.exports = {
         shieldmul: .04
       }, {
         id: "07",
+        edID: 128668533,
         eddbID: 1369,
         grp: "sb",
         "class": 0,
@@ -6341,6 +6663,7 @@ module.exports = {
         shieldmul: .08
       }, {
         id: "06",
+        edID: 128668534,
         eddbID: 1370,
         grp: "sb",
         "class": 0,
@@ -6352,6 +6675,7 @@ module.exports = {
         shieldmul: .12
       }, {
         id: "05",
+        edID: 128668535,
         eddbID: 1371,
         grp: "sb",
         "class": 0,
@@ -6363,6 +6687,7 @@ module.exports = {
         shieldmul: .16
       }, {
         id: "04",
+        edID: 128668536,
         eddbID: 1372,
         grp: "sb",
         "class": 0,
@@ -6377,6 +6702,7 @@ module.exports = {
     internal: {
       am: [ {
         id: "1f",
+        edID: 128667605,
         eddbID: 1335,
         grp: "am",
         "class": 8,
@@ -6388,6 +6714,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "1e",
+        edID: 128667613,
         eddbID: 1343,
         grp: "am",
         "class": 8,
@@ -6399,6 +6726,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "1d",
+        edID: 128667621,
         eddbID: 1351,
         grp: "am",
         "class": 8,
@@ -6410,6 +6738,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "1c",
+        edID: 128667629,
         eddbID: 1359,
         grp: "am",
         "class": 8,
@@ -6421,6 +6750,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "1b",
+        edID: 128667637,
         eddbID: 1367,
         grp: "am",
         "class": 8,
@@ -6432,6 +6762,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "1a",
+        edID: 128667604,
         eddbID: 1334,
         grp: "am",
         "class": 7,
@@ -6443,6 +6774,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "19",
+        edID: 128667612,
         eddbID: 1342,
         grp: "am",
         "class": 7,
@@ -6454,6 +6786,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "18",
+        edID: 128667620,
         eddbID: 1350,
         grp: "am",
         "class": 7,
@@ -6465,6 +6798,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "17",
+        edID: 128667628,
         eddbID: 1358,
         grp: "am",
         "class": 7,
@@ -6476,6 +6810,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "16",
+        edID: 128667636,
         eddbID: 1366,
         grp: "am",
         "class": 7,
@@ -6487,6 +6822,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "15",
+        edID: 128667603,
         eddbID: 1333,
         grp: "am",
         "class": 6,
@@ -6498,6 +6834,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "14",
+        edID: 128667611,
         eddbID: 1341,
         grp: "am",
         "class": 6,
@@ -6509,6 +6846,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "13",
+        edID: 128667619,
         eddbID: 1349,
         grp: "am",
         "class": 6,
@@ -6520,6 +6858,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "12",
+        edID: 128667627,
         eddbID: 1357,
         grp: "am",
         "class": 6,
@@ -6531,6 +6870,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "11",
+        edID: 128667635,
         eddbID: 1365,
         grp: "am",
         "class": 6,
@@ -6542,6 +6882,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "10",
+        edID: 128667602,
         eddbID: 1332,
         grp: "am",
         "class": 5,
@@ -6553,6 +6894,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0v",
+        edID: 128667610,
         eddbID: 1340,
         grp: "am",
         "class": 5,
@@ -6564,6 +6906,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0u",
+        edID: 128667618,
         eddbID: 1348,
         grp: "am",
         "class": 5,
@@ -6575,6 +6918,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0t",
+        edID: 128667626,
         eddbID: 1356,
         grp: "am",
         "class": 5,
@@ -6586,6 +6930,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0s",
+        edID: 128667634,
         eddbID: 1364,
         grp: "am",
         "class": 5,
@@ -6597,6 +6942,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0r",
+        edID: 128667601,
         eddbID: 1331,
         grp: "am",
         "class": 4,
@@ -6608,6 +6954,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0q",
+        edID: 128667609,
         eddbID: 1339,
         grp: "am",
         "class": 4,
@@ -6619,6 +6966,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0p",
+        edID: 128667617,
         eddbID: 1347,
         grp: "am",
         "class": 4,
@@ -6630,6 +6978,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0o",
+        edID: 128667625,
         eddbID: 1355,
         grp: "am",
         "class": 4,
@@ -6641,6 +6990,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0n",
+        edID: 128667633,
         eddbID: 1363,
         grp: "am",
         "class": 4,
@@ -6652,6 +7002,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0m",
+        edID: 128667600,
         eddbID: 1330,
         grp: "am",
         "class": 3,
@@ -6663,6 +7014,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0l",
+        edID: 128667608,
         eddbID: 1338,
         grp: "am",
         "class": 3,
@@ -6674,6 +7026,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0k",
+        edID: 128667616,
         eddbID: 1346,
         grp: "am",
         "class": 3,
@@ -6685,6 +7038,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0j",
+        edID: 128667624,
         eddbID: 1354,
         grp: "am",
         "class": 3,
@@ -6696,6 +7050,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0i",
+        edID: 128667632,
         eddbID: 1362,
         grp: "am",
         "class": 3,
@@ -6707,6 +7062,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0h",
+        edID: 128667599,
         eddbID: 1329,
         grp: "am",
         "class": 2,
@@ -6718,6 +7074,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0g",
+        edID: 128667607,
         eddbID: 1337,
         grp: "am",
         "class": 2,
@@ -6729,6 +7086,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0f",
+        edID: 128667615,
         eddbID: 1345,
         grp: "am",
         "class": 2,
@@ -6740,6 +7098,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0e",
+        edID: 128667623,
         eddbID: 1353,
         grp: "am",
         "class": 2,
@@ -6751,6 +7110,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0d",
+        edID: 128667631,
         eddbID: 1361,
         grp: "am",
         "class": 2,
@@ -6762,6 +7122,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0c",
+        edID: 128667598,
         eddbID: 1328,
         grp: "am",
         "class": 1,
@@ -6773,6 +7134,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0b",
+        edID: 128667606,
         eddbID: 1336,
         grp: "am",
         "class": 1,
@@ -6784,6 +7146,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "0a",
+        edID: 128667614,
         eddbID: 1344,
         grp: "am",
         "class": 1,
@@ -6795,6 +7158,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "09",
+        edID: 128667622,
         eddbID: 1352,
         grp: "am",
         "class": 1,
@@ -6806,6 +7170,7 @@ module.exports = {
         ammocost: 1
       }, {
         id: "08",
+        edID: 128667630,
         eddbID: 1360,
         grp: "am",
         "class": 1,
@@ -6947,6 +7312,7 @@ module.exports = {
       } ],
       cr: [ {
         id: "00",
+        edID: 128064338,
         eddbID: 1191,
         grp: "cr",
         "class": 1,
@@ -6955,6 +7321,7 @@ module.exports = {
         cargo: 2
       }, {
         id: "01",
+        edID: 128064339,
         eddbID: 1192,
         grp: "cr",
         "class": 2,
@@ -6963,6 +7330,7 @@ module.exports = {
         cargo: 4
       }, {
         id: "02",
+        edID: 128064340,
         eddbID: 1193,
         grp: "cr",
         "class": 3,
@@ -6971,6 +7339,7 @@ module.exports = {
         cargo: 8
       }, {
         id: "03",
+        edID: 128064341,
         eddbID: 1194,
         grp: "cr",
         "class": 4,
@@ -6979,6 +7348,7 @@ module.exports = {
         cargo: 16
       }, {
         id: "04",
+        edID: 128064342,
         eddbID: 1195,
         grp: "cr",
         "class": 5,
@@ -6987,6 +7357,7 @@ module.exports = {
         cargo: 32
       }, {
         id: "05",
+        edID: 128064343,
         eddbID: 1196,
         grp: "cr",
         "class": 6,
@@ -6995,6 +7366,7 @@ module.exports = {
         cargo: 64
       }, {
         id: "06",
+        edID: 128064344,
         eddbID: 1197,
         grp: "cr",
         "class": 7,
@@ -7003,6 +7375,7 @@ module.exports = {
         cargo: 128
       }, {
         id: "07",
+        edID: 128064345,
         eddbID: 1198,
         grp: "cr",
         "class": 8,
@@ -7012,6 +7385,7 @@ module.exports = {
       } ],
       cc: [ {
         id: "Cf",
+        edID: 128671244,
         eddbID: 1409,
         grp: "cc",
         "class": 7,
@@ -7024,6 +7398,7 @@ module.exports = {
         time: 300
       }, {
         id: "Cg",
+        edID: 128671245,
         eddbID: 1410,
         grp: "cc",
         "class": 7,
@@ -7036,6 +7411,7 @@ module.exports = {
         time: 600
       }, {
         id: "Ch",
+        edID: 128671246,
         eddbID: 1411,
         grp: "cc",
         "class": 7,
@@ -7048,6 +7424,7 @@ module.exports = {
         time: 510
       }, {
         id: "Ci",
+        edID: 128671247,
         eddbID: 1412,
         grp: "cc",
         "class": 7,
@@ -7060,6 +7437,7 @@ module.exports = {
         time: 420
       }, {
         id: "Cj",
+        edID: 128671248,
         eddbID: 1413,
         grp: "cc",
         "class": 7,
@@ -7072,6 +7450,7 @@ module.exports = {
         time: 720
       }, {
         id: "Ca",
+        edID: 128671239,
         eddbID: 1404,
         grp: "cc",
         "class": 5,
@@ -7084,6 +7463,7 @@ module.exports = {
         time: 300
       }, {
         id: "Cb",
+        edID: 128671240,
         eddbID: 1405,
         grp: "cc",
         "class": 5,
@@ -7096,6 +7476,7 @@ module.exports = {
         time: 600
       }, {
         id: "Cc",
+        edID: 128671241,
         eddbID: 1406,
         grp: "cc",
         "class": 5,
@@ -7108,6 +7489,7 @@ module.exports = {
         time: 510
       }, {
         id: "Cd",
+        edID: 128671242,
         eddbID: 1407,
         grp: "cc",
         "class": 5,
@@ -7120,6 +7502,7 @@ module.exports = {
         time: 420
       }, {
         id: "Ce",
+        edID: 128671243,
         eddbID: 1408,
         grp: "cc",
         "class": 5,
@@ -7132,6 +7515,7 @@ module.exports = {
         time: 720
       }, {
         id: "C6",
+        edID: 128671234,
         eddbID: 1399,
         grp: "cc",
         "class": 3,
@@ -7144,6 +7528,7 @@ module.exports = {
         time: 300
       }, {
         id: "C7",
+        edID: 128671235,
         eddbID: 1400,
         grp: "cc",
         "class": 3,
@@ -7156,6 +7541,7 @@ module.exports = {
         time: 600
       }, {
         id: "C8",
+        edID: 128671236,
         eddbID: 1401,
         grp: "cc",
         "class": 3,
@@ -7168,6 +7554,7 @@ module.exports = {
         time: 510
       }, {
         id: "C9",
+        edID: 128671237,
         eddbID: 1402,
         grp: "cc",
         "class": 3,
@@ -7180,6 +7567,7 @@ module.exports = {
         time: 420
       }, {
         id: "C0",
+        edID: 128671238,
         eddbID: 1403,
         grp: "cc",
         "class": 3,
@@ -7192,6 +7580,7 @@ module.exports = {
         time: 720
       }, {
         id: "C1",
+        edID: 128671229,
         eddbID: 1394,
         grp: "cc",
         "class": 1,
@@ -7204,6 +7593,7 @@ module.exports = {
         time: 300
       }, {
         id: "C2",
+        edID: 128671230,
         eddbID: 1395,
         grp: "cc",
         "class": 1,
@@ -7216,6 +7606,7 @@ module.exports = {
         time: 600
       }, {
         id: "C3",
+        edID: 128671231,
         eddbID: 1396,
         grp: "cc",
         "class": 1,
@@ -7228,6 +7619,7 @@ module.exports = {
         time: 510
       }, {
         id: "C4",
+        edID: 128671232,
         eddbID: 1397,
         grp: "cc",
         "class": 1,
@@ -7240,6 +7632,7 @@ module.exports = {
         time: 420
       }, {
         id: "C5",
+        edID: 128671233,
         eddbID: 1398,
         grp: "cc",
         "class": 1,
@@ -7253,6 +7646,7 @@ module.exports = {
       } ],
       dc: [ {
         id: "24",
+        edID: 128049549,
         eddbID: 890,
         grp: "dc",
         name: "Standard Docking Computer",
@@ -7263,6 +7657,7 @@ module.exports = {
       } ],
       fi: [ {
         id: "6p",
+        edID: 128666707,
         eddbID: 1309,
         grp: "fi",
         "class": 4,
@@ -7273,6 +7668,7 @@ module.exports = {
         rangeRating: "B"
       }, {
         id: "6o",
+        edID: 128666711,
         eddbID: 1313,
         grp: "fi",
         "class": 4,
@@ -7283,6 +7679,7 @@ module.exports = {
         rangeRating: "A"
       }, {
         id: "6n",
+        edID: 128666715,
         eddbID: 1317,
         grp: "fi",
         "class": 4,
@@ -7293,6 +7690,7 @@ module.exports = {
         rangeRating: "A"
       }, {
         id: "6m",
+        edID: 128666719,
         eddbID: 1321,
         grp: "fi",
         "class": 4,
@@ -7303,6 +7701,7 @@ module.exports = {
         rangeRating: "A"
       }, {
         id: "6l",
+        edID: 128666723,
         eddbID: 1325,
         grp: "fi",
         "class": 4,
@@ -7313,6 +7712,7 @@ module.exports = {
         rangeRating: "A"
       }, {
         id: "6k",
+        edID: 128666706,
         eddbID: 1308,
         grp: "fi",
         "class": 3,
@@ -7323,6 +7723,7 @@ module.exports = {
         rangeRating: "C"
       }, {
         id: "6j",
+        edID: 128666710,
         eddbID: 1312,
         grp: "fi",
         "class": 3,
@@ -7333,6 +7734,7 @@ module.exports = {
         rangeRating: "B"
       }, {
         id: "6i",
+        edID: 128666714,
         eddbID: 1316,
         grp: "fi",
         "class": 3,
@@ -7343,6 +7745,7 @@ module.exports = {
         rangeRating: "B"
       }, {
         id: "6h",
+        edID: 128666718,
         eddbID: 1320,
         grp: "fi",
         "class": 3,
@@ -7353,6 +7756,7 @@ module.exports = {
         rangeRating: "B"
       }, {
         id: "6g",
+        edID: 128666722,
         eddbID: 1324,
         grp: "fi",
         "class": 3,
@@ -7363,6 +7767,7 @@ module.exports = {
         rangeRating: "A"
       }, {
         id: "6f",
+        edID: 128666705,
         eddbID: 1307,
         grp: "fi",
         "class": 2,
@@ -7373,6 +7778,7 @@ module.exports = {
         rangeRating: "D"
       }, {
         id: "6e",
+        edID: 128666709,
         eddbID: 1311,
         grp: "fi",
         "class": 2,
@@ -7383,6 +7789,7 @@ module.exports = {
         rangeRating: "C"
       }, {
         id: "6d",
+        edID: 128666713,
         eddbID: 1315,
         grp: "fi",
         "class": 2,
@@ -7393,6 +7800,7 @@ module.exports = {
         rangeRating: "C"
       }, {
         id: "6c",
+        edID: 128666717,
         eddbID: 1319,
         grp: "fi",
         "class": 2,
@@ -7403,6 +7811,7 @@ module.exports = {
         rangeRating: "C"
       }, {
         id: "6b",
+        edID: 128666721,
         eddbID: 1323,
         grp: "fi",
         "class": 2,
@@ -7413,6 +7822,7 @@ module.exports = {
         rangeRating: "B"
       }, {
         id: "6a",
+        edID: 128666704,
         eddbID: 1306,
         grp: "fi",
         "class": 1,
@@ -7423,6 +7833,7 @@ module.exports = {
         rangeRating: "E"
       }, {
         id: "69",
+        edID: 128666708,
         eddbID: 1310,
         grp: "fi",
         "class": 1,
@@ -7433,6 +7844,7 @@ module.exports = {
         rangeRating: "D"
       }, {
         id: "68",
+        edID: 128666712,
         eddbID: 1314,
         grp: "fi",
         "class": 1,
@@ -7443,6 +7855,7 @@ module.exports = {
         rangeRating: "D"
       }, {
         id: "67",
+        edID: 128666716,
         eddbID: 1318,
         grp: "fi",
         "class": 1,
@@ -7453,6 +7866,7 @@ module.exports = {
         rangeRating: "D"
       }, {
         id: "66",
+        edID: 128666720,
         eddbID: 1322,
         grp: "fi",
         "class": 1,
@@ -7464,6 +7878,7 @@ module.exports = {
       } ],
       fs: [ {
         id: "3q",
+        edID: 128666651,
         eddbID: 1253,
         grp: "fs",
         "class": 8,
@@ -7473,6 +7888,7 @@ module.exports = {
         rate: 720
       }, {
         id: "3p",
+        edID: 128666659,
         eddbID: 1261,
         grp: "fs",
         "class": 8,
@@ -7482,6 +7898,7 @@ module.exports = {
         rate: 960
       }, {
         id: "3o",
+        edID: 128666667,
         eddbID: 1269,
         grp: "fs",
         "class": 8,
@@ -7491,6 +7908,7 @@ module.exports = {
         rate: 1200
       }, {
         id: "3n",
+        edID: 128666675,
         eddbID: 1277,
         grp: "fs",
         "class": 8,
@@ -7500,6 +7918,7 @@ module.exports = {
         rate: 1440
       }, {
         id: "3m",
+        edID: 128666683,
         eddbID: 1285,
         grp: "fs",
         "class": 8,
@@ -7509,6 +7928,7 @@ module.exports = {
         rate: 1680
       }, {
         id: "3l",
+        edID: 128666650,
         eddbID: 1252,
         grp: "fs",
         "class": 7,
@@ -7518,6 +7938,7 @@ module.exports = {
         rate: 534
       }, {
         id: "3k",
+        edID: 128666658,
         eddbID: 1260,
         grp: "fs",
         "class": 7,
@@ -7527,6 +7948,7 @@ module.exports = {
         rate: 712
       }, {
         id: "3j",
+        edID: 128666666,
         eddbID: 1268,
         grp: "fs",
         "class": 7,
@@ -7536,6 +7958,7 @@ module.exports = {
         rate: 890
       }, {
         id: "3i",
+        edID: 128666674,
         eddbID: 1276,
         grp: "fs",
         "class": 7,
@@ -7545,6 +7968,7 @@ module.exports = {
         rate: 1068
       }, {
         id: "3h",
+        edID: 128666682,
         eddbID: 1284,
         grp: "fs",
         "class": 7,
@@ -7554,6 +7978,7 @@ module.exports = {
         rate: 1245
       }, {
         id: "3g",
+        edID: 128666649,
         eddbID: 1251,
         grp: "fs",
         "class": 6,
@@ -7563,6 +7988,7 @@ module.exports = {
         rate: 376
       }, {
         id: "3f",
+        edID: 128666657,
         eddbID: 1259,
         grp: "fs",
         "class": 6,
@@ -7572,6 +7998,7 @@ module.exports = {
         rate: 502
       }, {
         id: "3e",
+        edID: 128666665,
         eddbID: 1267,
         grp: "fs",
         "class": 6,
@@ -7581,6 +8008,7 @@ module.exports = {
         rate: 627
       }, {
         id: "3d",
+        edID: 128666673,
         eddbID: 1275,
         grp: "fs",
         "class": 6,
@@ -7590,6 +8018,7 @@ module.exports = {
         rate: 752
       }, {
         id: "3c",
+        edID: 128666681,
         eddbID: 1283,
         grp: "fs",
         "class": 6,
@@ -7599,6 +8028,7 @@ module.exports = {
         rate: 878
       }, {
         id: "3b",
+        edID: 128666648,
         eddbID: 1250,
         grp: "fs",
         "class": 5,
@@ -7608,6 +8038,7 @@ module.exports = {
         rate: 247
       }, {
         id: "3a",
+        edID: 128666656,
         eddbID: 1258,
         grp: "fs",
         "class": 5,
@@ -7617,6 +8048,7 @@ module.exports = {
         rate: 330
       }, {
         id: "39",
+        edID: 128666664,
         eddbID: 1266,
         grp: "fs",
         "class": 5,
@@ -7626,6 +8058,7 @@ module.exports = {
         rate: 412
       }, {
         id: "38",
+        edID: 128666672,
         eddbID: 1274,
         grp: "fs",
         "class": 5,
@@ -7635,6 +8068,7 @@ module.exports = {
         rate: 494
       }, {
         id: "37",
+        edID: 128666680,
         eddbID: 1282,
         grp: "fs",
         "class": 5,
@@ -7644,6 +8078,7 @@ module.exports = {
         rate: 577
       }, {
         id: "36",
+        edID: 128666647,
         eddbID: 1249,
         grp: "fs",
         "class": 4,
@@ -7653,6 +8088,7 @@ module.exports = {
         rate: 147
       }, {
         id: "35",
+        edID: 128666655,
         eddbID: 1257,
         grp: "fs",
         "class": 4,
@@ -7662,6 +8098,7 @@ module.exports = {
         rate: 196
       }, {
         id: "34",
+        edID: 128666663,
         eddbID: 1265,
         grp: "fs",
         "class": 4,
@@ -7671,6 +8108,7 @@ module.exports = {
         rate: 245
       }, {
         id: "33",
+        edID: 128666671,
         eddbID: 1273,
         grp: "fs",
         "class": 4,
@@ -7680,6 +8118,7 @@ module.exports = {
         rate: 294
       }, {
         id: "32",
+        edID: 128666679,
         eddbID: 1281,
         grp: "fs",
         "class": 4,
@@ -7689,6 +8128,7 @@ module.exports = {
         rate: 342
       }, {
         id: "31",
+        edID: 128666646,
         eddbID: 1248,
         grp: "fs",
         "class": 3,
@@ -7698,6 +8138,7 @@ module.exports = {
         rate: 75
       }, {
         id: "30",
+        edID: 128666654,
         eddbID: 1256,
         grp: "fs",
         "class": 3,
@@ -7707,6 +8148,7 @@ module.exports = {
         rate: 100
       }, {
         id: "2v",
+        edID: 128666662,
         eddbID: 1264,
         grp: "fs",
         "class": 3,
@@ -7716,6 +8158,7 @@ module.exports = {
         rate: 126
       }, {
         id: "2u",
+        edID: 128666670,
         eddbID: 1272,
         grp: "fs",
         "class": 3,
@@ -7725,6 +8168,7 @@ module.exports = {
         rate: 151
       }, {
         id: "2t",
+        edID: 128666678,
         eddbID: 1280,
         grp: "fs",
         "class": 3,
@@ -7734,6 +8178,7 @@ module.exports = {
         rate: 176
       }, {
         id: "2s",
+        edID: 128666645,
         eddbID: 1247,
         grp: "fs",
         "class": 2,
@@ -7743,6 +8188,7 @@ module.exports = {
         rate: 32
       }, {
         id: "2r",
+        edID: 128666653,
         eddbID: 1255,
         grp: "fs",
         "class": 2,
@@ -7752,6 +8198,7 @@ module.exports = {
         rate: 43
       }, {
         id: "2q",
+        edID: 128666661,
         eddbID: 1263,
         grp: "fs",
         "class": 2,
@@ -7761,6 +8208,7 @@ module.exports = {
         rate: 54
       }, {
         id: "2p",
+        edID: 128666669,
         eddbID: 1271,
         grp: "fs",
         "class": 2,
@@ -7770,6 +8218,7 @@ module.exports = {
         rate: 65
       }, {
         id: "2o",
+        edID: 128666677,
         eddbID: 1279,
         grp: "fs",
         "class": 2,
@@ -7779,6 +8228,7 @@ module.exports = {
         rate: 75
       }, {
         id: "2n",
+        edID: 128666644,
         eddbID: 1246,
         grp: "fs",
         "class": 1,
@@ -7788,6 +8238,7 @@ module.exports = {
         rate: 18
       }, {
         id: "2m",
+        edID: 128666652,
         eddbID: 1254,
         grp: "fs",
         "class": 1,
@@ -7797,6 +8248,7 @@ module.exports = {
         rate: 24
       }, {
         id: "2l",
+        edID: 128666660,
         eddbID: 1262,
         grp: "fs",
         "class": 1,
@@ -7806,6 +8258,7 @@ module.exports = {
         rate: 30
       }, {
         id: "2k",
+        edID: 128666668,
         eddbID: 1270,
         grp: "fs",
         "class": 1,
@@ -7815,6 +8268,7 @@ module.exports = {
         rate: 36
       }, {
         id: "2j",
+        edID: 128666676,
         eddbID: 1278,
         grp: "fs",
         "class": 1,
@@ -7825,6 +8279,7 @@ module.exports = {
       } ],
       ft: [ {
         id: "f1",
+        edID: 128064346,
         eddbID: 1199,
         grp: "ft",
         "class": 1,
@@ -7833,6 +8288,7 @@ module.exports = {
         fuel: 2
       }, {
         id: "f2",
+        edID: 128064347,
         eddbID: 1200,
         grp: "ft",
         "class": 2,
@@ -7841,6 +8297,7 @@ module.exports = {
         fuel: 4
       }, {
         id: "f3",
+        edID: 128064348,
         eddbID: 1201,
         grp: "ft",
         "class": 3,
@@ -7849,6 +8306,7 @@ module.exports = {
         fuel: 8
       }, {
         id: "f4",
+        edID: 128064349,
         eddbID: 1202,
         grp: "ft",
         "class": 4,
@@ -7857,6 +8315,7 @@ module.exports = {
         fuel: 16
       }, {
         id: "f5",
+        edID: 128064350,
         eddbID: 1203,
         grp: "ft",
         "class": 5,
@@ -7865,6 +8324,7 @@ module.exports = {
         fuel: 32
       }, {
         id: "f6",
+        edID: 128064351,
         eddbID: 1204,
         grp: "ft",
         "class": 6,
@@ -7873,6 +8333,7 @@ module.exports = {
         fuel: 64
       }, {
         id: "f7",
+        edID: 128064352,
         eddbID: 1205,
         grp: "ft",
         "class": 7,
@@ -7881,6 +8342,7 @@ module.exports = {
         fuel: 128
       }, {
         id: "f8",
+        edID: 128064353,
         eddbID: 1206,
         grp: "ft",
         "class": 8,
@@ -7890,6 +8352,7 @@ module.exports = {
       } ],
       fx: [ {
         id: "Ff",
+        edID: 128671264,
         eddbID: 1429,
         grp: "fx",
         "class": 7,
@@ -7901,6 +8364,7 @@ module.exports = {
         maximum: 8
       }, {
         id: "Fg",
+        edID: 128671265,
         eddbID: 1430,
         grp: "fx",
         "class": 7,
@@ -7912,6 +8376,7 @@ module.exports = {
         maximum: 8
       }, {
         id: "Fh",
+        edID: 128671266,
         eddbID: 1431,
         grp: "fx",
         "class": 7,
@@ -7923,6 +8388,7 @@ module.exports = {
         maximum: 8
       }, {
         id: "Fi",
+        edID: 128671267,
         eddbID: 1432,
         grp: "fx",
         "class": 7,
@@ -7934,6 +8400,7 @@ module.exports = {
         maximum: 8
       }, {
         id: "Fj",
+        edID: 128671268,
         eddbID: 1433,
         grp: "fx",
         "class": 7,
@@ -7945,6 +8412,7 @@ module.exports = {
         maximum: 8
       }, {
         id: "Fa",
+        edID: 128671259,
         eddbID: 1424,
         grp: "fx",
         "class": 5,
@@ -7956,6 +8424,7 @@ module.exports = {
         maximum: 4
       }, {
         id: "Fb",
+        edID: 128671260,
         eddbID: 1425,
         grp: "fx",
         "class": 5,
@@ -7967,6 +8436,7 @@ module.exports = {
         maximum: 4
       }, {
         id: "Fc",
+        edID: 128671261,
         eddbID: 1426,
         grp: "fx",
         "class": 5,
@@ -7978,6 +8448,7 @@ module.exports = {
         maximum: 4
       }, {
         id: "Fd",
+        edID: 128671262,
         eddbID: 1427,
         grp: "fx",
         "class": 5,
@@ -7989,6 +8460,7 @@ module.exports = {
         maximum: 4
       }, {
         id: "Fe",
+        edID: 128671263,
         eddbID: 1428,
         grp: "fx",
         "class": 5,
@@ -8000,6 +8472,7 @@ module.exports = {
         maximum: 4
       }, {
         id: "F5",
+        edID: 128671254,
         eddbID: 1419,
         grp: "fx",
         "class": 3,
@@ -8011,6 +8484,7 @@ module.exports = {
         maximum: 2
       }, {
         id: "F6",
+        edID: 128671255,
         eddbID: 1420,
         grp: "fx",
         "class": 3,
@@ -8022,6 +8496,7 @@ module.exports = {
         maximum: 2
       }, {
         id: "F7",
+        edID: 128671256,
         eddbID: 1421,
         grp: "fx",
         "class": 3,
@@ -8033,6 +8508,7 @@ module.exports = {
         maximum: 2
       }, {
         id: "F8",
+        edID: 128671257,
         eddbID: 1422,
         grp: "fx",
         "class": 3,
@@ -8044,6 +8520,7 @@ module.exports = {
         maximum: 2
       }, {
         id: "F9",
+        edID: 128671258,
         eddbID: 1423,
         grp: "fx",
         "class": 3,
@@ -8055,6 +8532,7 @@ module.exports = {
         maximum: 2
       }, {
         id: "F0",
+        edID: 128671249,
         eddbID: 1414,
         grp: "fx",
         "class": 1,
@@ -8066,6 +8544,7 @@ module.exports = {
         maximum: 1
       }, {
         id: "F1",
+        edID: 128671250,
         eddbID: 1415,
         grp: "fx",
         "class": 1,
@@ -8077,6 +8556,7 @@ module.exports = {
         maximum: 1
       }, {
         id: "F2",
+        edID: 128671251,
         eddbID: 1416,
         grp: "fx",
         "class": 1,
@@ -8088,6 +8568,7 @@ module.exports = {
         maximum: 1
       }, {
         id: "F3",
+        edID: 128671252,
         eddbID: 1417,
         grp: "fx",
         "class": 1,
@@ -8099,6 +8580,7 @@ module.exports = {
         maximum: 1
       }, {
         id: "F4",
+        edID: 128671253,
         eddbID: 1418,
         grp: "fx",
         "class": 1,
@@ -8111,6 +8593,7 @@ module.exports = {
       } ],
       hb: [ {
         id: "7d",
+        edID: 128066547,
         eddbID: 1222,
         grp: "hb",
         "class": 7,
@@ -8122,6 +8605,7 @@ module.exports = {
         time: 25
       }, {
         id: "7c",
+        edID: 128066548,
         eddbID: 1223,
         grp: "hb",
         "class": 7,
@@ -8133,6 +8617,7 @@ module.exports = {
         time: 22
       }, {
         id: "7b",
+        edID: 128066549,
         eddbID: 1224,
         grp: "hb",
         "class": 7,
@@ -8144,6 +8629,7 @@ module.exports = {
         time: 18
       }, {
         id: "7a",
+        edID: 128066550,
         eddbID: 1225,
         grp: "hb",
         "class": 7,
@@ -8155,6 +8641,7 @@ module.exports = {
         time: 14
       }, {
         id: "79",
+        edID: 128066551,
         eddbID: 1226,
         grp: "hb",
         "class": 7,
@@ -8166,6 +8653,7 @@ module.exports = {
         time: 11
       }, {
         id: "78",
+        edID: 128066542,
         eddbID: 1217,
         grp: "hb",
         "class": 5,
@@ -8177,6 +8665,7 @@ module.exports = {
         time: 31
       }, {
         id: "77",
+        edID: 128066543,
         eddbID: 1218,
         grp: "hb",
         "class": 5,
@@ -8188,6 +8677,7 @@ module.exports = {
         time: 26
       }, {
         id: "76",
+        edID: 128066544,
         eddbID: 1219,
         grp: "hb",
         "class": 5,
@@ -8199,6 +8689,7 @@ module.exports = {
         time: 22
       }, {
         id: "75",
+        edID: 128066545,
         eddbID: 1220,
         grp: "hb",
         "class": 5,
@@ -8210,6 +8701,7 @@ module.exports = {
         time: 18
       }, {
         id: "74",
+        edID: 128066546,
         eddbID: 1221,
         grp: "hb",
         "class": 5,
@@ -8221,6 +8713,7 @@ module.exports = {
         time: 13
       }, {
         id: "73",
+        edID: 128066537,
         eddbID: 1212,
         grp: "hb",
         "class": 3,
@@ -8232,6 +8725,7 @@ module.exports = {
         time: 36
       }, {
         id: "72",
+        edID: 128066538,
         eddbID: 1213,
         grp: "hb",
         "class": 3,
@@ -8243,6 +8737,7 @@ module.exports = {
         time: 31
       }, {
         id: "71",
+        edID: 128066539,
         eddbID: 1214,
         grp: "hb",
         "class": 3,
@@ -8254,6 +8749,7 @@ module.exports = {
         time: 26
       }, {
         id: "70",
+        edID: 128066540,
         eddbID: 1215,
         grp: "hb",
         "class": 3,
@@ -8265,6 +8761,7 @@ module.exports = {
         time: 21
       }, {
         id: "6v",
+        edID: 128066541,
         eddbID: 1216,
         grp: "hb",
         "class": 3,
@@ -8276,6 +8773,7 @@ module.exports = {
         time: 16
       }, {
         id: "6u",
+        edID: 128066532,
         eddbID: 1207,
         grp: "hb",
         "class": 1,
@@ -8287,6 +8785,7 @@ module.exports = {
         time: 42
       }, {
         id: "6t",
+        edID: 128066533,
         eddbID: 1208,
         grp: "hb",
         "class": 1,
@@ -8298,6 +8797,7 @@ module.exports = {
         time: 36
       }, {
         id: "6s",
+        edID: 128066534,
         eddbID: 1209,
         grp: "hb",
         "class": 1,
@@ -8309,6 +8809,7 @@ module.exports = {
         time: 30
       }, {
         id: "6r",
+        edID: 128066535,
         eddbID: 1210,
         grp: "hb",
         "class": 1,
@@ -8320,6 +8821,7 @@ module.exports = {
         time: 24
       }, {
         id: "6q",
+        edID: 128066536,
         eddbID: 1211,
         grp: "hb",
         "class": 1,
@@ -8332,6 +8834,7 @@ module.exports = {
       } ],
       hr: [ {
         id: "2e",
+        edID: 128668545,
         eddbID: 1381,
         grp: "hr",
         "class": 5,
@@ -8341,6 +8844,7 @@ module.exports = {
         armouradd: 360
       }, {
         id: "2d",
+        edID: 128668546,
         eddbID: 1382,
         grp: "hr",
         "class": 5,
@@ -8350,6 +8854,7 @@ module.exports = {
         armouradd: 390
       }, {
         id: "2c",
+        edID: 128668543,
         eddbID: 1379,
         grp: "hr",
         "class": 4,
@@ -8359,6 +8864,7 @@ module.exports = {
         armouradd: 300
       }, {
         id: "2b",
+        edID: 128668544,
         eddbID: 1380,
         grp: "hr",
         "class": 4,
@@ -8368,6 +8874,7 @@ module.exports = {
         armouradd: 330
       }, {
         id: "2a",
+        edID: 128668541,
         eddbID: 1377,
         grp: "hr",
         "class": 3,
@@ -8377,6 +8884,7 @@ module.exports = {
         armouradd: 230
       }, {
         id: "29",
+        edID: 128668542,
         eddbID: 1378,
         grp: "hr",
         "class": 3,
@@ -8386,6 +8894,7 @@ module.exports = {
         armouradd: 260
       }, {
         id: "28",
+        edID: 128668539,
         eddbID: 1375,
         grp: "hr",
         "class": 2,
@@ -8395,6 +8904,7 @@ module.exports = {
         armouradd: 150
       }, {
         id: "27",
+        edID: 128668540,
         eddbID: 1376,
         grp: "hr",
         "class": 2,
@@ -8404,6 +8914,7 @@ module.exports = {
         armouradd: 190
       }, {
         id: "26",
+        edID: 128668537,
         eddbID: 1373,
         grp: "hr",
         "class": 1,
@@ -8413,6 +8924,7 @@ module.exports = {
         armouradd: 80
       }, {
         id: "25",
+        edID: 128668538,
         eddbID: 1374,
         grp: "hr",
         "class": 1,
@@ -8613,6 +9125,7 @@ module.exports = {
       } ],
       pc: [ {
         id: "Pf",
+        edID: 128671284,
         eddbID: 1449,
         grp: "pc",
         "class": 7,
@@ -8624,6 +9137,7 @@ module.exports = {
         maximum: 8
       }, {
         id: "Pg",
+        edID: 128671285,
         eddbID: 1450,
         grp: "pc",
         "class": 7,
@@ -8635,6 +9149,7 @@ module.exports = {
         maximum: 8
       }, {
         id: "Ph",
+        edID: 128671286,
         eddbID: 1451,
         grp: "pc",
         "class": 7,
@@ -8646,6 +9161,7 @@ module.exports = {
         maximum: 8
       }, {
         id: "Pi",
+        edID: 128671287,
         eddbID: 1452,
         grp: "pc",
         "class": 7,
@@ -8657,6 +9173,7 @@ module.exports = {
         maximum: 8
       }, {
         id: "Pj",
+        edID: 128671288,
         eddbID: 1453,
         grp: "pc",
         "class": 7,
@@ -8668,6 +9185,7 @@ module.exports = {
         maximum: 8
       }, {
         id: "Pa",
+        edID: 128671279,
         eddbID: 1444,
         grp: "pc",
         "class": 5,
@@ -8679,6 +9197,7 @@ module.exports = {
         maximum: 4
       }, {
         id: "Pb",
+        edID: 128671280,
         eddbID: 1445,
         grp: "pc",
         "class": 5,
@@ -8690,6 +9209,7 @@ module.exports = {
         maximum: 4
       }, {
         id: "Pc",
+        edID: 128671281,
         eddbID: 1446,
         grp: "pc",
         "class": 5,
@@ -8701,6 +9221,7 @@ module.exports = {
         maximum: 4
       }, {
         id: "Pd",
+        edID: 128671282,
         eddbID: 1447,
         grp: "pc",
         "class": 5,
@@ -8712,6 +9233,7 @@ module.exports = {
         maximum: 4
       }, {
         id: "Pe",
+        edID: 128671283,
         eddbID: 1448,
         grp: "pc",
         "class": 5,
@@ -8723,6 +9245,7 @@ module.exports = {
         maximum: 4
       }, {
         id: "P5",
+        edID: 128671274,
         eddbID: 1439,
         grp: "pc",
         "class": 3,
@@ -8734,6 +9257,7 @@ module.exports = {
         maximum: 2
       }, {
         id: "P6",
+        edID: 128671275,
         eddbID: 1440,
         grp: "pc",
         "class": 3,
@@ -8745,6 +9269,7 @@ module.exports = {
         maximum: 2
       }, {
         id: "P7",
+        edID: 128671276,
         eddbID: 1441,
         grp: "pc",
         "class": 3,
@@ -8756,6 +9281,7 @@ module.exports = {
         maximum: 2
       }, {
         id: "P8",
+        edID: 128671277,
         eddbID: 1442,
         grp: "pc",
         "class": 3,
@@ -8767,6 +9293,7 @@ module.exports = {
         maximum: 2
       }, {
         id: "P9",
+        edID: 128671278,
         eddbID: 1443,
         grp: "pc",
         "class": 3,
@@ -8778,6 +9305,7 @@ module.exports = {
         maximum: 2
       }, {
         id: "P0",
+        edID: 128671269,
         eddbID: 1434,
         grp: "pc",
         "class": 1,
@@ -8789,6 +9317,7 @@ module.exports = {
         maximum: 1
       }, {
         id: "P1",
+        edID: 128671270,
         eddbID: 1435,
         grp: "pc",
         "class": 1,
@@ -8800,6 +9329,7 @@ module.exports = {
         maximum: 1
       }, {
         id: "P2",
+        edID: 128671271,
         eddbID: 1436,
         grp: "pc",
         "class": 1,
@@ -8811,6 +9341,7 @@ module.exports = {
         maximum: 1
       }, {
         id: "P3",
+        edID: 128671272,
         eddbID: 1437,
         grp: "pc",
         "class": 1,
@@ -8822,6 +9353,7 @@ module.exports = {
         maximum: 1
       }, {
         id: "P4",
+        edID: 128671273,
         eddbID: 1438,
         grp: "pc",
         "class": 1,
@@ -8834,6 +9366,7 @@ module.exports = {
       } ],
       rf: [ {
         id: "23",
+        edID: 128666687,
         eddbID: 1289,
         grp: "rf",
         "class": 4,
@@ -8843,6 +9376,7 @@ module.exports = {
         bins: 4
       }, {
         id: "22",
+        edID: 128666691,
         eddbID: 1293,
         grp: "rf",
         "class": 4,
@@ -8852,6 +9386,7 @@ module.exports = {
         bins: 5
       }, {
         id: "21",
+        edID: 128666695,
         eddbID: 1297,
         grp: "rf",
         "class": 4,
@@ -8861,6 +9396,7 @@ module.exports = {
         bins: 7
       }, {
         id: "20",
+        edID: 128666699,
         eddbID: 1301,
         grp: "rf",
         "class": 4,
@@ -8870,6 +9406,7 @@ module.exports = {
         bins: 9
       }, {
         id: "1v",
+        edID: 128666703,
         eddbID: 1305,
         grp: "rf",
         "class": 4,
@@ -8879,6 +9416,7 @@ module.exports = {
         bins: 10
       }, {
         id: "1u",
+        edID: 128666686,
         eddbID: 1288,
         grp: "rf",
         "class": 3,
@@ -8888,6 +9426,7 @@ module.exports = {
         bins: 3
       }, {
         id: "1t",
+        edID: 128666690,
         eddbID: 1292,
         grp: "rf",
         "class": 3,
@@ -8897,6 +9436,7 @@ module.exports = {
         bins: 4
       }, {
         id: "1s",
+        edID: 128666694,
         eddbID: 1296,
         grp: "rf",
         "class": 3,
@@ -8906,6 +9446,7 @@ module.exports = {
         bins: 6
       }, {
         id: "1r",
+        edID: 128666698,
         eddbID: 1300,
         grp: "rf",
         "class": 3,
@@ -8915,6 +9456,7 @@ module.exports = {
         bins: 7
       }, {
         id: "1q",
+        edID: 128666702,
         eddbID: 1304,
         grp: "rf",
         "class": 3,
@@ -8924,6 +9466,7 @@ module.exports = {
         bins: 8
       }, {
         id: "1p",
+        edID: 128666685,
         eddbID: 1287,
         grp: "rf",
         "class": 2,
@@ -8933,6 +9476,7 @@ module.exports = {
         bins: 2
       }, {
         id: "1o",
+        edID: 128666689,
         eddbID: 1291,
         grp: "rf",
         "class": 2,
@@ -8942,6 +9486,7 @@ module.exports = {
         bins: 3
       }, {
         id: "1n",
+        edID: 128666693,
         eddbID: 1295,
         grp: "rf",
         "class": 2,
@@ -8951,6 +9496,7 @@ module.exports = {
         bins: 4
       }, {
         id: "1m",
+        edID: 128666697,
         eddbID: 1299,
         grp: "rf",
         "class": 2,
@@ -8960,6 +9506,7 @@ module.exports = {
         bins: 5
       }, {
         id: "1l",
+        edID: 128666701,
         eddbID: 1303,
         grp: "rf",
         "class": 2,
@@ -8969,6 +9516,7 @@ module.exports = {
         bins: 6
       }, {
         id: "1k",
+        edID: 128666684,
         eddbID: 1286,
         grp: "rf",
         "class": 1,
@@ -8978,6 +9526,7 @@ module.exports = {
         bins: 1
       }, {
         id: "1j",
+        edID: 128666688,
         eddbID: 1290,
         grp: "rf",
         "class": 1,
@@ -8987,6 +9536,7 @@ module.exports = {
         bins: 1
       }, {
         id: "1i",
+        edID: 128666692,
         eddbID: 1294,
         grp: "rf",
         "class": 1,
@@ -8996,6 +9546,7 @@ module.exports = {
         bins: 2
       }, {
         id: "1h",
+        edID: 128666696,
         eddbID: 1298,
         grp: "rf",
         "class": 1,
@@ -9005,6 +9556,7 @@ module.exports = {
         bins: 3
       }, {
         id: "1g",
+        edID: 128666700,
         eddbID: 1302,
         grp: "rf",
         "class": 1,
@@ -9015,6 +9567,7 @@ module.exports = {
       } ],
       sc: [ {
         id: "2f",
+        edID: 128663561,
         eddbID: 1244,
         grp: "sc",
         name: "Advanced Discovery Scanner",
@@ -9022,9 +9575,11 @@ module.exports = {
         rating: "C",
         cost: 1545e3,
         mass: 2,
+        power: 0,
         rangeLS: null
       }, {
         id: "2g",
+        edID: 128663560,
         eddbID: 1243,
         grp: "sc",
         name: "Intermediate Discovery Scanner",
@@ -9032,9 +9587,11 @@ module.exports = {
         rating: "D",
         cost: 505e3,
         mass: 2,
+        power: 0,
         rangeLS: 1e3
       }, {
         id: "2h",
+        edID: 128662535,
         eddbID: 1242,
         grp: "sc",
         name: "Basic Discovery Scanner",
@@ -9042,19 +9599,24 @@ module.exports = {
         rating: "E",
         cost: 1e3,
         mass: 2,
+        power: 0,
         rangeLS: 500
       }, {
         id: "2i",
+        edID: 128666634,
         eddbID: 1245,
         grp: "sc",
         name: "Detailed Surface Scanner",
         "class": 1,
         rating: "C",
         cost: 25e4,
-        mass: 1.3
+        mass: 1.3,
+        power: 0,
+        rangeLS: .33
       } ],
       scb: [ {
         id: "65",
+        edID: 128064333,
         eddbID: 1186,
         grp: "scb",
         "class": 8,
@@ -9068,6 +9630,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "64",
+        edID: 128064334,
         eddbID: 1187,
         grp: "scb",
         "class": 8,
@@ -9081,6 +9644,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "63",
+        edID: 128064335,
         eddbID: 1188,
         grp: "scb",
         "class": 8,
@@ -9094,6 +9658,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "62",
+        edID: 128064336,
         eddbID: 1189,
         grp: "scb",
         "class": 8,
@@ -9107,6 +9672,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "61",
+        edID: 128064337,
         eddbID: 1190,
         grp: "scb",
         "class": 8,
@@ -9120,6 +9686,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "60",
+        edID: 128064328,
         eddbID: 1181,
         grp: "scb",
         "class": 7,
@@ -9133,6 +9700,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5v",
+        edID: 128064329,
         eddbID: 1182,
         grp: "scb",
         "class": 7,
@@ -9146,6 +9714,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5u",
+        edID: 128064330,
         eddbID: 1183,
         grp: "scb",
         "class": 7,
@@ -9159,6 +9728,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5t",
+        edID: 128064331,
         eddbID: 1184,
         grp: "scb",
         "class": 7,
@@ -9172,6 +9742,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5s",
+        edID: 128064332,
         eddbID: 1185,
         grp: "scb",
         "class": 7,
@@ -9185,6 +9756,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5r",
+        edID: 128064323,
         eddbID: 1176,
         grp: "scb",
         "class": 6,
@@ -9198,6 +9770,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5q",
+        edID: 128064324,
         eddbID: 1177,
         grp: "scb",
         "class": 6,
@@ -9211,6 +9784,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5p",
+        edID: 128064325,
         eddbID: 1178,
         grp: "scb",
         "class": 6,
@@ -9224,6 +9798,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5o",
+        edID: 128064326,
         eddbID: 1179,
         grp: "scb",
         "class": 6,
@@ -9237,6 +9812,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5n",
+        edID: 128064327,
         eddbID: 1180,
         grp: "scb",
         "class": 6,
@@ -9250,6 +9826,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5m",
+        edID: 128064318,
         eddbID: 1171,
         grp: "scb",
         "class": 5,
@@ -9263,6 +9840,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5l",
+        edID: 128064319,
         eddbID: 1172,
         grp: "scb",
         "class": 5,
@@ -9276,6 +9854,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5k",
+        edID: 128064320,
         eddbID: 1173,
         grp: "scb",
         "class": 5,
@@ -9289,6 +9868,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5j",
+        edID: 128064321,
         eddbID: 1174,
         grp: "scb",
         "class": 5,
@@ -9302,6 +9882,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5i",
+        edID: 128064322,
         eddbID: 1175,
         grp: "scb",
         "class": 5,
@@ -9315,6 +9896,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5h",
+        edID: 128064313,
         eddbID: 1166,
         grp: "scb",
         "class": 4,
@@ -9328,6 +9910,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5g",
+        edID: 128064314,
         eddbID: 1167,
         grp: "scb",
         "class": 4,
@@ -9341,6 +9924,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5f",
+        edID: 128064315,
         eddbID: 1168,
         grp: "scb",
         "class": 4,
@@ -9354,6 +9938,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5e",
+        edID: 128064316,
         eddbID: 1169,
         grp: "scb",
         "class": 4,
@@ -9367,6 +9952,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5d",
+        edID: 128064317,
         eddbID: 1170,
         grp: "scb",
         "class": 4,
@@ -9380,6 +9966,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5c",
+        edID: 128064308,
         eddbID: 1161,
         grp: "scb",
         "class": 3,
@@ -9393,6 +9980,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5b",
+        edID: 128064309,
         eddbID: 1162,
         grp: "scb",
         "class": 3,
@@ -9406,6 +9994,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "5a",
+        edID: 128064310,
         eddbID: 1163,
         grp: "scb",
         "class": 3,
@@ -9419,6 +10008,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "59",
+        edID: 128064311,
         eddbID: 1164,
         grp: "scb",
         "class": 3,
@@ -9432,6 +10022,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "58",
+        edID: 128064312,
         eddbID: 1165,
         grp: "scb",
         "class": 3,
@@ -9445,6 +10036,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "57",
+        edID: 128064303,
         eddbID: 1156,
         grp: "scb",
         "class": 2,
@@ -9458,6 +10050,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "56",
+        edID: 128064304,
         eddbID: 1157,
         grp: "scb",
         "class": 2,
@@ -9471,6 +10064,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "55",
+        edID: 128064305,
         eddbID: 1158,
         grp: "scb",
         "class": 2,
@@ -9484,6 +10078,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "54",
+        edID: 128064306,
         eddbID: 1159,
         grp: "scb",
         "class": 2,
@@ -9497,6 +10092,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "53",
+        edID: 128064307,
         eddbID: 1160,
         grp: "scb",
         "class": 2,
@@ -9510,6 +10106,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "52",
+        edID: 128064298,
         eddbID: 1151,
         grp: "scb",
         "class": 1,
@@ -9523,6 +10120,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "51",
+        edID: 128064299,
         eddbID: 1152,
         grp: "scb",
         "class": 1,
@@ -9536,6 +10134,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "50",
+        edID: 128064300,
         eddbID: 1153,
         grp: "scb",
         "class": 1,
@@ -9549,6 +10148,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "4v",
+        edID: 128064301,
         eddbID: 1154,
         grp: "scb",
         "class": 1,
@@ -9562,6 +10162,7 @@ module.exports = {
         ammocost: 300
       }, {
         id: "4u",
+        edID: 128064302,
         eddbID: 1155,
         grp: "scb",
         "class": 1,
@@ -9576,6 +10177,7 @@ module.exports = {
       } ],
       sg: [ {
         id: "4t",
+        edID: 128064293,
         eddbID: 1146,
         grp: "sg",
         "class": 8,
@@ -9592,6 +10194,7 @@ module.exports = {
         recover: 7.2
       }, {
         id: "4s",
+        edID: 128064294,
         eddbID: 1147,
         grp: "sg",
         "class": 8,
@@ -9608,6 +10211,7 @@ module.exports = {
         recover: 7.2
       }, {
         id: "4r",
+        edID: 128064295,
         eddbID: 1148,
         grp: "sg",
         "class": 8,
@@ -9624,6 +10228,7 @@ module.exports = {
         recover: 7.2
       }, {
         id: "4q",
+        edID: 128064296,
         eddbID: 1149,
         grp: "sg",
         "class": 8,
@@ -9640,6 +10245,7 @@ module.exports = {
         recover: 7.2
       }, {
         id: "4p",
+        edID: 128064297,
         eddbID: 1150,
         grp: "sg",
         "class": 8,
@@ -9656,6 +10262,7 @@ module.exports = {
         recover: 7.2
       }, {
         id: "4o",
+        edID: 128064288,
         eddbID: 1141,
         grp: "sg",
         "class": 7,
@@ -9672,6 +10279,7 @@ module.exports = {
         recover: 4
       }, {
         id: "4n",
+        edID: 128064289,
         eddbID: 1142,
         grp: "sg",
         "class": 7,
@@ -9688,6 +10296,7 @@ module.exports = {
         recover: 4
       }, {
         id: "4m",
+        edID: 128064290,
         eddbID: 1143,
         grp: "sg",
         "class": 7,
@@ -9704,6 +10313,7 @@ module.exports = {
         recover: 4
       }, {
         id: "4l",
+        edID: 128064291,
         eddbID: 1144,
         grp: "sg",
         "class": 7,
@@ -9720,6 +10330,7 @@ module.exports = {
         recover: 4
       }, {
         id: "4k",
+        edID: 128064292,
         eddbID: 1145,
         grp: "sg",
         "class": 7,
@@ -9736,6 +10347,7 @@ module.exports = {
         recover: 4
       }, {
         id: "4j",
+        edID: 128064283,
         eddbID: 1136,
         grp: "sg",
         "class": 6,
@@ -9752,6 +10364,7 @@ module.exports = {
         recover: 3.2
       }, {
         id: "4i",
+        edID: 128064284,
         eddbID: 1137,
         grp: "sg",
         "class": 6,
@@ -9768,6 +10381,7 @@ module.exports = {
         recover: 3.2
       }, {
         id: "4h",
+        edID: 128064285,
         eddbID: 1138,
         grp: "sg",
         "class": 6,
@@ -9784,6 +10398,7 @@ module.exports = {
         recover: 3.2
       }, {
         id: "4g",
+        edID: 128064286,
         eddbID: 1139,
         grp: "sg",
         "class": 6,
@@ -9800,6 +10415,7 @@ module.exports = {
         recover: 3.2
       }, {
         id: "4f",
+        edID: 128064287,
         eddbID: 1140,
         grp: "sg",
         "class": 6,
@@ -9816,6 +10432,7 @@ module.exports = {
         recover: 3.2
       }, {
         id: "4e",
+        edID: 128064278,
         eddbID: 1131,
         grp: "sg",
         "class": 5,
@@ -9832,6 +10449,7 @@ module.exports = {
         recover: 2.5
       }, {
         id: "4d",
+        edID: 128064279,
         eddbID: 1132,
         grp: "sg",
         "class": 5,
@@ -9848,6 +10466,7 @@ module.exports = {
         recover: 2.5
       }, {
         id: "4c",
+        edID: 128064280,
         eddbID: 1133,
         grp: "sg",
         "class": 5,
@@ -9864,6 +10483,7 @@ module.exports = {
         recover: 2.5
       }, {
         id: "4b",
+        edID: 128064281,
         eddbID: 1134,
         grp: "sg",
         "class": 5,
@@ -9880,6 +10500,7 @@ module.exports = {
         recover: 2.5
       }, {
         id: "4a",
+        edID: 128064282,
         eddbID: 1135,
         grp: "sg",
         "class": 5,
@@ -9896,6 +10517,7 @@ module.exports = {
         recover: 2.5
       }, {
         id: "49",
+        edID: 128064273,
         eddbID: 1126,
         grp: "sg",
         "class": 4,
@@ -9912,6 +10534,7 @@ module.exports = {
         recover: 1.9
       }, {
         id: "48",
+        edID: 128064274,
         eddbID: 1127,
         grp: "sg",
         "class": 4,
@@ -9928,6 +10551,7 @@ module.exports = {
         recover: 1.9
       }, {
         id: "47",
+        edID: 128064275,
         eddbID: 1128,
         grp: "sg",
         "class": 4,
@@ -9944,6 +10568,7 @@ module.exports = {
         recover: 1.9
       }, {
         id: "46",
+        edID: 128064276,
         eddbID: 1129,
         grp: "sg",
         "class": 4,
@@ -9960,6 +10585,7 @@ module.exports = {
         recover: 1.9
       }, {
         id: "45",
+        edID: 128064277,
         eddbID: 1130,
         grp: "sg",
         "class": 4,
@@ -9976,6 +10602,7 @@ module.exports = {
         recover: 1.9
       }, {
         id: "44",
+        edID: 128064268,
         eddbID: 1121,
         grp: "sg",
         "class": 3,
@@ -9992,6 +10619,7 @@ module.exports = {
         recover: 1.6
       }, {
         id: "43",
+        edID: 128064269,
         eddbID: 1122,
         grp: "sg",
         "class": 3,
@@ -10008,6 +10636,7 @@ module.exports = {
         recover: 1.6
       }, {
         id: "42",
+        edID: 128064270,
         eddbID: 1123,
         grp: "sg",
         "class": 3,
@@ -10024,6 +10653,7 @@ module.exports = {
         recover: 1.6
       }, {
         id: "41",
+        edID: 128064271,
         eddbID: 1124,
         grp: "sg",
         "class": 3,
@@ -10040,6 +10670,7 @@ module.exports = {
         recover: 1.6
       }, {
         id: "40",
+        edID: 128064272,
         eddbID: 1125,
         grp: "sg",
         "class": 3,
@@ -10056,6 +10687,7 @@ module.exports = {
         recover: 1.6
       }, {
         id: "3v",
+        edID: 128064263,
         eddbID: 1116,
         grp: "sg",
         "class": 2,
@@ -10072,6 +10704,7 @@ module.exports = {
         recover: 1.6
       }, {
         id: "3u",
+        edID: 128064264,
         eddbID: 1117,
         grp: "sg",
         "class": 2,
@@ -10088,6 +10721,7 @@ module.exports = {
         recover: 1.6
       }, {
         id: "3t",
+        edID: 128064265,
         eddbID: 1118,
         grp: "sg",
         "class": 2,
@@ -10104,6 +10738,7 @@ module.exports = {
         recover: 1.6
       }, {
         id: "3s",
+        edID: 128064266,
         eddbID: 1119,
         grp: "sg",
         "class": 2,
@@ -10120,6 +10755,7 @@ module.exports = {
         recover: 1.6
       }, {
         id: "3r",
+        edID: 128064267,
         eddbID: 1120,
         grp: "sg",
         "class": 2,
