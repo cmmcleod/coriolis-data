@@ -1,7 +1,7 @@
 var Modules = require('../Modules');
 var Ships = require('../Ships');
 
-describe('Database', function() {
+describe('JSON Data', function() {
 
   var shipProperties = [
     'name',
@@ -19,25 +19,10 @@ describe('Database', function() {
     'pipSpeed'
   ];
 
-  it('has same number of components as EDDB', function() {
-    var totalComponentCount = 0, g;
-    for (g = 0; g < Modules.standard.length; g++) {
-      var group = Modules.standard[g];
-      for (var i in group) {
-        totalComponentCount++;
-      }
-    }
-    for (g in Modules.bulkheads) {
-        totalComponentCount += 5;
-    }
-    for (g in Modules.hardpoints) {
-      totalComponentCount += Modules.hardpoints[g].length;
-    }
-    for (g in Modules.internal) {
-      if (g != 'ft') {  // EDDB does not have internal fuel tanks listed seperately
-        totalComponentCount += Modules.internal[g].length;
-      }
-    }
+  it('has an up-to-date distribution', function() {
+    var dist = require('../dist/index.js');
+    expect(dist.Ships).toEqual(Ships);
+    expect(dist.Modules).toEqual(Modules);
   });
 
   it('has valid standard components', function() {
