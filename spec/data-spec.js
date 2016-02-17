@@ -25,15 +25,16 @@ describe('JSON Data', function() {
     expect(dist.Modules).toEqual(Modules);
   });
 
-  it('has valid standard components', function() {
+  it('has valid standard modules', function() {
     var ids = {};
-    for (var i = 0; i < Modules.standard.length; i++) {
-      var group = Modules.standard[i];
-      for (var c in group) {
-        var id = group[c].id;
+    for (var s in Modules.standard) {
+      var group = Modules.standard[s];
+      for (var i = 0; i < group.length; i++) {
+        var id = group[i].id;
         expect(ids[id]).toBeFalsy('ID already exists: ' + id);
-        expect(group[c].eddbID).toBeDefined('Standard component' + id + ' is missing EDDB ID');
-        expect(group[c].grp).toBeDefined('Common component has no group defined, Type: ' + i + ', ID: ' + c);
+        expect(group[i].edID).toBeDefined('Standard module' + id + ' is missing E:D ID');
+        expect(group[i].eddbID).toBeDefined('Standard module' + id + ' is missing EDDB ID');
+        expect(group[i].grp).toBeDefined(`No group defined, Type: ${s}, ID: ${id}, Index: ${i}`);
         ids[id] = true;
       }
     }
@@ -49,13 +50,14 @@ describe('JSON Data', function() {
         var id = group[i].id;
         expect(ids[id]).toBeFalsy('ID already exists: ' + id);
         expect(group[i].grp).toBeDefined('Hardpoint has no group defined, ID:' + id);
-        expect(group[i].eddbID).toBeDefined('Hardpoint ' + id + ' is missing EDDB ID');
+        expect(group[i].eddbID).toBeDefined(`Hardpoint ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing EDDB ID`);
+        expect(group[i].edID).toBeDefined(`Hardpoint ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing E:D ID`);
         ids[id] = true;
       }
     }
   });
 
-  it('has valid internal components', function() {
+  it('has valid internal modules', function() {
     var ids = {};
     var groups = Modules.internal;
 
@@ -64,14 +66,16 @@ describe('JSON Data', function() {
       for (var i = 0; i < group.length; i++) {
         var id = group[i].id;
         expect(ids[id]).toBeFalsy('ID already exists: ' + id);
-        expect(group[i].grp).toBeDefined('Internal component has no group defined, ID:' + id);
-        expect(group[i].eddbID).toBeDefined('Internal ' + id + ' is missing EDDB ID');
+        expect(group[i].grp).toBeDefined(`No group defined, ID: ${id}`);
+        expect(group[i].eddbID).toBeDefined(`${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing EDDB ID`);
+        expect(group[i].edID).toBeDefined(`${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing E:D ID`);
         ids[id] = true;
       }
     }
   });
 
   it('has data for every ship', function() {
+    var bulkheadIds = {};
     for (var s in Ships) {
       for (var p = 0; p < shipProperties.length; p++) {
         expect(Ships[s].properties[shipProperties[p]]).toBeDefined(shipProperties[p] + ' is missing for ' + s);
@@ -84,6 +88,15 @@ describe('JSON Data', function() {
       expect(Ships[s].retailCost).toBeGreaterThan(Ships[s].properties.hullCost, s + ' has invalid retail cost');
       expect(Ships[s].bulkheads).toBeDefined(s + ' is missing bulkheads');
       expect(Ships[s].bulkheads.length).toEqual(5, s + ' is missing bulkheads');
+
+      for (var i = 0; i < Ships[s].bulkheads.length; i++) {
+        var b = Ships[s].bulkheads[i];
+        expect(b.id).toBeDefined(`${s} bulkhead [${i}] is missing an ID`);
+        expect(bulkheadIds[b.id]).toBeFalsy(`${s} bulkhead [${i} - ${b.id}] ID already exists`);
+        expect(b.eddbID).toBeDefined(`${s} bulkhead [${i} - ${b.id}] is missing EDDB ID`);
+        expect(b.edId).toBeDefined(`${s} bulkhead [${i} - ${b.id}] is missing E:D ID`);
+        bulkheadIds[b.id] = true;
+      }
     }
   });
 

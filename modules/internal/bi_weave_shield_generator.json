@@ -7,6 +7,6 @@
     { "id": "B2", "edID": 128671335,"eddbID": 1534, "grp": "bsg", "class": 5, "rating": "C", "cost": 850660,   "mass": 20,  "power": 2.6, "minmass": 203, "optmass": 405,  "maxmass": 1013, "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4, "recover": 3.75 },
     { "id": "B1", "edID": 128671336,"eddbID": 1535, "grp": "bsg", "class": 6, "rating": "C", "cost": 2696600,  "mass": 40,  "power": 3.1, "minmass": 270, "optmass": 540,  "maxmass": 1350, "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4, "recover": 4.8 },
     { "id": "B0", "edID": 128671337,"eddbID": 1536, "grp": "bsg", "class": 7, "rating": "C", "cost": 8548200,  "mass": 80,  "power": 3.5, "minmass": 530, "optmass": 1060, "maxmass": 2650, "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4, "recover": 6 },
-    { "id": "B7", "edID": 128671338,"eddbID": 1537, "grp": "bsg", "class": 8, "rating": "C", "cost": 27097750, "mass": 160, "power": 4,   "minmass": 900, "optmass": 1800, "maxmass": 4500, "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4, "recover": 10.8 }
+    { "id": "B7", "edID": 128671338,"eddbID": 1537, "grp": "bsg", "class": 8, "rating": "C", "cost": 27097750, "mass": 160, "power": 4,   "minmass": 900, "optmass": 1800, "maxmass": 4500, "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4, "recover": 7.2 }
   ]
 }

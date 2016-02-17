@@ -1,10 +1,10 @@
 {
   "sg": [
-    { "id": "4t", "edID": 128064293, "eddbID": 1146, "grp": "sg", "class": 8, "rating": "E", "cost": 2007240,   "mass": 160, "power": 2.4,  "minmass": 900, "optmass": 1800, "maxmass": 4500, "minmul": 1.3, "optmul": 0.8, "maxmul": 0.3, "recover": 7.2 },
-    { "id": "4s", "edID": 128064294, "eddbID": 1147, "grp": "sg", "class": 8, "rating": "D", "cost": 6021720,   "mass": 64,  "power": 3.2,  "minmass": 900, "optmass": 1800, "maxmass": 4500, "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4, "recover": 7.2 },
-    { "id": "4r", "edID": 128064295, "eddbID": 1148, "grp": "sg", "class": 8, "rating": "C", "cost": 18065170,  "mass": 160, "power": 4,    "minmass": 900, "optmass": 1800, "maxmass": 4500, "minmul": 1.5, "optmul": 1,   "maxmul": 0.5, "recover": 7.2 },
-    { "id": "4q", "edID": 128064296, "eddbID": 1149, "grp": "sg", "class": 8, "rating": "B", "cost": 54195500,  "mass": 256, "power": 4.8,  "minmass": 900, "optmass": 1800, "maxmass": 4500, "minmul": 1.6, "optmul": 1.1, "maxmul": 0.6, "recover": 7.2 },
-    { "id": "4p", "edID": 128064297, "eddbID": 1150, "grp": "sg", "class": 8, "rating": "A", "cost": 162586490, "mass": 160, "power": 5.6,  "minmass": 900, "optmass": 1800, "maxmass": 4500, "minmul": 1.7, "optmul": 1.2, "maxmul": 0.7, "recover": 7.2 },
+    { "id": "4t", "edID": 128064293, "eddbID": 1146, "grp": "sg", "class": 8, "rating": "E", "cost": 2007240,   "mass": 160, "power": 2.4,  "minmass": 900, "optmass": 1800, "maxmass": 4500, "minmul": 1.3, "optmul": 0.8, "maxmul": 0.3, "recover": 4.8 },
+    { "id": "4s", "edID": 128064294, "eddbID": 1147, "grp": "sg", "class": 8, "rating": "D", "cost": 6021720,   "mass": 64,  "power": 3.2,  "minmass": 900, "optmass": 1800, "maxmass": 4500, "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4, "recover": 4.8 },
+    { "id": "4r", "edID": 128064295, "eddbID": 1148, "grp": "sg", "class": 8, "rating": "C", "cost": 18065170,  "mass": 160, "power": 4,    "minmass": 900, "optmass": 1800, "maxmass": 4500, "minmul": 1.5, "optmul": 1,   "maxmul": 0.5, "recover": 4.8 },
+    { "id": "4q", "edID": 128064296, "eddbID": 1149, "grp": "sg", "class": 8, "rating": "B", "cost": 54195500,  "mass": 256, "power": 4.8,  "minmass": 900, "optmass": 1800, "maxmass": 4500, "minmul": 1.6, "optmul": 1.1, "maxmul": 0.6, "recover": 4.8 },
+    { "id": "4p", "edID": 128064297, "eddbID": 1150, "grp": "sg", "class": 8, "rating": "A", "cost": 162586490, "mass": 160, "power": 5.6,  "minmass": 900, "optmass": 1800, "maxmass": 4500, "minmul": 1.7, "optmul": 1.2, "maxmul": 0.7, "recover": 4.8 },
 
     { "id": "4o", "edID": 128064288, "eddbID": 1141, "grp": "sg", "class": 7, "rating": "E", "cost": 633200,    "mass": 80,  "power": 2.1,  "minmass": 530, "optmass": 1060, "maxmass": 2650, "minmul": 1.3, "optmul": 0.8, "maxmul": 0.3, "recover": 4 },
     { "id": "4n", "edID": 128064289, "eddbID": 1142, "grp": "sg", "class": 7, "rating": "D", "cost": 1899600,   "mass": 32,  "power": 2.8,  "minmass": 530, "optmass": 1060, "maxmass": 2650, "minmul": 1.4, "optmul": 0.9, "maxmul": 0.4, "recover": 4 },

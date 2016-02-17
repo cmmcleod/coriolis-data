@@ -1,13 +1,13 @@
 module.exports = {
-  standard: [
-    require('./standard/power_plant'),
-    require('./standard/thrusters'),
-    require('./standard/frame_shift_drive'),
-    require('./standard/life_support'),
-    require('./standard/power_distributor'),
-    require('./standard/sensors'),
-    require('./standard/fuel_tank')
-  ],
+  standard: {
+    pp: require('./standard/power_plant').pp,
+    t: require('./standard/thrusters').t,
+    fd: require('./standard/frame_shift_drive').fd,
+    ls: require('./standard/life_support').ls,
+    pd: require('./standard/power_distributor').pd,
+    s: require('./standard/sensors').s,
+    ft: require('./standard/fuel_tank').ft
+  },
   hardpoints: {
     pl: require('./hardpoints/pulse_laser').pl,
     ul: require('./hardpoints/burst_laser').ul,
