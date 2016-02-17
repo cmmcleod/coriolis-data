@@ -39,6 +39,7 @@ module.exports = {
     hb: require('./modules/internal/hatch_breaker_limpet_controller').hb,
     hr: require('./modules/internal/hull_reinforcement_package').hr,
     ft: require('./modules/internal/internal_fuel_tank').ft,
+    pas: require('./modules/internal/planetary_approach_suite').pas,
     pv: require('./modules/internal/planetary_vehicle_hanger').pv,
     psg: require('./modules/internal/pristmatic_shield_generator').psg,
     pc: require('./modules/internal/prospector_limpet_controllers').pc,
