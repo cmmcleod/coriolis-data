@@ -7,6 +7,6 @@
     { "id": "p2", "edID": 128671327, "eddbID": 1489, "grp": "psg", "class": 5, "rating": "A", "cost": 7655930,   "mass": 40,  "power": 5.46, "minmass": 203, "optmass": 405,  "maxmass": 1013, "minmul": 2, "optmul": 1.5, "maxmul": 1, "recover": 1.875 },
     { "id": "p1", "edID": 128671328, "eddbID": 1490, "grp": "psg", "class": 6, "rating": "A", "cost": 24269300,  "mass": 80,  "power": 6.51, "minmass": 270, "optmass": 540,  "maxmass": 1350, "minmul": 2, "optmul": 1.5, "maxmul": 1, "recover": 2.4 },
     { "id": "p0", "edID": 128671329, "eddbID": 1491, "grp": "psg", "class": 7, "rating": "A", "cost": 76933670,  "mass": 160, "power": 7.35, "minmass": 530, "optmass": 1060, "maxmass": 2650, "minmul": 2, "optmul": 1.5, "maxmul": 1, "recover": 3 },
-    { "id": "p7", "edID": 202115326, "eddbID": 1492, "grp": "psg", "class": 8, "rating": "A", "cost": 243879730, "mass": 320, "power": 8.4,  "minmass": 900, "optmass": 1800, "maxmass": 4500, "minmul": 2, "optmul": 1.5, "maxmul": 1, "recover": 3.6 }
+    { "id": "p7", "edID": 128671330, "eddbID": 1492, "grp": "psg", "class": 8, "rating": "A", "cost": 243879730, "mass": 320, "power": 8.4,  "minmass": 900, "optmass": 1800, "maxmass": 4500, "minmul": 2, "optmul": 1.5, "maxmul": 1, "recover": 3.6 }
   ]
 }
