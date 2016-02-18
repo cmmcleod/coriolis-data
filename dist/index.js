@@ -20,27 +20,27 @@ module.exports = {
       retailCost: 87810,
       bulkheads: [ {
         id: "Bx",
-        eddbID: 803,
+        eddbID: 753,
         cost: 0,
         mass: 0
       }, {
         id: "By",
-        eddbID: 804,
+        eddbID: 754,
         cost: 30622340,
         mass: 75
       }, {
         id: "Bz",
-        eddbID: 805,
+        eddbID: 755,
         cost: 68900260,
         mass: 150
       }, {
         id: "BA",
-        eddbID: 806,
+        eddbID: 756,
         cost: 162834280,
         mass: 150
       }, {
         id: "BB",
-        eddbID: 807,
+        eddbID: 757,
         cost: 180442120,
         mass: 150
       } ],
@@ -8898,7 +8898,7 @@ module.exports = {
         recover: 3
       }, {
         id: "p7",
-        edID: 202115326,
+        edID: 128671330,
         eddbID: 1492,
         grp: "psg",
         "class": 8,
