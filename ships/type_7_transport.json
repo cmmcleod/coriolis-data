@@ -1,5 +1,6 @@
 {
   "type_7_transport": {
+    "edID": 128049297,
     "eddbID": 20,
     "properties": {
       "name": "Type-7 Transporter",
@@ -18,11 +19,11 @@
     },
     "retailCost": 17472250,
     "bulkheads": [
-      { "id": "Bs", "eddbID": 773, "cost": 0, "mass": 0 },
-      { "id": "Bt", "eddbID": 774, "cost": 6988900, "mass": 32 },
-      { "id": "Bu", "eddbID": 775, "cost": 15725030, "mass": 63 },
-      { "id": "Bv", "eddbID": 776, "cost": 37163480, "mass": 63 },
-      { "id": "Bw", "eddbID": 777, "cost": 41182100, "mass": 63 }
+      { "id": "Bs", "edID": 128049298, "eddbID": 773, "cost": 0, "mass": 0 },
+      { "id": "Bt", "edID": 128049299, "eddbID": 774, "cost": 6988900, "mass": 32 },
+      { "id": "Bu", "edID": 128049300, "eddbID": 775, "cost": 15725030, "mass": 63 },
+      { "id": "Bv", "edID": 128049301, "eddbID": 776, "cost": 37163480, "mass": 63 },
+      { "id": "Bw", "edID": 128049302, "eddbID": 777, "cost": 41182100, "mass": 63 }
     ],
     "slots": {
       "standard": [4, 5, 5, 4, 3, 3, 5],

@@ -1,5 +1,6 @@
 {
   "imperial_eagle": {
+    "edID": 128672138,
     "eddbID": 15,
     "properties": {
       "name": "Imperial Eagle",
@@ -18,11 +19,11 @@
     },
     "retailCost": 110830,
     "bulkheads": [
-      { "id": "bu", "eddbID": 1461, "cost": 0, "mass": 0 },
-      { "id": "bv", "eddbID": 1462, "cost": 66500, "mass": 4 },
-      { "id": "bw", "eddbID": 1463, "cost": 222760, "mass": 8 },
-      { "id": "bx", "eddbID": 1464, "cost": 346550, "mass": 8 },
-      { "id": "by", "eddbID": 1465, "cost": 372040, "mass": 8 }
+      { "id": "bu", "edID": 128672140, "eddbID": 1461, "cost": 0, "mass": 0 },
+      { "id": "bv", "edID": 128672141, "eddbID": 1462, "cost": 66500, "mass": 4 },
+      { "id": "bw", "edID": 128672142, "eddbID": 1463, "cost": 222760, "mass": 8 },
+      { "id": "bx", "edID": 128672143, "eddbID": 1464, "cost": 346550, "mass": 8 },
+      { "id": "by", "edID": 128672144, "eddbID": 1465, "cost": 372040, "mass": 8 }
     ],
     "slots": {
       "standard": [3, 3, 3, 1, 2, 2, 2],

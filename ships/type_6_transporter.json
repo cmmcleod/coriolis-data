@@ -1,5 +1,6 @@
 {
   "type_6_transporter": {
+    "edID": 128049285,
     "eddbID": 19,
     "properties": {
       "name": "Type-6 Transporter",
@@ -18,11 +19,11 @@
     },
     "retailCost": 1045950,
     "bulkheads": [
-      { "id": "Bn", "eddbID": 768, "cost": 0, "mass": 0 },
-      { "id": "Bo", "eddbID": 769, "cost": 418380, "mass": 12 },
-      { "id": "Bp", "eddbID": 770, "cost": 941350, "mass": 23 },
-      { "id": "Bq", "eddbID": 771, "cost": 2224730, "mass": 23 },
-      { "id": "Br", "eddbID": 772, "cost": 2465290, "mass": 23 }
+      { "id": "Bn", "edID": 128049286, "eddbID": 768, "cost": 0, "mass": 0 },
+      { "id": "Bo", "edID": 128049287, "eddbID": 769, "cost": 418380, "mass": 12 },
+      { "id": "Bp", "edID": 128049288, "eddbID": 770, "cost": 941350, "mass": 23 },
+      { "id": "Bq", "edID": 128049289, "eddbID": 771, "cost": 2224730, "mass": 23 },
+      { "id": "Br", "edID": 128049290, "eddbID": 772, "cost": 2465290, "mass": 23 }
     ],
     "slots": {
       "standard": [3, 4, 4, 2, 3, 2, 4],

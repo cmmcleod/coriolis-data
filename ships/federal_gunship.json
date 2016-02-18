@@ -1,5 +1,6 @@
 {
   "federal_gunship": {
+    "edID": 128672152,
     "eddbID": 10,
     "properties": {
       "name": "Federal Gunship",
@@ -18,11 +19,11 @@
     },
     "retailCost": 35814210,
     "bulkheads": [
-      { "id": "bJ", "eddbID": 1471, "cost": 0, "mass": 0 },
-      { "id": "bK", "eddbID": 1472, "cost": 14325690, "mass": 44 },
-      { "id": "bL", "eddbID": 1473, "cost": 32232790, "mass": 87 },
-      { "id": "bM", "eddbID": 1474, "cost": 76176810, "mass": 87 },
-      { "id": "bN", "eddbID": 1475, "cost": 84414090, "mass": 87 }
+      { "id": "bJ", "edID": 128672154, "eddbID": 1471, "cost": 0, "mass": 0 },
+      { "id": "bK", "edID": 128672155, "eddbID": 1472, "cost": 14325690, "mass": 44 },
+      { "id": "bL", "edID": 128672156, "eddbID": 1473, "cost": 32232790, "mass": 87 },
+      { "id": "bM", "edID": 128672157, "eddbID": 1474, "cost": 76176810, "mass": 87 },
+      { "id": "bN", "edID": 128672158, "eddbID": 1475, "cost": 84414090, "mass": 87 }
     ],
     "slots": {
       "standard": [6, 6, 5, 5, 7, 5, 4],

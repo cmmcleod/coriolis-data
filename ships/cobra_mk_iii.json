@@ -1,5 +1,6 @@
 {
   "cobra_mk_iii": {
+    "edID": 128049279,
     "eddbID": 4,
     "properties": {
       "name": "Cobra Mk III",
@@ -18,11 +19,11 @@
     },
     "retailCost": 349720,
     "bulkheads": [
-      { "id": "bk", "eddbID": 763, "cost": 0, "mass": 0 },
-      { "id": "bl", "eddbID": 764, "cost": 151890, "mass": 14 },
-      { "id": "bm", "eddbID": 765, "cost": 341750, "mass": 27 },
-      { "id": "bn", "eddbID": 766, "cost": 797410, "mass": 27 },
-      { "id": "bo", "eddbID": 767, "cost": 895000, "mass": 27 }
+      { "id": "bk", "edID": 128049280, "eddbID": 763, "cost": 0, "mass": 0 },
+      { "id": "bl", "edID": 128049281, "eddbID": 764, "cost": 151890, "mass": 14 },
+      { "id": "bm", "edID": 128049282, "eddbID": 765, "cost": 341750, "mass": 27 },
+      { "id": "bn", "edID": 128049283, "eddbID": 766, "cost": 797410, "mass": 27 },
+      { "id": "bo", "edID": 128049284, "eddbID": 767, "cost": 895000, "mass": 27 }
     ],
     "slots": {
       "standard": [4, 4, 4, 3, 3, 3, 4],

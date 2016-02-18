@@ -1,5 +1,6 @@
 {
   "federal_dropship": {
+    "edID": 128049321,
     "eddbID": 9,
     "properties": {
       "name": "Federal Dropship",
@@ -18,11 +19,11 @@
     },
     "retailCost": 14314210,
     "bulkheads": [
-      { "id": "bE", "eddbID": 793, "cost": 0, "mass": 0 },
-      { "id": "bF", "eddbID": 794, "cost": 5725680, "mass": 44 },
-      { "id": "bG", "eddbID": 795, "cost": 12882780, "mass": 87 },
-      { "id": "bH", "eddbID": 796, "cost": 30446310, "mass": 87 },
-      { "id": "bI", "eddbID": 797, "cost": 33738580, "mass": 87 }
+      { "id": "bE", "edID": 128049322, "eddbID": 793, "cost": 0, "mass": 0 },
+      { "id": "bF", "edID": 128049323, "eddbID": 794, "cost": 5725680, "mass": 44 },
+      { "id": "bG", "edID": 128049324, "eddbID": 795, "cost": 12882780, "mass": 87 },
+      { "id": "bH", "edID": 128049325, "eddbID": 796, "cost": 30446310, "mass": 87 },
+      { "id": "bI", "edID": 128049326, "eddbID": 797, "cost": 33738580, "mass": 87 }
     ],
     "slots": {
       "standard": [6, 6, 5, 5, 6, 4, 4],

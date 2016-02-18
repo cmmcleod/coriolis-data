@@ -1,5 +1,6 @@
 {
   "python": {
+    "edID": 128049339,
     "eddbID": 17,
     "properties": {
       "name": "Python",
@@ -18,11 +19,11 @@
     },
     "retailCost": 56978180,
     "bulkheads": [
-      { "id": "bO", "eddbID": 808, "cost": 0, "mass": 0 },
-      { "id": "bP", "eddbID": 809, "cost": 22791270, "mass": 26 },
-      { "id": "bQ", "eddbID": 810, "cost": 51280360, "mass": 53 },
-      { "id": "bR", "eddbID": 811, "cost": 121192590, "mass": 53 },
-      { "id": "bS", "eddbID": 812, "cost": 134297570, "mass": 53 }
+      { "id": "bO", "edID": 128049340, "eddbID": 808, "cost": 0, "mass": 0 },
+      { "id": "bP", "edID": 128049341, "eddbID": 809, "cost": 22791270, "mass": 26 },
+      { "id": "bQ", "edID": 128049342, "eddbID": 810, "cost": 51280360, "mass": 53 },
+      { "id": "bR", "edID": 128049343, "eddbID": 811, "cost": 121192590, "mass": 53 },
+      { "id": "bS", "edID": 128049344, "eddbID": 812, "cost": 134297570, "mass": 53 }
     ],
     "slots": {
       "standard": [7, 6, 5, 4, 7, 6, 5],

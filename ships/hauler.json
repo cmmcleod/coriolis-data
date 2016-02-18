@@ -1,5 +1,6 @@
 {
   "hauler": {
+    "edID": 128049261,
     "eddbID": 12,
     "properties": {
       "name": "Hauler",
@@ -18,11 +19,11 @@
     },
     "retailCost": 52720,
     "bulkheads": [
-      { "id": "Bi", "eddbID": 748, "cost": 0, "mass": 0 },
-      { "id": "Bj", "eddbID": 749, "cost": 42180, "mass": 1 },
-      { "id": "Bk", "eddbID": 750, "cost": 185050, "mass": 2 },
-      { "id": "Bl", "eddbID": 751, "cost": 270300, "mass": 2 },
-      { "id": "Bm", "eddbID": 752, "cost": 282420, "mass": 2 }
+      { "id": "Bi", "edID": 128049262, "eddbID": 748, "cost": 0, "mass": 0 },
+      { "id": "Bj", "edID": 128049263, "eddbID": 749, "cost": 42180, "mass": 1 },
+      { "id": "Bk", "edID": 128049264, "eddbID": 750, "cost": 185050, "mass": 2 },
+      { "id": "Bl", "edID": 128049265, "eddbID": 751, "cost": 270300, "mass": 2 },
+      { "id": "Bm", "edID": 128049266, "eddbID": 752, "cost": 282420, "mass": 2 }
     ],
     "slots": {
       "standard": [2, 2, 2, 1, 1, 1, 2],

@@ -1,5 +1,6 @@
 {
   "sidewinder": {
+    "edID": 128049249,
     "eddbID": 18,
     "properties": {
       "name": "Sidewinder",
@@ -18,11 +19,11 @@
     },
     "retailCost": 40800,
     "bulkheads": [
-      { "id": "b0", "eddbID": 738, "cost": 0, "mass": 0 },
-      { "id": "b1", "eddbID": 739, "cost": 25600, "mass": 2 },
-      { "id": "b2", "eddbID": 740, "cost": 80320, "mass": 4 },
-      { "id": "b3", "eddbID": 741, "cost": 132060, "mass": 4 },
-      { "id": "b4", "eddbID": 742, "cost": 139420, "mass": 4 }
+      { "id": "b0", "edID": 128049250, "eddbID": 738, "cost": 0, "mass": 0 },
+      { "id": "b1", "edID": 128049251, "eddbID": 739, "cost": 25600, "mass": 2 },
+      { "id": "b2", "edID": 128049252, "eddbID": 740, "cost": 80320, "mass": 4 },
+      { "id": "b3", "edID": 128049253, "eddbID": 741, "cost": 132060, "mass": 4 },
+      { "id": "b4", "edID": 128049254, "eddbID": 742, "cost": 139420, "mass": 4 }
     ],
     "slots": {
       "standard": [2, 2, 2, 1, 1, 1, 1],

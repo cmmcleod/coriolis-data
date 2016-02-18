@@ -1,5 +1,6 @@
 {
   "type_9_heavy": {
+    "edID": 128049333,
     "eddbID": 21,
     "properties": {
       "name": "Type-9 Heavy",
@@ -18,11 +19,11 @@
     },
     "retailCost": 76555840,
     "bulkheads": [
-      { "id": "cl", "eddbID": 803, "cost": 0, "mass": 0 },
-      { "id": "cm", "eddbID": 804, "cost": 30622340, "mass": 75 },
-      { "id": "cn", "eddbID": 805, "cost": 68900260, "mass": 150 },
-      { "id": "co", "eddbID": 806, "cost": 162834280, "mass": 150 },
-      { "id": "cp", "eddbID": 807, "cost": 180442120, "mass": 150 }
+      { "id": "cl", "edID": 128049334, "eddbID": 803, "cost": 0, "mass": 0 },
+      { "id": "cm", "edID": 128049335, "eddbID": 804, "cost": 30622340, "mass": 75 },
+      { "id": "cn", "edID": 128049336, "eddbID": 805, "cost": 68900260, "mass": 150 },
+      { "id": "co", "edID": 128049337, "eddbID": 806, "cost": 162834280, "mass": 150 },
+      { "id": "cp", "edID": 128049338, "eddbID": 807, "cost": 180442120, "mass": 150 }
     ],
     "slots": {
       "standard": [6, 7, 6, 5, 6, 4, 6],

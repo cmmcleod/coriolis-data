@@ -1,6 +1,6 @@
 {
   "imperial_courier": {
-    "eddbID": 14,
+    "edID": 128671223, "eddbID": 14,
     "properties": {
       "name": "Imperial Courier",
       "manufacturer": "Gutamaya",
@@ -18,11 +18,11 @@
     },
     "retailCost": 2542930,
     "bulkheads": [
-      { "id": "bf", "eddbID": 1389, "cost": 0, "mass": 0 },
-      { "id": "bg", "eddbID": 1390, "cost": 1017200, "mass": 4 },
-      { "id": "bh", "eddbID": 1391, "cost": 2288600, "mass": 8 },
-      { "id": "bi", "eddbID": 1392, "cost": 5408800, "mass": 8 },
-      { "id": "bj", "eddbID": 1393, "cost": 5993700, "mass": 8 }
+      { "id": "bf", "edID": 128671224, "eddbID": 1389, "cost": 0, "mass": 0 },
+      { "id": "bg", "edID": 128671225, "eddbID": 1390, "cost": 1017200, "mass": 4 },
+      { "id": "bh", "edID": 128671226, "eddbID": 1391, "cost": 2288600, "mass": 8 },
+      { "id": "bi", "edID": 128671227, "eddbID": 1392, "cost": 5408800, "mass": 8 },
+      { "id": "bj", "edID": 128671228, "eddbID": 1393, "cost": 5993700, "mass": 8 }
     ],
     "slots": {
       "standard": [ 4, 3, 3, 1, 3, 2, 3],

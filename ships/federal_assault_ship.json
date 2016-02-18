@@ -1,6 +1,6 @@
 {
   "federal_assault_ship": {
-    "eddbID": 8,
+    "edID": 128672145, "eddbID": 8,
     "properties": {
       "name": "Federal Assault Ship",
       "manufacturer": "Core Dynamics",
@@ -18,11 +18,11 @@
     },
     "retailCost": 19814210,
     "bulkheads": [
-      { "id": "bz", "eddbID": 1466, "cost": 0, "mass": 0 },
-      { "id": "bA", "eddbID": 1467, "cost": 7925680, "mass": 44 },
-      { "id": "bB", "eddbID": 1468, "cost": 17832780, "mass": 87 },
-      { "id": "bC", "eddbID": 1469, "cost": 42144810, "mass": 87 },
-      { "id": "bD", "eddbID": 1470, "cost": 46702080, "mass": 87 }
+      { "id": "bz", "edID": 128672147, "eddbID": 1466, "cost": 0, "mass": 0 },
+      { "id": "bA", "edID": 128672148, "eddbID": 1467, "cost": 7925680, "mass": 44 },
+      { "id": "bB", "edID": 128672149, "eddbID": 1468, "cost": 17832780, "mass": 87 },
+      { "id": "bC", "edID": 128672150, "eddbID": 1469, "cost": 42144810, "mass": 87 },
+      { "id": "bD", "edID": 128672151, "eddbID": 1470, "cost": 46702080, "mass": 87 }
     ],
     "slots": {
       "standard": [6, 6, 5, 5, 6, 4, 4],

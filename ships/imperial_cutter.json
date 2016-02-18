@@ -1,6 +1,6 @@
 {
   "imperial_cutter": {
-    "eddbID": 26,
+    "edID": 128049375, "eddbID": 26,
     "properties": {
       "name": "Imperial Cutter",
       "manufacturer": "Gutamaya",
@@ -18,11 +18,11 @@
     },
     "retailCost": 208969450,
     "bulkheads": [
-      { "id": "BR", "eddbID": 1493, "cost": 0, "mass": 0 },
-      { "id": "BS", "eddbID": 1494, "cost": 83587790, "mass": 30 },
-      { "id": "BT", "eddbID": 1495, "cost": 188072510, "mass": 60 },
-      { "id": "BU", "eddbID": 1496, "cost": 444478020, "mass": 60 },
-      { "id": "BV", "eddbID": 1497, "cost": 492541000, "mass": 60 }
+      { "id": "BR", "edID": 128049376, "eddbID": 1493, "cost": 0, "mass": 0 },
+      { "id": "BS", "edID": 128049377, "eddbID": 1494, "cost": 83587790, "mass": 30 },
+      { "id": "BT", "edID": 128049378, "eddbID": 1495, "cost": 188072510, "mass": 60 },
+      { "id": "BU", "edID": 128049379, "eddbID": 1496, "cost": 444478020, "mass": 60 },
+      { "id": "BV", "edID": 128049380, "eddbID": 1497, "cost": 492541000, "mass": 60 }
     ],
     "slots": {
       "standard": [8, 8, 7, 7, 7, 7, 6],

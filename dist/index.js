@@ -1,6 +1,7 @@
 module.exports = {
   Ships: {
     adder: {
+      edID: 128049267,
       eddbID: 1,
       properties: {
         name: "Adder",
@@ -20,26 +21,31 @@ module.exports = {
       retailCost: 87810,
       bulkheads: [ {
         id: "Bx",
+        edID: 128049268,
         eddbID: 753,
         cost: 0,
         mass: 0
       }, {
         id: "By",
+        edID: 128049269,
         eddbID: 754,
         cost: 30622340,
         mass: 75
       }, {
         id: "Bz",
+        edID: 128049270,
         eddbID: 755,
         cost: 68900260,
         mass: 150
       }, {
         id: "BA",
+        edID: 128049271,
         eddbID: 756,
         cost: 162834280,
         mass: 150
       }, {
         id: "BB",
+        edID: 128049272,
         eddbID: 757,
         cost: 180442120,
         mass: 150
@@ -56,6 +62,7 @@ module.exports = {
       }
     },
     anaconda: {
+      edID: 128049363,
       eddbID: 2,
       properties: {
         name: "Anaconda",
@@ -75,26 +82,31 @@ module.exports = {
       retailCost: 146969450,
       bulkheads: [ {
         id: "bT",
+        edID: 128049364,
         eddbID: 818,
         cost: 0,
         mass: 0
       }, {
         id: "bU",
+        edID: 128049365,
         eddbID: 819,
         cost: 58787780,
         mass: 30
       }, {
         id: "bV",
+        edID: 128049366,
         eddbID: 820,
         cost: 132272510,
         mass: 60
       }, {
         id: "bW",
+        edID: 128049367,
         eddbID: 821,
         cost: 312604020,
         mass: 60
       }, {
         id: "bX",
+        edID: 128049368,
         eddbID: 822,
         cost: 346407e3,
         mass: 60
@@ -111,6 +123,7 @@ module.exports = {
       }
     },
     asp: {
+      edID: 128049303,
       eddbID: 3,
       properties: {
         name: "Asp Explorer",
@@ -130,26 +143,31 @@ module.exports = {
       retailCost: 6661150,
       bulkheads: [ {
         id: "BH",
+        edID: 128049304,
         eddbID: 778,
         cost: 0,
         mass: 0
       }, {
         id: "BI",
+        edID: 128049305,
         eddbID: 779,
         cost: 2664460,
         mass: 21
       }, {
         id: "BJ",
+        edID: 128049306,
         eddbID: 780,
         cost: 5995040,
         mass: 42
       }, {
         id: "BK",
+        edID: 128049307,
         eddbID: 781,
         cost: 14168270,
         mass: 42
       }, {
         id: "BL",
+        edID: 128049308,
         eddbID: 782,
         cost: 15700340,
         mass: 42
@@ -166,6 +184,7 @@ module.exports = {
       }
     },
     asp_scout: {
+      edID: 128672276,
       eddbID: 24,
       properties: {
         name: "Asp Scout",
@@ -185,26 +204,31 @@ module.exports = {
       retailCost: 3961150,
       bulkheads: [ {
         id: "c1",
+        edID: 128672278,
         eddbID: 1503,
         cost: 0,
         mass: 0
       }, {
         id: "c2",
+        edID: 128672279,
         eddbID: 1504,
         cost: 1584460,
         mass: 21
       }, {
         id: "c3",
+        edID: 128672280,
         eddbID: 1505,
         cost: 3565040,
         mass: 42
       }, {
         id: "c4",
+        edID: 128672281,
         eddbID: 1506,
         cost: 8425380,
         mass: 42
       }, {
         id: "c5",
+        edID: 128672282,
         eddbID: 1507,
         cost: 9336440,
         mass: 42
@@ -221,6 +245,7 @@ module.exports = {
       }
     },
     cobra_mk_iii: {
+      edID: 128049279,
       eddbID: 4,
       properties: {
         name: "Cobra Mk III",
@@ -240,26 +265,31 @@ module.exports = {
       retailCost: 349720,
       bulkheads: [ {
         id: "bk",
+        edID: 128049280,
         eddbID: 763,
         cost: 0,
         mass: 0
       }, {
         id: "bl",
+        edID: 128049281,
         eddbID: 764,
         cost: 151890,
         mass: 14
       }, {
         id: "bm",
+        edID: 128049282,
         eddbID: 765,
         cost: 341750,
         mass: 27
       }, {
         id: "bn",
+        edID: 128049283,
         eddbID: 766,
         cost: 797410,
         mass: 27
       }, {
         id: "bo",
+        edID: 128049284,
         eddbID: 767,
         cost: 895e3,
         mass: 27
@@ -276,6 +306,7 @@ module.exports = {
       }
     },
     cobra_mk_iv: {
+      edID: 128672262,
       eddbID: 29,
       properties: {
         name: "Cobra Mk IV",
@@ -295,26 +326,31 @@ module.exports = {
       retailCost: 747660,
       bulkheads: [ {
         id: "cg",
+        edID: 128672264,
         eddbID: 1518,
         cost: 0,
         mass: 0
       }, {
         id: "ch",
+        edID: 128672265,
         eddbID: 1519,
         cost: 305890,
         mass: 14
       }, {
         id: "ci",
+        edID: 128672266,
         eddbID: 1520,
         cost: 688250,
         mass: 27
       }, {
         id: "cj",
+        edID: 128672267,
         eddbID: 1521,
         cost: 1605910,
         mass: 27
       }, {
         id: "ck",
+        edID: 128672268,
         eddbID: 1522,
         cost: 1802440,
         mass: 27
@@ -331,6 +367,7 @@ module.exports = {
       }
     },
     diamondback_explorer: {
+      edID: 128671831,
       eddbID: 5,
       properties: {
         name: "Diamondback Explorer",
@@ -350,26 +387,31 @@ module.exports = {
       retailCost: 1894760,
       bulkheads: [ {
         id: "ba",
+        edID: 128671832,
         eddbID: 1456,
         cost: 0,
         mass: 0
       }, {
         id: "bb",
+        edID: 128671833,
         eddbID: 1457,
         cost: 8e5,
         mass: 23
       }, {
         id: "bc",
+        edID: 128671834,
         eddbID: 1458,
         cost: 18e5,
         mass: 47
       }, {
         id: "bd",
+        edID: 128671835,
         eddbID: 1459,
         cost: 42e5,
         mass: 26
       }, {
         id: "be",
+        edID: 128671836,
         eddbID: 1460,
         cost: 4714e3,
         mass: 47
@@ -386,6 +428,7 @@ module.exports = {
       }
     },
     diamondback: {
+      edID: 128671217,
       eddbID: 6,
       properties: {
         name: "Diamondback Scout",
@@ -405,26 +448,31 @@ module.exports = {
       retailCost: 564330,
       bulkheads: [ {
         id: "b5",
+        edID: 128671218,
         eddbID: 1384,
         cost: 0,
         mass: 0
       }, {
         id: "b6",
+        edID: 128671219,
         eddbID: 1385,
         cost: 225700,
         mass: 13
       }, {
         id: "b7",
+        edID: 128671220,
         eddbID: 1386,
         cost: 507900,
         mass: 26
       }, {
         id: "b8",
+        edID: 128671221,
         eddbID: 1387,
         cost: 1185100,
         mass: 26
       }, {
         id: "b9",
+        edID: 128671222,
         eddbID: 1388,
         cost: 1330100,
         mass: 26
@@ -441,6 +489,7 @@ module.exports = {
       }
     },
     eagle: {
+      edID: 128049255,
       eddbID: 7,
       properties: {
         name: "Eagle",
@@ -460,26 +509,31 @@ module.exports = {
       retailCost: 44800,
       bulkheads: [ {
         id: "bY",
+        edID: 128049256,
         eddbID: 743,
         cost: 0,
         mass: 0
       }, {
         id: "bZ",
+        edID: 128049257,
         eddbID: 744,
         cost: 26880,
         mass: 4
       }, {
         id: "B0",
+        edID: 128049258,
         eddbID: 745,
         cost: 90050,
         mass: 8
       }, {
         id: "B1",
+        edID: 128049259,
         eddbID: 746,
         cost: 140090,
         mass: 8
       }, {
         id: "B2",
+        edID: 128049260,
         eddbID: 747,
         cost: 150390,
         mass: 8
@@ -496,6 +550,7 @@ module.exports = {
       }
     },
     federal_assault_ship: {
+      edID: 128672145,
       eddbID: 8,
       properties: {
         name: "Federal Assault Ship",
@@ -515,26 +570,31 @@ module.exports = {
       retailCost: 19814210,
       bulkheads: [ {
         id: "bz",
+        edID: 128672147,
         eddbID: 1466,
         cost: 0,
         mass: 0
       }, {
         id: "bA",
+        edID: 128672148,
         eddbID: 1467,
         cost: 7925680,
         mass: 44
       }, {
         id: "bB",
+        edID: 128672149,
         eddbID: 1468,
         cost: 17832780,
         mass: 87
       }, {
         id: "bC",
+        edID: 128672150,
         eddbID: 1469,
         cost: 42144810,
         mass: 87
       }, {
         id: "bD",
+        edID: 128672151,
         eddbID: 1470,
         cost: 46702080,
         mass: 87
@@ -551,6 +611,7 @@ module.exports = {
       }
     },
     federal_corvette: {
+      edID: 128049369,
       eddbID: 25,
       properties: {
         name: "Federal Corvette",
@@ -570,26 +631,31 @@ module.exports = {
       retailCost: 187969450,
       bulkheads: [ {
         id: "BW",
+        edID: 128049370,
         eddbID: 1498,
         cost: 0,
         mass: 0
       }, {
         id: "BX",
+        edID: 128049371,
         eddbID: 1499,
         cost: 75187790,
         mass: 30
       }, {
         id: "BY",
+        edID: 128049372,
         eddbID: 1500,
         cost: 169172510,
         mass: 60
       }, {
         id: "BZ",
+        edID: 128049373,
         eddbID: 1501,
         cost: 399811020,
         mass: 60
       }, {
         id: "c0",
+        edID: 128049374,
         eddbID: 1502,
         cost: 443044e3,
         mass: 60
@@ -606,6 +672,7 @@ module.exports = {
       }
     },
     federal_dropship: {
+      edID: 128049321,
       eddbID: 9,
       properties: {
         name: "Federal Dropship",
@@ -625,26 +692,31 @@ module.exports = {
       retailCost: 14314210,
       bulkheads: [ {
         id: "bE",
+        edID: 128049322,
         eddbID: 793,
         cost: 0,
         mass: 0
       }, {
         id: "bF",
+        edID: 128049323,
         eddbID: 794,
         cost: 5725680,
         mass: 44
       }, {
         id: "bG",
+        edID: 128049324,
         eddbID: 795,
         cost: 12882780,
         mass: 87
       }, {
         id: "bH",
+        edID: 128049325,
         eddbID: 796,
         cost: 30446310,
         mass: 87
       }, {
         id: "bI",
+        edID: 128049326,
         eddbID: 797,
         cost: 33738580,
         mass: 87
@@ -661,6 +733,7 @@ module.exports = {
       }
     },
     federal_gunship: {
+      edID: 128672152,
       eddbID: 10,
       properties: {
         name: "Federal Gunship",
@@ -680,26 +753,31 @@ module.exports = {
       retailCost: 35814210,
       bulkheads: [ {
         id: "bJ",
+        edID: 128672154,
         eddbID: 1471,
         cost: 0,
         mass: 0
       }, {
         id: "bK",
+        edID: 128672155,
         eddbID: 1472,
         cost: 14325690,
         mass: 44
       }, {
         id: "bL",
+        edID: 128672156,
         eddbID: 1473,
         cost: 32232790,
         mass: 87
       }, {
         id: "bM",
+        edID: 128672157,
         eddbID: 1474,
         cost: 76176810,
         mass: 87
       }, {
         id: "bN",
+        edID: 128672158,
         eddbID: 1475,
         cost: 84414090,
         mass: 87
@@ -716,6 +794,7 @@ module.exports = {
       }
     },
     fer_de_lance: {
+      edID: 128049351,
       eddbID: 11,
       properties: {
         name: "Fer-de-Lance",
@@ -735,26 +814,31 @@ module.exports = {
       retailCost: 51567040,
       bulkheads: [ {
         id: "Bd",
+        edID: 128049352,
         eddbID: 813,
         cost: 0,
         mass: 0
       }, {
         id: "Be",
+        edID: 128049353,
         eddbID: 814,
         cost: 20626820,
         mass: 19
       }, {
         id: "Bf",
+        edID: 128049354,
         eddbID: 815,
         cost: 46410340,
         mass: 38
       }, {
         id: "Bg",
+        edID: 128049355,
         eddbID: 816,
         cost: 109683090,
         mass: 38
       }, {
         id: "Bh",
+        edID: 128049356,
         eddbID: 817,
         cost: 121543510,
         mass: 38
@@ -771,6 +855,7 @@ module.exports = {
       }
     },
     hauler: {
+      edID: 128049261,
       eddbID: 12,
       properties: {
         name: "Hauler",
@@ -790,26 +875,31 @@ module.exports = {
       retailCost: 52720,
       bulkheads: [ {
         id: "Bi",
+        edID: 128049262,
         eddbID: 748,
         cost: 0,
         mass: 0
       }, {
         id: "Bj",
+        edID: 128049263,
         eddbID: 749,
         cost: 42180,
         mass: 1
       }, {
         id: "Bk",
+        edID: 128049264,
         eddbID: 750,
         cost: 185050,
         mass: 2
       }, {
         id: "Bl",
+        edID: 128049265,
         eddbID: 751,
         cost: 270300,
         mass: 2
       }, {
         id: "Bm",
+        edID: 128049266,
         eddbID: 752,
         cost: 282420,
         mass: 2
@@ -826,6 +916,7 @@ module.exports = {
       }
     },
     imperial_clipper: {
+      edID: 128049315,
       eddbID: 13,
       properties: {
         name: "Imperial Clipper",
@@ -845,26 +936,31 @@ module.exports = {
       retailCost: 22296860,
       bulkheads: [ {
         id: "bp",
+        edID: 128049316,
         eddbID: 788,
         cost: 0,
         mass: 0
       }, {
         id: "bq",
+        edID: 128049317,
         eddbID: 789,
         cost: 8918340,
         mass: 30
       }, {
         id: "br",
+        edID: 128049318,
         eddbID: 790,
         cost: 20066270,
         mass: 60
       }, {
         id: "bs",
+        edID: 128049319,
         eddbID: 791,
         cost: 47423290,
         mass: 60
       }, {
         id: "bt",
+        edID: 128049320,
         eddbID: 792,
         cost: 52551340,
         mass: 60
@@ -881,6 +977,7 @@ module.exports = {
       }
     },
     imperial_courier: {
+      edID: 128671223,
       eddbID: 14,
       properties: {
         name: "Imperial Courier",
@@ -900,26 +997,31 @@ module.exports = {
       retailCost: 2542930,
       bulkheads: [ {
         id: "bf",
+        edID: 128671224,
         eddbID: 1389,
         cost: 0,
         mass: 0
       }, {
         id: "bg",
+        edID: 128671225,
         eddbID: 1390,
         cost: 1017200,
         mass: 4
       }, {
         id: "bh",
+        edID: 128671226,
         eddbID: 1391,
         cost: 2288600,
         mass: 8
       }, {
         id: "bi",
+        edID: 128671227,
         eddbID: 1392,
         cost: 5408800,
         mass: 8
       }, {
         id: "bj",
+        edID: 128671228,
         eddbID: 1393,
         cost: 5993700,
         mass: 8
@@ -936,6 +1038,7 @@ module.exports = {
       }
     },
     imperial_cutter: {
+      edID: 128049375,
       eddbID: 26,
       properties: {
         name: "Imperial Cutter",
@@ -955,26 +1058,31 @@ module.exports = {
       retailCost: 208969450,
       bulkheads: [ {
         id: "BR",
+        edID: 128049376,
         eddbID: 1493,
         cost: 0,
         mass: 0
       }, {
         id: "BS",
+        edID: 128049377,
         eddbID: 1494,
         cost: 83587790,
         mass: 30
       }, {
         id: "BT",
+        edID: 128049378,
         eddbID: 1495,
         cost: 188072510,
         mass: 60
       }, {
         id: "BU",
+        edID: 128049379,
         eddbID: 1496,
         cost: 444478020,
         mass: 60
       }, {
         id: "BV",
+        edID: 128049380,
         eddbID: 1497,
         cost: 492541e3,
         mass: 60
@@ -991,6 +1099,7 @@ module.exports = {
       }
     },
     imperial_eagle: {
+      edID: 128672138,
       eddbID: 15,
       properties: {
         name: "Imperial Eagle",
@@ -1010,26 +1119,31 @@ module.exports = {
       retailCost: 110830,
       bulkheads: [ {
         id: "bu",
+        edID: 128672140,
         eddbID: 1461,
         cost: 0,
         mass: 0
       }, {
         id: "bv",
+        edID: 128672141,
         eddbID: 1462,
         cost: 66500,
         mass: 4
       }, {
         id: "bw",
+        edID: 128672142,
         eddbID: 1463,
         cost: 222760,
         mass: 8
       }, {
         id: "bx",
+        edID: 128672143,
         eddbID: 1464,
         cost: 346550,
         mass: 8
       }, {
         id: "by",
+        edID: 128672144,
         eddbID: 1465,
         cost: 372040,
         mass: 8
@@ -1046,6 +1160,7 @@ module.exports = {
       }
     },
     keelback: {
+      edID: 128672269,
       eddbID: 27,
       properties: {
         name: "Keelback",
@@ -1065,26 +1180,31 @@ module.exports = {
       retailCost: 3126150,
       bulkheads: [ {
         id: "cb",
+        edID: 128672271,
         eddbID: 1513,
         cost: 0,
         mass: 0
       }, {
         id: "cc",
+        edID: 128672272,
         eddbID: 1514,
         cost: 1250460,
         mass: 12
       }, {
         id: "cd",
+        edID: 128672273,
         eddbID: 1515,
         cost: 2813540,
         mass: 23
       }, {
         id: "ce",
+        edID: 128672274,
         eddbID: 1516,
         cost: 6649330,
         mass: 23
       }, {
         id: "cf",
+        edID: 128672275,
         eddbID: 1517,
         cost: 7368340,
         mass: 23
@@ -1101,6 +1221,7 @@ module.exports = {
       }
     },
     orca: {
+      edID: 128049327,
       eddbID: 16,
       properties: {
         name: "Orca",
@@ -1120,26 +1241,31 @@ module.exports = {
       retailCost: 48539890,
       bulkheads: [ {
         id: "BM",
+        edID: 128049328,
         eddbID: 798,
         cost: 0,
         mass: 0
       }, {
         id: "BN",
+        edID: 128049329,
         eddbID: 799,
         cost: 19415950,
         mass: 21
       }, {
         id: "BO",
+        edID: 128049330,
         eddbID: 800,
         cost: 43685900,
         mass: 87
       }, {
         id: "BP",
+        edID: 128049331,
         eddbID: 801,
         cost: 103244340,
         mass: 87
       }, {
         id: "BQ",
+        edID: 128049332,
         eddbID: 802,
         cost: 114408510,
         mass: 87
@@ -1168,6 +1294,7 @@ module.exports = {
       }
     },
     python: {
+      edID: 128049339,
       eddbID: 17,
       properties: {
         name: "Python",
@@ -1187,26 +1314,31 @@ module.exports = {
       retailCost: 56978180,
       bulkheads: [ {
         id: "bO",
+        edID: 128049340,
         eddbID: 808,
         cost: 0,
         mass: 0
       }, {
         id: "bP",
+        edID: 128049341,
         eddbID: 809,
         cost: 22791270,
         mass: 26
       }, {
         id: "bQ",
+        edID: 128049342,
         eddbID: 810,
         cost: 51280360,
         mass: 53
       }, {
         id: "bR",
+        edID: 128049343,
         eddbID: 811,
         cost: 121192590,
         mass: 53
       }, {
         id: "bS",
+        edID: 128049344,
         eddbID: 812,
         cost: 134297570,
         mass: 53
@@ -1223,6 +1355,7 @@ module.exports = {
       }
     },
     sidewinder: {
+      edID: 128049249,
       eddbID: 18,
       properties: {
         name: "Sidewinder",
@@ -1242,26 +1375,31 @@ module.exports = {
       retailCost: 40800,
       bulkheads: [ {
         id: "b0",
+        edID: 128049250,
         eddbID: 738,
         cost: 0,
         mass: 0
       }, {
         id: "b1",
+        edID: 128049251,
         eddbID: 739,
         cost: 25600,
         mass: 2
       }, {
         id: "b2",
+        edID: 128049252,
         eddbID: 740,
         cost: 80320,
         mass: 4
       }, {
         id: "b3",
+        edID: 128049253,
         eddbID: 741,
         cost: 132060,
         mass: 4
       }, {
         id: "b4",
+        edID: 128049254,
         eddbID: 742,
         cost: 139420,
         mass: 4
@@ -1278,6 +1416,7 @@ module.exports = {
       }
     },
     type_6_transporter: {
+      edID: 128049285,
       eddbID: 19,
       properties: {
         name: "Type-6 Transporter",
@@ -1297,26 +1436,31 @@ module.exports = {
       retailCost: 1045950,
       bulkheads: [ {
         id: "Bn",
+        edID: 128049286,
         eddbID: 768,
         cost: 0,
         mass: 0
       }, {
         id: "Bo",
+        edID: 128049287,
         eddbID: 769,
         cost: 418380,
         mass: 12
       }, {
         id: "Bp",
+        edID: 128049288,
         eddbID: 770,
         cost: 941350,
         mass: 23
       }, {
         id: "Bq",
+        edID: 128049289,
         eddbID: 771,
         cost: 2224730,
         mass: 23
       }, {
         id: "Br",
+        edID: 128049290,
         eddbID: 772,
         cost: 2465290,
         mass: 23
@@ -1333,6 +1477,7 @@ module.exports = {
       }
     },
     type_7_transport: {
+      edID: 128049297,
       eddbID: 20,
       properties: {
         name: "Type-7 Transporter",
@@ -1352,26 +1497,31 @@ module.exports = {
       retailCost: 17472250,
       bulkheads: [ {
         id: "Bs",
+        edID: 128049298,
         eddbID: 773,
         cost: 0,
         mass: 0
       }, {
         id: "Bt",
+        edID: 128049299,
         eddbID: 774,
         cost: 6988900,
         mass: 32
       }, {
         id: "Bu",
+        edID: 128049300,
         eddbID: 775,
         cost: 15725030,
         mass: 63
       }, {
         id: "Bv",
+        edID: 128049301,
         eddbID: 776,
         cost: 37163480,
         mass: 63
       }, {
         id: "Bw",
+        edID: 128049302,
         eddbID: 777,
         cost: 41182100,
         mass: 63
@@ -1388,6 +1538,7 @@ module.exports = {
       }
     },
     type_9_heavy: {
+      edID: 128049333,
       eddbID: 21,
       properties: {
         name: "Type-9 Heavy",
@@ -1407,26 +1558,31 @@ module.exports = {
       retailCost: 76555840,
       bulkheads: [ {
         id: "cl",
+        edID: 128049334,
         eddbID: 803,
         cost: 0,
         mass: 0
       }, {
         id: "cm",
+        edID: 128049335,
         eddbID: 804,
         cost: 30622340,
         mass: 75
       }, {
         id: "cn",
+        edID: 128049336,
         eddbID: 805,
         cost: 68900260,
         mass: 150
       }, {
         id: "co",
+        edID: 128049337,
         eddbID: 806,
         cost: 162834280,
         mass: 150
       }, {
         id: "cp",
+        edID: 128049338,
         eddbID: 807,
         cost: 180442120,
         mass: 150
@@ -1443,6 +1599,7 @@ module.exports = {
       }
     },
     viper: {
+      edID: 128049273,
       eddbID: 22,
       properties: {
         name: "Viper",
@@ -1462,26 +1619,31 @@ module.exports = {
       retailCost: 142930,
       bulkheads: [ {
         id: "B3",
+        edID: 128049274,
         eddbID: 758,
         cost: 0,
         mass: 0
       }, {
         id: "B4",
+        edID: 128049275,
         eddbID: 759,
         cost: 57170,
         mass: 5
       }, {
         id: "B5",
+        edID: 128049276,
         eddbID: 760,
         cost: 128640,
         mass: 9
       }, {
         id: "B6",
+        edID: 128049277,
         eddbID: 761,
         cost: 304010,
         mass: 9
       }, {
         id: "B7",
+        edID: 128049278,
         eddbID: 762,
         cost: 336890,
         mass: 9
@@ -1498,6 +1660,7 @@ module.exports = {
       }
     },
     viper_mk_iv: {
+      edID: 128672255,
       eddbID: 28,
       properties: {
         name: "Viper Mk IV",
@@ -1517,26 +1680,31 @@ module.exports = {
       retailCost: 437930,
       bulkheads: [ {
         id: "c6",
+        edID: 128672257,
         eddbID: 1508,
         cost: 0,
         mass: 0
       }, {
         id: "c7",
+        edID: 128672258,
         eddbID: 1509,
         cost: 175180,
         mass: 5
       }, {
         id: "c8",
+        edID: 128672259,
         eddbID: 1510,
         cost: 394140,
         mass: 9
       }, {
         id: "c9",
+        edID: 128672260,
         eddbID: 1511,
         cost: 931490,
         mass: 9
       }, {
         id: "ca",
+        edID: 128672261,
         eddbID: 1512,
         cost: 1033210,
         mass: 9
@@ -1553,6 +1721,7 @@ module.exports = {
       }
     },
     vulture: {
+      edID: 128049309,
       eddbID: 23,
       properties: {
         name: "Vulture",
@@ -1572,26 +1741,31 @@ module.exports = {
       retailCost: 4925620,
       bulkheads: [ {
         id: "B8",
+        edID: 128049310,
         eddbID: 783,
         cost: 0,
         mass: 0
       }, {
         id: "B9",
+        edID: 128049311,
         eddbID: 784,
         cost: 1970250,
         mass: 17
       }, {
         id: "Ba",
+        edID: 128049312,
         eddbID: 785,
         cost: 4433050,
         mass: 35
       }, {
         id: "Bb",
+        edID: 128049313,
         eddbID: 786,
         cost: 10476780,
         mass: 35
       }, {
         id: "Bc",
+        edID: 128049314,
         eddbID: 787,
         cost: 11609670,
         mass: 35
@@ -4947,6 +5121,7 @@ module.exports = {
         thermload: 1
       }, {
         id: "cy",
+        edID: 128671449,
         eddbID: 1477,
         grp: "ul",
         name: "Cytoscrambler",

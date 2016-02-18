@@ -1,5 +1,6 @@
 {
   "imperial_clipper": {
+    "edID": 128049315,
     "eddbID": 13,
     "properties": {
       "name": "Imperial Clipper",
@@ -18,11 +19,11 @@
     },
     "retailCost": 22296860,
       "bulkheads": [
-      { "id": "bp", "eddbID": 788, "cost": 0, "mass": 0 },
-      { "id": "bq", "eddbID": 789, "cost": 8918340, "mass": 30 },
-      { "id": "br", "eddbID": 790, "cost": 20066270, "mass": 60 },
-      { "id": "bs", "eddbID": 791, "cost": 47423290, "mass": 60 },
-      { "id": "bt", "eddbID": 792, "cost": 52551340, "mass": 60 }
+      { "id": "bp", "edID": 128049316, "eddbID": 788, "cost": 0, "mass": 0 },
+      { "id": "bq", "edID": 128049317, "eddbID": 789, "cost": 8918340, "mass": 30 },
+      { "id": "br", "edID": 128049318, "eddbID": 790, "cost": 20066270, "mass": 60 },
+      { "id": "bs", "edID": 128049319, "eddbID": 791, "cost": 47423290, "mass": 60 },
+      { "id": "bt", "edID": 128049320, "eddbID": 792, "cost": 52551340, "mass": 60 }
     ],
     "slots": {
       "standard": [6, 6, 5, 5, 6, 5, 4],

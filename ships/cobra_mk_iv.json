@@ -1,5 +1,6 @@
 {
   "cobra_mk_iv": {
+    "edID": 128672262,
     "eddbID": 29,
     "properties": {
       "name": "Cobra Mk IV",
@@ -18,11 +19,11 @@
     },
     "retailCost": 747660,
     "bulkheads": [
-      { "id": "cg", "eddbID": 1518, "cost": 0, "mass": 0 },
-      { "id": "ch", "eddbID": 1519, "cost": 305890, "mass": 14 },
-      { "id": "ci", "eddbID": 1520, "cost": 688250, "mass": 27 },
-      { "id": "cj", "eddbID": 1521, "cost": 1605910, "mass": 27 },
-      { "id": "ck", "eddbID": 1522, "cost": 1802440, "mass": 27 }
+      { "id": "cg", "edID": 128672264, "eddbID": 1518, "cost": 0, "mass": 0 },
+      { "id": "ch", "edID": 128672265, "eddbID": 1519, "cost": 305890, "mass": 14 },
+      { "id": "ci", "edID": 128672266, "eddbID": 1520, "cost": 688250, "mass": 27 },
+      { "id": "cj", "edID": 128672267, "eddbID": 1521, "cost": 1605910, "mass": 27 },
+      { "id": "ck", "edID": 128672268, "eddbID": 1522, "cost": 1802440, "mass": 27 }
     ],
     "slots": {
       "standard": [4, 4, 4, 3, 3, 3, 4],

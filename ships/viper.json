@@ -1,5 +1,6 @@
 {
   "viper": {
+    "edID": 128049273,
     "eddbID": 22,
     "properties": {
       "name": "Viper",
@@ -18,11 +19,11 @@
     },
     "retailCost": 142930,
     "bulkheads": [
-      { "id": "B3", "eddbID": 758, "cost": 0, "mass": 0 },
-      { "id": "B4", "eddbID": 759, "cost": 57170, "mass": 5 },
-      { "id": "B5", "eddbID": 760, "cost": 128640, "mass": 9 },
-      { "id": "B6", "eddbID": 761, "cost": 304010, "mass": 9 },
-      { "id": "B7", "eddbID": 762, "cost": 336890, "mass": 9 }
+      { "id": "B3", "edID": 128049274, "eddbID": 758, "cost": 0, "mass": 0 },
+      { "id": "B4", "edID": 128049275, "eddbID": 759, "cost": 57170, "mass": 5 },
+      { "id": "B5", "edID": 128049276, "eddbID": 760, "cost": 128640, "mass": 9 },
+      { "id": "B6", "edID": 128049277, "eddbID": 761, "cost": 304010, "mass": 9 },
+      { "id": "B7", "edID": 128049278, "eddbID": 762, "cost": 336890, "mass": 9 }
     ],
     "slots": {
       "standard": [3, 3, 3, 2, 3, 3, 2],

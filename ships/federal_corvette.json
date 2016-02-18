@@ -1,5 +1,6 @@
 {
   "federal_corvette": {
+    "edID": 128049369,
     "eddbID": 25,
     "properties": {
       "name": "Federal Corvette",
@@ -18,11 +19,11 @@
     },
     "retailCost": 187969450,
     "bulkheads": [
-      { "id": "BW", "eddbID": 1498, "cost": 0, "mass": 0 },
-      { "id": "BX", "eddbID": 1499, "cost": 75187790, "mass": 30 },
-      { "id": "BY", "eddbID": 1500, "cost": 169172510, "mass": 60 },
-      { "id": "BZ", "eddbID": 1501, "cost": 399811020, "mass": 60 },
-      { "id": "c0", "eddbID": 1502, "cost": 443044000, "mass": 60 }
+      { "id": "BW", "edID": 128049370, "eddbID": 1498, "cost": 0, "mass": 0 },
+      { "id": "BX", "edID": 128049371, "eddbID": 1499, "cost": 75187790, "mass": 30 },
+      { "id": "BY", "edID": 128049372, "eddbID": 1500, "cost": 169172510, "mass": 60 },
+      { "id": "BZ", "edID": 128049373, "eddbID": 1501, "cost": 399811020, "mass": 60 },
+      { "id": "c0", "edID": 128049374, "eddbID": 1502, "cost": 443044000, "mass": 60 }
     ],
     "slots": {
       "standard": [8, 7, 6, 5, 8, 8, 5],

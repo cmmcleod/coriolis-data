@@ -1,5 +1,6 @@
 {
   "vulture": {
+    "edID": 128049309,
     "eddbID": 23,
     "properties": {
       "name": "Vulture",
@@ -18,11 +19,11 @@
     },
     "retailCost": 4925620,
     "bulkheads": [
-      { "id": "B8", "eddbID": 783, "cost": 0, "mass": 0 },
-      { "id": "B9", "eddbID": 784, "cost": 1970250, "mass": 17 },
-      { "id": "Ba", "eddbID": 785, "cost": 4433050, "mass": 35 },
-      { "id": "Bb", "eddbID": 786, "cost": 10476780, "mass": 35 },
-      { "id": "Bc", "eddbID": 787, "cost": 11609670, "mass": 35 }
+      { "id": "B8", "edID": 128049310, "eddbID": 783, "cost": 0, "mass": 0 },
+      { "id": "B9", "edID": 128049311, "eddbID": 784, "cost": 1970250, "mass": 17 },
+      { "id": "Ba", "edID": 128049312, "eddbID": 785, "cost": 4433050, "mass": 35 },
+      { "id": "Bb", "edID": 128049313, "eddbID": 786, "cost": 10476780, "mass": 35 },
+      { "id": "Bc", "edID": 128049314, "eddbID": 787, "cost": 11609670, "mass": 35 }
     ],
     "slots": {
       "standard": [4, 5, 4, 3, 5, 4, 3],

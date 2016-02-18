@@ -95,13 +95,14 @@ describe('JSON Data', function() {
 
   it('has data for every ship', function() {
     var bulkheadIds = {};
+
     for (var s in Ships) {
       for (var p = 0; p < shipProperties.length; p++) {
         expect(Ships[s].properties[shipProperties[p]]).toBeDefined(shipProperties[p] + ' is missing for ' + s);
       }
       expect(Ships[s].eddbID).toBeDefined(s + ' is missing EDDB ID');
-      // TODO: Get Ids, see github issue  https://github.com/cmmcleod/coriolis-data/issues/6
-      // expect(Ships[s].edID).toBeDefined(s + ' is missing E:D ID');
+      expect(Ships[s].edID).toBeDefined(s + ' is missing E:D ID');
+      expect(edIDs[Ships[s].edID]).toBeFalsy(`${s} E:D ID [${Ships[s].edID}] already exists`);
       expect(Ships[s].slots.standard.length).toEqual(7, s + ' is missing standard slots');
       expect(Ships[s].defaults.standard.length).toEqual(7, s + ' is missing standard defaults');
       expect(Ships[s].slots.hardpoints.length).toEqual(Ships[s].defaults.hardpoints.length, s + ' hardpoint slots and defaults dont match');
@@ -109,6 +110,7 @@ describe('JSON Data', function() {
       expect(Ships[s].retailCost).toBeGreaterThan(Ships[s].properties.hullCost, s + ' has invalid retail cost');
       expect(Ships[s].bulkheads).toBeDefined(s + ' is missing bulkheads');
       expect(Ships[s].bulkheads.length).toEqual(5, s + ' is missing bulkheads');
+      edIDs[Ships[s].edID] = true;
 
       for (var i = 0; i < Ships[s].bulkheads.length; i++) {
         var b = Ships[s].bulkheads[i];
@@ -116,10 +118,9 @@ describe('JSON Data', function() {
         expect(bulkheadIds[b.id]).toBeFalsy(`${s} bulkhead [${i} - ${b.id}] ID already exists`);
         expect(b.eddbID).toBeDefined(`${s} bulkhead [${i} - ${b.id}] is missing EDDB ID`);
         expect(eddbIDs[b.eddbID]).toBeFalsy(`EDDB ID [${b.eddbID}] already exists: ${s} bulkhead [${i} - ${b.id}]`);
-        // TODO: Get Ids, see github issue  https://github.com/cmmcleod/coriolis-data/issues/6
-        // expect(b.edId).toBeDefined(`${s} bulkhead [${i} - ${b.id}] is missing E:D ID`);
-        // expect(edIDs[b.edID]).toBeFalsy(`E:D ID [${b.edID}] already exists: ${s} bulkhead [${i} - ${b.id}]`);
-        // edIDs[b.edID] = true;
+        expect(b.edID).toBeDefined(`${s} bulkhead [${i} - ${b.id}] is missing E:D ID`);
+        expect(edIDs[b.edID]).toBeFalsy(`E:D ID [${b.edID}] already exists: ${s} bulkhead [${i} - ${b.id}]`);
+        edIDs[b.edID] = true;
         eddbIDs[b.eddbID] = true;
         bulkheadIds[b.id] = true;
       }

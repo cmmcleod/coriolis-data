@@ -1,5 +1,6 @@
 {
   "diamondback": {
+    "edID": 128671217,
     "eddbID": 6,
     "properties": {
       "name": "Diamondback Scout",
@@ -18,11 +19,11 @@
     },
     "retailCost": 564330,
     "bulkheads": [
-      { "id": "b5", "eddbID": 1384, "cost": 0, "mass": 0 },
-      { "id": "b6", "eddbID": 1385, "cost": 225700, "mass": 13 },
-      { "id": "b7", "eddbID": 1386, "cost": 507900, "mass": 26 },
-      { "id": "b8", "eddbID": 1387, "cost": 1185100, "mass": 26 },
-      { "id": "b9", "eddbID": 1388, "cost": 1330100, "mass": 26 }
+      { "id": "b5", "edID": 128671218, "eddbID": 1384, "cost": 0, "mass": 0 },
+      { "id": "b6", "edID": 128671219, "eddbID": 1385, "cost": 225700, "mass": 13 },
+      { "id": "b7", "edID": 128671220, "eddbID": 1386, "cost": 507900, "mass": 26 },
+      { "id": "b8", "edID": 128671221, "eddbID": 1387, "cost": 1185100, "mass": 26 },
+      { "id": "b9", "edID": 128671222, "eddbID": 1388, "cost": 1330100, "mass": 26 }
     ],
     "slots": {
       "standard": [ 4, 4, 4, 2, 3, 2, 4],

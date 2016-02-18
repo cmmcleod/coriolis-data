@@ -1,5 +1,6 @@
 {
   "asp": {
+    "edID": 128049303,
     "eddbID": 3,
     "properties": {
       "name": "Asp Explorer",
@@ -18,11 +19,11 @@
     },
     "retailCost": 6661150,
     "bulkheads": [
-      { "id": "BH", "eddbID": 778, "cost": 0, "mass": 0 },
-      { "id": "BI", "eddbID": 779, "cost": 2664460, "mass": 21 },
-      { "id": "BJ", "eddbID": 780, "cost": 5995040, "mass": 42 },
-      { "id": "BK", "eddbID": 781, "cost": 14168270, "mass": 42 },
-      { "id": "BL", "eddbID": 782, "cost": 15700340, "mass": 42 }
+      { "id": "BH", "edID": 128049304, "eddbID": 778, "cost": 0, "mass": 0 },
+      { "id": "BI", "edID": 128049305, "eddbID": 779, "cost": 2664460, "mass": 21 },
+      { "id": "BJ", "edID": 128049306, "eddbID": 780, "cost": 5995040, "mass": 42 },
+      { "id": "BK", "edID": 128049307, "eddbID": 781, "cost": 14168270, "mass": 42 },
+      { "id": "BL", "edID": 128049308, "eddbID": 782, "cost": 15700340, "mass": 42 }
     ],
     "slots": {
       "standard": [5, 5, 5, 4, 4, 5, 5],

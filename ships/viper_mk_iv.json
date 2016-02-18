@@ -1,5 +1,6 @@
 {
   "viper_mk_iv": {
+    "edID": 128672255,
     "eddbID": 28,
     "properties": {
       "name": "Viper Mk IV",
@@ -18,11 +19,11 @@
     },
     "retailCost": 437930,
     "bulkheads": [
-      { "id": "c6", "eddbID": 1508, "cost": 0, "mass": 0 },
-      { "id": "c7", "eddbID": 1509, "cost": 175180, "mass": 5 },
-      { "id": "c8", "eddbID": 1510, "cost": 394140, "mass": 9 },
-      { "id": "c9", "eddbID": 1511, "cost": 931490, "mass": 9 },
-      { "id": "ca", "eddbID": 1512, "cost": 1033210, "mass": 9 }
+      { "id": "c6", "edID": 128672257, "eddbID": 1508, "cost": 0, "mass": 0 },
+      { "id": "c7", "edID": 128672258, "eddbID": 1509, "cost": 175180, "mass": 5 },
+      { "id": "c8", "edID": 128672259, "eddbID": 1510, "cost": 394140, "mass": 9 },
+      { "id": "c9", "edID": 128672260, "eddbID": 1511, "cost": 931490, "mass": 9 },
+      { "id": "ca", "edID": 128672261, "eddbID": 1512, "cost": 1033210, "mass": 9 }
     ],
     "slots": {
       "standard": [4, 4, 4, 2, 3, 3, 4],

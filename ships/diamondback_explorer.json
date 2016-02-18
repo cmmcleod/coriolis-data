@@ -1,6 +1,6 @@
 {
   "diamondback_explorer": {
-    "eddbID": 5,
+    "edID": 128671831, "eddbID": 5,
     "properties": {
       "name": "Diamondback Explorer",
       "manufacturer": "Lakon",
@@ -18,11 +18,11 @@
     },
     "retailCost": 1894760,
     "bulkheads": [
-      { "id": "ba", "eddbID": 1456, "cost": 0, "mass": 0 },
-      { "id": "bb", "eddbID": 1457, "cost": 800000, "mass": 23 },
-      { "id": "bc", "eddbID": 1458, "cost": 1800000, "mass": 47 },
-      { "id": "bd", "eddbID": 1459, "cost": 4200000, "mass": 26 },
-      { "id": "be", "eddbID": 1460, "cost": 4714000, "mass": 47 }
+      { "id": "ba", "edID": 128671832, "eddbID": 1456, "cost": 0, "mass": 0 },
+      { "id": "bb", "edID": 128671833, "eddbID": 1457, "cost": 800000, "mass": 23 },
+      { "id": "bc", "edID": 128671834, "eddbID": 1458, "cost": 1800000, "mass": 47 },
+      { "id": "bd", "edID": 128671835, "eddbID": 1459, "cost": 4200000, "mass": 26 },
+      { "id": "be", "edID": 128671836, "eddbID": 1460, "cost": 4714000, "mass": 47 }
     ],
     "slots": {
       "standard": [ 4, 4, 5, 3, 4, 3, 5],
