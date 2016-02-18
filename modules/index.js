@@ -2,7 +2,7 @@ module.exports = {
   standard: {
     pp: require('./standard/power_plant').pp,
     t: require('./standard/thrusters').t,
-    fd: require('./standard/frame_shift_drive').fd,
+    fsd: require('./standard/frame_shift_drive').fsd,
     ls: require('./standard/life_support').ls,
     pd: require('./standard/power_distributor').pd,
     s: require('./standard/sensors').s,

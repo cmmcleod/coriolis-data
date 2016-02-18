@@ -14,7 +14,8 @@
   "scripts": {
     "lint": "eslint --plugin json --ext .json modules ships",
     "jasmine": "jasmine-node spec",
-    "test": "npm run lint && npm run jasmine",
+    "jasmine-no-stack": "jasmine-node --noStack spec",
+    "test": "npm run lint && npm run jasmine-no-stack",
     "start": "node generate_distribution.js"
   },
   "devDependencies": {

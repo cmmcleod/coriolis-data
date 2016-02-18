@@ -1406,27 +1406,27 @@ module.exports = {
       },
       retailCost: 76555840,
       bulkheads: [ {
-        id: "Bx",
+        id: "cl",
         eddbID: 803,
         cost: 0,
         mass: 0
       }, {
-        id: "By",
+        id: "cm",
         eddbID: 804,
         cost: 30622340,
         mass: 75
       }, {
-        id: "Bz",
+        id: "cn",
         eddbID: 805,
         cost: 68900260,
         mass: 150
       }, {
-        id: "BA",
+        id: "co",
         eddbID: 806,
         cost: 162834280,
         mass: 150
       }, {
-        id: "BB",
+        id: "cp",
         eddbID: 807,
         cost: 180442120,
         mass: 150
@@ -2487,11 +2487,11 @@ module.exports = {
         optmass: 72,
         maxmass: 108
       } ],
-      fd: [ {
+      fsd: [ {
         id: "Fy",
         edID: 128064133,
         eddbID: 991,
-        grp: "fd",
+        grp: "fsd",
         "class": 8,
         rating: "E",
         cost: 0,
@@ -2505,7 +2505,7 @@ module.exports = {
         id: "Fx",
         edID: 128064134,
         eddbID: 992,
-        grp: "fd",
+        grp: "fsd",
         "class": 8,
         rating: "D",
         cost: 0,
@@ -2519,7 +2519,7 @@ module.exports = {
         id: "Fw",
         edID: 128064135,
         eddbID: 993,
-        grp: "fd",
+        grp: "fsd",
         "class": 8,
         rating: "C",
         cost: 0,
@@ -2533,7 +2533,7 @@ module.exports = {
         id: "Fv",
         edID: 128064136,
         eddbID: 994,
-        grp: "fd",
+        grp: "fsd",
         "class": 8,
         rating: "B",
         cost: 0,
@@ -2547,7 +2547,7 @@ module.exports = {
         id: "Fu",
         edID: 128064137,
         eddbID: 995,
-        grp: "fd",
+        grp: "fsd",
         "class": 8,
         rating: "A",
         cost: 0,
@@ -2561,7 +2561,7 @@ module.exports = {
         id: "Ft",
         edID: 128064128,
         eddbID: 986,
-        grp: "fd",
+        grp: "fsd",
         "class": 7,
         rating: "E",
         cost: 633200,
@@ -2575,7 +2575,7 @@ module.exports = {
         id: "Fs",
         edID: 128064129,
         eddbID: 987,
-        grp: "fd",
+        grp: "fsd",
         "class": 7,
         rating: "D",
         cost: 1899600,
@@ -2589,7 +2589,7 @@ module.exports = {
         id: "Fr",
         edID: 128064130,
         eddbID: 988,
-        grp: "fd",
+        grp: "fsd",
         "class": 7,
         rating: "C",
         cost: 5698790,
@@ -2603,7 +2603,7 @@ module.exports = {
         id: "Fq",
         edID: 128064131,
         eddbID: 989,
-        grp: "fd",
+        grp: "fsd",
         "class": 7,
         rating: "B",
         cost: 17096370,
@@ -2617,7 +2617,7 @@ module.exports = {
         id: "Fp",
         edID: 128064132,
         eddbID: 990,
-        grp: "fd",
+        grp: "fsd",
         "class": 7,
         rating: "A",
         cost: 51289110,
@@ -2631,7 +2631,7 @@ module.exports = {
         id: "Fo",
         edID: 128064123,
         eddbID: 981,
-        grp: "fd",
+        grp: "fsd",
         "class": 6,
         rating: "E",
         cost: 199750,
@@ -2645,7 +2645,7 @@ module.exports = {
         id: "Fn",
         edID: 128064124,
         eddbID: 982,
-        grp: "fd",
+        grp: "fsd",
         "class": 6,
         rating: "D",
         cost: 599240,
@@ -2659,7 +2659,7 @@ module.exports = {
         id: "Fm",
         edID: 128064125,
         eddbID: 983,
-        grp: "fd",
+        grp: "fsd",
         "class": 6,
         rating: "C",
         cost: 1797730,
@@ -2673,7 +2673,7 @@ module.exports = {
         id: "Fl",
         edID: 128064126,
         eddbID: 984,
-        grp: "fd",
+        grp: "fsd",
         "class": 6,
         rating: "B",
         cost: 5393180,
@@ -2687,7 +2687,7 @@ module.exports = {
         id: "Fk",
         edID: 128064127,
         eddbID: 985,
-        grp: "fd",
+        grp: "fsd",
         "class": 6,
         rating: "A",
         cost: 16179530,
@@ -2701,7 +2701,7 @@ module.exports = {
         id: "Fj",
         edID: 128064118,
         eddbID: 976,
-        grp: "fd",
+        grp: "fsd",
         "class": 5,
         rating: "E",
         cost: 63010,
@@ -2715,7 +2715,7 @@ module.exports = {
         id: "Fi",
         edID: 128064119,
         eddbID: 977,
-        grp: "fd",
+        grp: "fsd",
         "class": 5,
         rating: "D",
         cost: 189040,
@@ -2729,7 +2729,7 @@ module.exports = {
         id: "Fh",
         edID: 128064120,
         eddbID: 978,
-        grp: "fd",
+        grp: "fsd",
         "class": 5,
         rating: "C",
         cost: 567110,
@@ -2743,7 +2743,7 @@ module.exports = {
         id: "Fg",
         edID: 128064121,
         eddbID: 979,
-        grp: "fd",
+        grp: "fsd",
         "class": 5,
         rating: "B",
         cost: 1701320,
@@ -2757,7 +2757,7 @@ module.exports = {
         id: "Ff",
         edID: 128064122,
         eddbID: 980,
-        grp: "fd",
+        grp: "fsd",
         "class": 5,
         rating: "A",
         cost: 5103950,
@@ -2771,7 +2771,7 @@ module.exports = {
         id: "Fe",
         edID: 128064113,
         eddbID: 971,
-        grp: "fd",
+        grp: "fsd",
         "class": 4,
         rating: "E",
         cost: 19880,
@@ -2785,7 +2785,7 @@ module.exports = {
         id: "Fd",
         edID: 128064114,
         eddbID: 972,
-        grp: "fd",
+        grp: "fsd",
         "class": 4,
         rating: "D",
         cost: 59630,
@@ -2799,7 +2799,7 @@ module.exports = {
         id: "Fc",
         edID: 128064115,
         eddbID: 973,
-        grp: "fd",
+        grp: "fsd",
         "class": 4,
         rating: "C",
         cost: 178900,
@@ -2813,7 +2813,7 @@ module.exports = {
         id: "Fb",
         edID: 128064116,
         eddbID: 974,
-        grp: "fd",
+        grp: "fsd",
         "class": 4,
         rating: "B",
         cost: 536690,
@@ -2827,7 +2827,7 @@ module.exports = {
         id: "Fa",
         edID: 128064117,
         eddbID: 975,
-        grp: "fd",
+        grp: "fsd",
         "class": 4,
         rating: "A",
         cost: 1610080,
@@ -2841,7 +2841,7 @@ module.exports = {
         id: "F9",
         edID: 128064108,
         eddbID: 966,
-        grp: "fd",
+        grp: "fsd",
         "class": 3,
         rating: "E",
         cost: 6270,
@@ -2855,7 +2855,7 @@ module.exports = {
         id: "F8",
         edID: 128064109,
         eddbID: 967,
-        grp: "fd",
+        grp: "fsd",
         "class": 3,
         rating: "D",
         cost: 18810,
@@ -2869,7 +2869,7 @@ module.exports = {
         id: "F7",
         edID: 128064110,
         eddbID: 968,
-        grp: "fd",
+        grp: "fsd",
         "class": 3,
         rating: "C",
         cost: 56440,
@@ -2883,7 +2883,7 @@ module.exports = {
         id: "F6",
         edID: 128064111,
         eddbID: 969,
-        grp: "fd",
+        grp: "fsd",
         "class": 3,
         rating: "B",
         cost: 169300,
@@ -2897,7 +2897,7 @@ module.exports = {
         id: "F5",
         edID: 128064112,
         eddbID: 970,
-        grp: "fd",
+        grp: "fsd",
         "class": 3,
         rating: "A",
         cost: 507910,
@@ -2911,7 +2911,7 @@ module.exports = {
         id: "F4",
         edID: 128064103,
         eddbID: 961,
-        grp: "fd",
+        grp: "fsd",
         "class": 2,
         rating: "E",
         cost: 1980,
@@ -2925,7 +2925,7 @@ module.exports = {
         id: "F3",
         edID: 128064104,
         eddbID: 962,
-        grp: "fd",
+        grp: "fsd",
         "class": 2,
         rating: "D",
         cost: 5930,
@@ -2939,7 +2939,7 @@ module.exports = {
         id: "F2",
         edID: 128064105,
         eddbID: 963,
-        grp: "fd",
+        grp: "fsd",
         "class": 2,
         rating: "C",
         cost: 17800,
@@ -2953,7 +2953,7 @@ module.exports = {
         id: "F1",
         edID: 128064106,
         eddbID: 964,
-        grp: "fd",
+        grp: "fsd",
         "class": 2,
         rating: "B",
         cost: 53410,
@@ -2967,7 +2967,7 @@ module.exports = {
         id: "F0",
         edID: 128064107,
         eddbID: 965,
-        grp: "fd",
+        grp: "fsd",
         "class": 2,
         rating: "A",
         cost: 160220,
@@ -6096,7 +6096,8 @@ module.exports = {
         ammocost: 209
       }, {
         id: "kp",
-        eddbID: 0,
+        edID: 128671448,
+        eddbID: 1523,
         grp: "nl",
         name: "Shock Mine Launcher",
         "class": 1,
@@ -6951,6 +6952,7 @@ module.exports = {
       } ],
       bsg: [ {
         id: "B6",
+        edID: 128671331,
         eddbID: 1530,
         grp: "bsg",
         "class": 1,
@@ -6967,6 +6969,7 @@ module.exports = {
         recover: 2.4
       }, {
         id: "B5",
+        edID: 128671332,
         eddbID: 1531,
         grp: "bsg",
         "class": 2,
@@ -6983,6 +6986,7 @@ module.exports = {
         recover: 2.4
       }, {
         id: "B4",
+        edID: 128671333,
         eddbID: 1532,
         grp: "bsg",
         "class": 3,
@@ -6999,6 +7003,7 @@ module.exports = {
         recover: 2.4
       }, {
         id: "B3",
+        edID: 128671334,
         eddbID: 1533,
         grp: "bsg",
         "class": 4,
@@ -7015,6 +7020,7 @@ module.exports = {
         recover: 2.85
       }, {
         id: "B2",
+        edID: 128671335,
         eddbID: 1534,
         grp: "bsg",
         "class": 5,
@@ -7031,6 +7037,7 @@ module.exports = {
         recover: 3.75
       }, {
         id: "B1",
+        edID: 128671336,
         eddbID: 1535,
         grp: "bsg",
         "class": 6,
@@ -7047,6 +7054,7 @@ module.exports = {
         recover: 4.8
       }, {
         id: "B0",
+        edID: 128671337,
         eddbID: 1536,
         grp: "bsg",
         "class": 7,
@@ -7063,6 +7071,7 @@ module.exports = {
         recover: 6
       }, {
         id: "B7",
+        edID: 128671338,
         eddbID: 1537,
         grp: "bsg",
         "class": 8,
@@ -8703,6 +8712,7 @@ module.exports = {
       } ],
       pv: [ {
         id: "v1",
+        edID: 128672292,
         eddbID: 1524,
         grp: "pv",
         "class": 6,
@@ -8713,6 +8723,7 @@ module.exports = {
         bays: 4
       }, {
         id: "v2",
+        edID: 128672293,
         eddbID: 1525,
         grp: "pv",
         "class": 6,
@@ -8723,6 +8734,7 @@ module.exports = {
         bays: 4
       }, {
         id: "v3",
+        edID: 128672290,
         eddbID: 1526,
         grp: "pv",
         "class": 4,
@@ -8733,6 +8745,7 @@ module.exports = {
         bays: 2
       }, {
         id: "v4",
+        edID: 128672291,
         eddbID: 1527,
         grp: "pv",
         "class": 4,
@@ -8743,6 +8756,7 @@ module.exports = {
         bays: 2
       }, {
         id: "v5",
+        edID: 128672288,
         eddbID: 1528,
         grp: "pv",
         "class": 2,
@@ -8753,6 +8767,7 @@ module.exports = {
         bays: 1
       }, {
         id: "v6",
+        edID: 128672289,
         eddbID: 1529,
         grp: "pv",
         "class": 2,
@@ -8764,6 +8779,7 @@ module.exports = {
       } ],
       psg: [ {
         id: "p6",
+        edID: 128671323,
         eddbID: 1485,
         grp: "psg",
         "class": 1,
@@ -8780,6 +8796,7 @@ module.exports = {
         recover: 1.2
       }, {
         id: "p5",
+        edID: 128671324,
         eddbID: 1486,
         grp: "psg",
         "class": 2,
@@ -8796,6 +8813,7 @@ module.exports = {
         recover: 1.2
       }, {
         id: "p4",
+        edID: 128671325,
         eddbID: 1487,
         grp: "psg",
         "class": 3,
@@ -8812,6 +8830,7 @@ module.exports = {
         recover: 1.2
       }, {
         id: "p3",
+        edID: 128671326,
         eddbID: 1488,
         grp: "psg",
         "class": 4,
@@ -8828,6 +8847,7 @@ module.exports = {
         recover: 1.425
       }, {
         id: "p2",
+        edID: 128671327,
         eddbID: 1489,
         grp: "psg",
         "class": 5,
@@ -8844,6 +8864,7 @@ module.exports = {
         recover: 1.875
       }, {
         id: "p1",
+        edID: 128671328,
         eddbID: 1490,
         grp: "psg",
         "class": 6,
@@ -8860,6 +8881,7 @@ module.exports = {
         recover: 2.4
       }, {
         id: "p0",
+        edID: 128671329,
         eddbID: 1491,
         grp: "psg",
         "class": 7,
@@ -8876,6 +8898,7 @@ module.exports = {
         recover: 3
       }, {
         id: "p7",
+        edID: 202115326,
         eddbID: 1492,
         grp: "psg",
         "class": 8,
