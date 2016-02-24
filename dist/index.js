@@ -5742,7 +5742,7 @@ module.exports = {
         clip: 3,
         mjdps: 15.19,
         ssdam: 28.36,
-        ammo: 30,
+        ammo: 90,
         ammocost: 50
       }, {
         id: "1u",
@@ -5764,7 +5764,7 @@ module.exports = {
         clip: 3,
         mjdps: 12.77,
         ssdam: 23.21,
-        ammo: 30,
+        ammo: 90,
         ammocost: 50
       }, {
         id: "1v",
@@ -5786,7 +5786,7 @@ module.exports = {
         clip: 3,
         mjdps: 6.85,
         ssdam: 12.89,
-        ammo: 30,
+        ammo: 90,
         ammocost: 50
       }, {
         id: "1s",
@@ -5808,7 +5808,7 @@ module.exports = {
         clip: 3,
         mjdps: 9.5,
         ssdam: 18.05,
-        ammo: 30,
+        ammo: 90,
         ammocost: 50
       }, {
         id: "7e",
@@ -5828,7 +5828,7 @@ module.exports = {
         dps: 9,
         thermload: 1,
         clip: 3,
-        ammo: 30,
+        ammo: 90,
         ammocost: 50
       }, {
         id: "7f",
@@ -5848,7 +5848,7 @@ module.exports = {
         dps: 9,
         thermload: 1,
         clip: 3,
-        ammo: 30,
+        ammo: 90,
         ammocost: 50
       }, {
         id: "20",
@@ -5870,7 +5870,7 @@ module.exports = {
         clip: 3,
         mjdps: 5.53,
         ssdam: 10.31,
-        ammo: 30,
+        ammo: 90,
         ammocost: 50
       }, {
         id: "21",
@@ -5892,7 +5892,7 @@ module.exports = {
         clip: 3,
         mjdps: 3.58,
         ssdam: 6.45,
-        ammo: 30,
+        ammo: 90,
         ammocost: 50
       }, {
         id: "22",
@@ -5914,10 +5914,11 @@ module.exports = {
         clip: 3,
         mjdps: 2.11,
         ssdam: 3.87,
-        ammo: 30,
+        ammo: 90,
         ammocost: 50
       }, {
         id: "pa",
+        edID: 128671343,
         eddbID: 1478,
         grp: "fc",
         name: "Pacifier",
@@ -5934,7 +5935,7 @@ module.exports = {
         dps: 9,
         thermload: 1,
         clip: 3,
-        ammo: 30
+        ammo: 90
       } ],
       rg: [ {
         id: "29",
@@ -5982,6 +5983,7 @@ module.exports = {
         ammocost: 200
       }, {
         id: "ih",
+        edID: 128671341,
         eddbID: 1484,
         grp: "rg",
         name: "Imperial Hammer",
@@ -9577,8 +9579,7 @@ module.exports = {
         rating: "C",
         cost: 25e4,
         mass: 1.3,
-        power: 0,
-        rangeLS: .33
+        power: 0
       } ],
       scb: [ {
         id: "65",
@@ -9592,7 +9593,7 @@ module.exports = {
         power: 1.44,
         cells: 6,
         rechargeRating: "C",
-        recharge: 105,
+        recharge: 475,
         ammocost: 300
       }, {
         id: "64",
@@ -9606,7 +9607,7 @@ module.exports = {
         power: 1.92,
         cells: 4,
         rechargeRating: "C",
-        recharge: 140,
+        recharge: 630,
         ammocost: 300
       }, {
         id: "63",
@@ -9620,7 +9621,7 @@ module.exports = {
         power: 2.4,
         cells: 5,
         rechargeRating: "B",
-        recharge: 175,
+        recharge: 790,
         ammocost: 300
       }, {
         id: "62",
@@ -9634,7 +9635,7 @@ module.exports = {
         power: 2.88,
         cells: 6,
         rechargeRating: "A",
-        recharge: 210,
+        recharge: 950,
         ammocost: 300
       }, {
         id: "61",
@@ -9648,7 +9649,7 @@ module.exports = {
         power: 3.36,
         cells: 5,
         rechargeRating: "A",
-        recharge: 245,
+        recharge: 1105,
         ammocost: 300
       }, {
         id: "60",
@@ -9662,7 +9663,7 @@ module.exports = {
         power: 1.24,
         cells: 6,
         rechargeRating: "D",
-        recharge: 95,
+        recharge: 280,
         ammocost: 300
       }, {
         id: "5v",
@@ -9676,7 +9677,7 @@ module.exports = {
         power: 1.66,
         cells: 4,
         rechargeRating: "C",
-        recharge: 130,
+        recharge: 370,
         ammocost: 300
       }, {
         id: "5u",
@@ -9690,7 +9691,7 @@ module.exports = {
         power: 2.07,
         cells: 5,
         rechargeRating: "B",
-        recharge: 160,
+        recharge: 465,
         ammocost: 300
       }, {
         id: "5t",
@@ -9704,7 +9705,7 @@ module.exports = {
         power: 2.48,
         cells: 6,
         rechargeRating: "B",
-        recharge: 195,
+        recharge: 560,
         ammocost: 300
       }, {
         id: "5s",
@@ -9718,7 +9719,7 @@ module.exports = {
         power: 2.9,
         cells: 5,
         rechargeRating: "A",
-        recharge: 225,
+        recharge: 650,
         ammocost: 300
       }, {
         id: "5r",
@@ -9732,7 +9733,7 @@ module.exports = {
         power: 1.06,
         cells: 6,
         rechargeRating: "D",
-        recharge: 90,
+        recharge: 150,
         ammocost: 300
       }, {
         id: "5q",
@@ -9746,7 +9747,7 @@ module.exports = {
         power: 1.42,
         cells: 4,
         rechargeRating: "C",
-        recharge: 115,
+        recharge: 200,
         ammocost: 300
       }, {
         id: "5p",
@@ -9760,7 +9761,7 @@ module.exports = {
         power: 1.77,
         cells: 5,
         rechargeRating: "C",
-        recharge: 145,
+        recharge: 250,
         ammocost: 300
       }, {
         id: "5o",
@@ -9774,7 +9775,7 @@ module.exports = {
         power: 2.12,
         cells: 6,
         rechargeRating: "B",
-        recharge: 175,
+        recharge: 300,
         ammocost: 300
       }, {
         id: "5n",
@@ -9788,7 +9789,7 @@ module.exports = {
         power: 2.48,
         cells: 5,
         rechargeRating: "A",
-        recharge: 205,
+        recharge: 350,
         ammocost: 300
       }, {
         id: "5m",
@@ -9802,7 +9803,7 @@ module.exports = {
         power: .9,
         cells: 5,
         rechargeRating: "D",
-        recharge: 80,
+        recharge: 105,
         ammocost: 300
       }, {
         id: "5l",
@@ -9816,7 +9817,7 @@ module.exports = {
         power: 1.2,
         cells: 3,
         rechargeRating: "C",
-        recharge: 105,
+        recharge: 140,
         ammocost: 300
       }, {
         id: "5k",
@@ -9830,7 +9831,7 @@ module.exports = {
         power: 1.5,
         cells: 4,
         rechargeRating: "C",
-        recharge: 130,
+        recharge: 175,
         ammocost: 300
       }, {
         id: "5j",
@@ -9844,7 +9845,7 @@ module.exports = {
         power: 1.8,
         cells: 5,
         rechargeRating: "B",
-        recharge: 160,
+        recharge: 210,
         ammocost: 300
       }, {
         id: "5i",
@@ -9858,7 +9859,7 @@ module.exports = {
         power: 2.1,
         cells: 4,
         rechargeRating: "B",
-        recharge: 185,
+        recharge: 245,
         ammocost: 300
       }, {
         id: "5h",
@@ -9872,7 +9873,7 @@ module.exports = {
         power: .74,
         cells: 5,
         rechargeRating: "D",
-        recharge: 70,
+        recharge: 65,
         ammocost: 300
       }, {
         id: "5g",
@@ -9900,7 +9901,7 @@ module.exports = {
         power: 1.23,
         cells: 4,
         rechargeRating: "C",
-        recharge: 115,
+        recharge: 110,
         ammocost: 300
       }, {
         id: "5e",
@@ -9914,7 +9915,7 @@ module.exports = {
         power: 1.48,
         cells: 5,
         rechargeRating: "C",
-        recharge: 140,
+        recharge: 135,
         ammocost: 300
       }, {
         id: "5d",
@@ -9928,7 +9929,7 @@ module.exports = {
         power: 1.72,
         cells: 4,
         rechargeRating: "B",
-        recharge: 160,
+        recharge: 155,
         ammocost: 300
       }, {
         id: "5c",
@@ -9942,7 +9943,7 @@ module.exports = {
         power: .61,
         cells: 5,
         rechargeRating: "D",
-        recharge: 60,
+        recharge: 40,
         ammocost: 300
       }, {
         id: "5b",
@@ -9956,7 +9957,7 @@ module.exports = {
         power: .82,
         cells: 3,
         rechargeRating: "D",
-        recharge: 75,
+        recharge: 50,
         ammocost: 300
       }, {
         id: "5a",
@@ -9970,7 +9971,7 @@ module.exports = {
         power: 1.02,
         cells: 4,
         rechargeRating: "D",
-        recharge: 95,
+        recharge: 65,
         ammocost: 300
       }, {
         id: "59",
@@ -9984,7 +9985,7 @@ module.exports = {
         power: 1.22,
         cells: 5,
         rechargeRating: "C",
-        recharge: 115,
+        recharge: 80,
         ammocost: 300
       }, {
         id: "58",
@@ -9998,7 +9999,7 @@ module.exports = {
         power: 1.43,
         cells: 4,
         rechargeRating: "C",
-        recharge: 135,
+        recharge: 90,
         ammocost: 300
       }, {
         id: "57",
@@ -10012,7 +10013,7 @@ module.exports = {
         power: .5,
         cells: 5,
         rechargeRating: "E",
-        recharge: 45,
+        recharge: 25,
         ammocost: 300
       }, {
         id: "56",
@@ -10026,7 +10027,7 @@ module.exports = {
         power: .67,
         cells: 3,
         rechargeRating: "D",
-        recharge: 60,
+        recharge: 30,
         ammocost: 300
       }, {
         id: "55",
@@ -10040,7 +10041,7 @@ module.exports = {
         power: .84,
         cells: 4,
         rechargeRating: "D",
-        recharge: 75,
+        recharge: 38,
         ammocost: 300
       }, {
         id: "54",
@@ -10054,7 +10055,7 @@ module.exports = {
         power: 1.01,
         cells: 5,
         rechargeRating: "D",
-        recharge: 90,
+        recharge: 45,
         ammocost: 300
       }, {
         id: "53",
@@ -10068,7 +10069,7 @@ module.exports = {
         power: 1.18,
         cells: 4,
         rechargeRating: "C",
-        recharge: 105,
+        recharge: 55,
         ammocost: 300
       }, {
         id: "52",
@@ -10082,7 +10083,7 @@ module.exports = {
         power: .41,
         cells: 4,
         rechargeRating: "E",
-        recharge: 30,
+        recharge: 10,
         ammocost: 300
       }, {
         id: "51",
@@ -10096,7 +10097,7 @@ module.exports = {
         power: .55,
         cells: 2,
         rechargeRating: "E",
-        recharge: 40,
+        recharge: 12.5,
         ammocost: 300
       }, {
         id: "50",
@@ -10110,7 +10111,7 @@ module.exports = {
         power: .69,
         cells: 3,
         rechargeRating: "D",
-        recharge: 50,
+        recharge: 15,
         ammocost: 300
       }, {
         id: "4v",
@@ -10124,7 +10125,7 @@ module.exports = {
         power: .83,
         cells: 4,
         rechargeRating: "D",
-        recharge: 60,
+        recharge: 20,
         ammocost: 300
       }, {
         id: "4u",
@@ -10138,7 +10139,7 @@ module.exports = {
         power: .97,
         cells: 3,
         rechargeRating: "D",
-        recharge: 70,
+        recharge: 25,
         ammocost: 300
       } ],
       sg: [ {
