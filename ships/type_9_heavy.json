@@ -19,11 +19,11 @@
     },
     "retailCost": 76555840,
     "bulkheads": [
-      { "id": "cl", "edID": 128049334, "eddbID": 803, "cost": 0, "mass": 0 },
-      { "id": "cm", "edID": 128049335, "eddbID": 804, "cost": 30622340, "mass": 75 },
-      { "id": "cn", "edID": 128049336, "eddbID": 805, "cost": 68900260, "mass": 150 },
-      { "id": "co", "edID": 128049337, "eddbID": 806, "cost": 162834280, "mass": 150 },
-      { "id": "cp", "edID": 128049338, "eddbID": 807, "cost": 180442120, "mass": 150 }
+      { "id": "Bx", "edID": 128049334, "eddbID": 803, "cost": 0, "mass": 0 },
+      { "id": "By", "edID": 128049335, "eddbID": 804, "cost": 30622340, "mass": 75 },
+      { "id": "Bz", "edID": 128049336, "eddbID": 805, "cost": 68900260, "mass": 150 },
+      { "id": "BA", "edID": 128049337, "eddbID": 806, "cost": 162834280, "mass": 150 },
+      { "id": "BB", "edID": 128049338, "eddbID": 807, "cost": 180442120, "mass": 150 }
     ],
     "slots": {
       "standard": [6, 7, 6, 5, 6, 4, 6],

@@ -20,35 +20,35 @@ module.exports = {
       },
       retailCost: 87810,
       bulkheads: [ {
-        id: "Bx",
+        id: "BC",
         edID: 128049268,
         eddbID: 753,
         cost: 0,
         mass: 0
       }, {
-        id: "By",
+        id: "BD",
         edID: 128049269,
         eddbID: 754,
-        cost: 30622340,
-        mass: 75
+        cost: 35120,
+        mass: 3
       }, {
-        id: "Bz",
+        id: "BE",
         edID: 128049270,
         eddbID: 755,
-        cost: 68900260,
-        mass: 150
+        cost: 79030,
+        mass: 5
       }, {
-        id: "BA",
+        id: "BF",
         edID: 128049271,
         eddbID: 756,
-        cost: 162834280,
-        mass: 150
+        cost: 186770,
+        mass: 5
       }, {
-        id: "BB",
+        id: "BG",
         edID: 128049272,
         eddbID: 757,
-        cost: 180442120,
-        mass: 150
+        cost: 206960,
+        mass: 5
       } ],
       slots: {
         standard: [ 3, 3, 3, 1, 2, 3, 3 ],
@@ -1557,31 +1557,31 @@ module.exports = {
       },
       retailCost: 76555840,
       bulkheads: [ {
-        id: "cl",
+        id: "Bx",
         edID: 128049334,
         eddbID: 803,
         cost: 0,
         mass: 0
       }, {
-        id: "cm",
+        id: "By",
         edID: 128049335,
         eddbID: 804,
         cost: 30622340,
         mass: 75
       }, {
-        id: "cn",
+        id: "Bz",
         edID: 128049336,
         eddbID: 805,
         cost: 68900260,
         mass: 150
       }, {
-        id: "co",
+        id: "BA",
         edID: 128049337,
         eddbID: 806,
         cost: 162834280,
         mass: 150
       }, {
-        id: "cp",
+        id: "BB",
         edID: 128049338,
         eddbID: 807,
         cost: 180442120,
