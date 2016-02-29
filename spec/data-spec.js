@@ -1,5 +1,5 @@
-var Modules = require('../Modules');
-var Ships = require('../Ships');
+var Modules = require('../modules');
+var Ships = require('../ships');
 
 describe('JSON Data', function() {
 
