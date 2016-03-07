@@ -541,7 +541,7 @@ module.exports = {
       slots: {
         standard: [ 2, 3, 3, 1, 2, 2, 2 ],
         hardpoints: [ 1, 1, 1, 0 ],
-        internal: [ 3, 2, 1 ]
+        internal: [ 3, 2, 1, 1 ]
       },
       defaults: {
         standard: [ "2E", "3E", "3E", "1E", "2E", "2E", "2C" ],
@@ -1407,7 +1407,7 @@ module.exports = {
       slots: {
         standard: [ 2, 2, 2, 1, 1, 1, 1 ],
         hardpoints: [ 1, 1, 0, 0 ],
-        internal: [ 2, 2, 1 ]
+        internal: [ 2, 2, 1, 1 ]
       },
       defaults: {
         standard: [ "2E", "2E", "2E", "1E", "1E", "1E", "1C" ],
