@@ -33,7 +33,7 @@
     "defaults": {
       "standard": ["2E", "3E", "3E", "1E", "2E", "2E", "2C"],
       "hardpoints": [17, 17, 0, 0],
-      "internal": ["44", "00", "2h"]
+      "internal": ["44", "00", "2h", 0]
     }
   }
 }
