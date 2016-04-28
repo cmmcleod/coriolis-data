@@ -1,6 +1,6 @@
 {
   "name": "coriolis-data",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/cmmcleod/coriolis-data"
@@ -12,7 +12,7 @@
   "engine": "node >= 0.12.2",
   "license": "MIT",
   "scripts": {
-    "lint": "eslint --plugin json --ext .json modules ships",
+    "lint": "eslint --plugin json --ext .json modules ships dist",
     "jasmine": "jasmine-node spec",
     "jasmine-no-stack": "jasmine-node --noStack spec",
     "test": "npm run lint && npm run jasmine-no-stack",

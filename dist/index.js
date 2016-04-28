@@ -6070,6 +6070,7 @@ module.exports = {
         ammocost: 200
       }, {
         id: "Ap",
+        edID: 128671339,
         eddbID: 1482,
         grp: "pa",
         name: "Advanced Plasma Accelerator",
@@ -6183,6 +6184,7 @@ module.exports = {
         ammocost: 666.67
       }, {
         id: "Ph",
+        edID: 128671344,
         eddbID: 1480,
         grp: "mr",
         name: "Pack-Hound",
