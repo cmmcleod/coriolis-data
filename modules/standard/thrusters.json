@@ -7,10 +7,10 @@
     { "id":"tu", "edID": 128064102, "eddbID": 960, "grp": "t", "class": 8, "rating": "A", "M": 0.04, "P": 2.33, "cost": 162586490, "mass": 160, "power": 10.8, "optmass": 3360, "maxmass": 5040 },
 
     { "id":"tt", "edID": 128064093, "eddbID": 951, "grp": "t", "class": 7, "rating": "E", "M": 0.17, "P": 0.235, "cost": 633200, "mass": 80, "power": 6.08, "optmass": 1440, "maxmass": 2160 },
-    { "id":"ts", "edID": 128064094, "eddbID": 952, "grp": "t", "class": 7, "rating": "D", "M": 0.14, "P": 0.5145, "cost": 1899600, "mass": 32, "power": 6.84, "optmass": 1620, "maxmass": 2430 },
+    { "id":"ts", "edID": 128064094, "eddbID": 952, "grp": "t", "class": 7, "rating": "D", "M": 0.14, "P": 0.5145, "cost": 1899600, "mass": 32, "power": 6.84, "optmass": 1620, "maxmass": 2430, "minmult": 0.86, "optmult": 1, "maxmult": 1.06 },
     { "id":"tr", "edID": 128064095, "eddbID": 953, "grp": "t", "class": 7, "rating": "C", "M": 0.10, "P": 1, "cost": 5698790, "mass": 80, "power": 7.6, "optmass": 1800, "maxmass": 2700 },
-    { "id":"tq", "edID": 128064096, "eddbID": 954, "grp": "t", "class": 7, "rating": "B", "M": 0.07, "P": 1.51, "cost": 17096370, "mass": 128, "power": 8.36, "optmass": 1980, "maxmass": 2970 },
-    { "id":"tp", "edID": 128064097, "eddbID": 955, "grp": "t", "class": 7, "rating": "A", "M": 0.04, "P": 2.33, "cost": 51289110, "mass": 80, "power": 9.12, "optmass": 2160, "maxmass": 3240 },
+    { "id":"tq", "edID": 128064096, "eddbID": 954, "grp": "t", "class": 7, "rating": "B", "M": 0.07, "P": 1.51, "cost": 17096370, "mass": 128, "power": 8.36, "optmass": 1980, "maxmass": 2970, "minmult": 0.93, "optmult": 1, "maxmult": 1.13 },
+    { "id":"tp", "edID": 128064097, "eddbID": 955, "grp": "t", "class": 7, "rating": "A", "M": 0.04, "P": 2.33, "cost": 51289110, "mass": 80, "power": 9.12, "optmass": 2160, "maxmass": 3240, "minmult": 0.96, "optmult": 1, "maxmult": 1.16 },
 
     { "id":"to", "edID": 128064088, "eddbID": 946, "grp": "t", "class": 6, "rating": "E", "M": 0.17, "P": 0.235, "cost": 199750, "mass": 40, "power": 5.04, "optmass": 960, "maxmass": 1440 },
     { "id":"tn", "edID": 128064089, "eddbID": 947, "grp": "t", "class": 6, "rating": "D", "M": 0.14, "P": 0.5145, "cost": 599240, "mass": 16, "power": 5.67, "optmass": 1080, "maxmass": 1620 },
@@ -38,8 +38,11 @@
 
     { "id":"t4", "edID": 128064068, "eddbID": 926, "grp": "t", "class": 2, "rating": "E", "M": 0.17, "P": 0.235, "cost": 1980, "mass": 2.5, "power": 2, "optmass": 48, "maxmass": 72 },
     { "id":"t3", "edID": 128064069, "eddbID": 927, "grp": "t", "class": 2, "rating": "D", "M": 0.14, "P": 0.5145, "cost": 5930, "mass": 1, "power": 2.25, "optmass": 54, "maxmass": 81 },
-    { "id":"t2", "edID": 128064070, "eddbID": 928, "grp": "t", "class": 2, "rating": "C", "M": 0.10, "P": 1, "cost": 17800, "mass": 2.5, "power": 2.5, "optmass": 60, "maxmass": 90 },
+    { "id":"t2", "edID": 128064070, "eddbID": 928, "grp": "t", "class": 2, "rating": "C", "M": 0.10, "P": 1, "cost": 17800, "mass": 2.5, "power": 2.5, "optmass": 60, "maxmass": 90, "minmult": 0.9, "optmult": 1, "maxmult": 1.1 },
     { "id":"t1", "edID": 128064071, "eddbID": 929, "grp": "t", "class": 2, "rating": "B", "M": 0.07, "P": 1.51, "cost": 53410, "mass": 4, "power": 2.75, "optmass": 66, "maxmass": 99 },
-    { "id":"t0", "edID": 128064072, "eddbID": 930, "grp": "t", "class": 2, "rating": "A", "M": 0.04, "P": 2.33, "cost": 160220, "mass": 2.5, "power": 3, "optmass": 72, "maxmass": 108 }
+    { "id":"t0", "edID": 128064072, "eddbID": 930, "grp": "t", "class": 2, "rating": "A", "M": 0.04, "P": 2.33, "cost": 160220, "mass": 2.5, "power": 3, "optmass": 72, "maxmass": 108, "minmult": 0.96, "optmult": 1, "maxmult": 1.16 },
+
+    { "id":"tz", "edID": 128682013, "eddbID": 0, "grp": "t", "class": 3, "rating": "A", "name": "Enhanced Performance Thrusters", "M": 0.04, "P": 2.33, "cost": 5103952, "mass": 5, "power": 3, "optmass": 90, "maxmass": 200, "minmult": 0.90, "optmult": 1.15, "maxmult": 1.37 },
+    { "id":"u0", "edID": 128682014, "eddbID": 0, "grp": "t", "class": 2, "rating": "A", "name": "Enhanced Performance Thrusters", "M": 0.04, "P": 2.33, "cost": 1610080, "mass": 2.5, "power": 3, "optmass": 60, "maxmass": 120, "minmult": 0.90, "optmult": 1.15, "maxmult": 1.37 }
   ]
 }
