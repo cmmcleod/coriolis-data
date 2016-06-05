@@ -1,6 +1,6 @@
 {
   "pl": [
-    { "id": "7q", "edID": 128049385, "eddbID": 0, "grp": "pl", "class": 4, "rating": "A", "cost": 177600, "mass": 16, "power": 1.33, "mount": "F", "type": "T", "damage": 5, "armourpen": "A", "rof": 2.6, "dps": 26.9, "mjeps": 4.264, "ssdam": 10.2 , "thermload": 1.6 },
+    { "id": "7q", "edID": 128049384, "eddbID": 0, "grp": "pl", "class": 4, "rating": "A", "cost": 177600, "mass": 16, "power": 1.33, "mount": "F", "type": "T", "damage": 5, "armourpen": "A", "rof": 2.6, "dps": 26.9, "mjeps": 4.264, "ssdam": 10.2 , "thermload": 1.6 },
     { "id": "7r", "edID": 128681995, "eddbID": 0, "grp": "pl", "class": 4, "rating": "A", "cost": 877600, "mass": 16, "power": 1.37, "mount": "G", "type": "T", "damage": 5, "armourpen": "A", "rof": 2.8, "dps": 21.7, "mjeps": 4.368, "ssdam" : 7.8, "thermload": 1.6 },
 
     { "id": "1d", "edID": 128049383, "eddbID": 825, "grp": "pl", "class": 3, "rating": "D", "cost": 70400, "mass": 8, "power": 0.9, "mount": "F", "type": "T", "damage": 4, "armourpen": "A", "rof": 3, "dps": 4, "mjdps" : 21.62, "mjeps" : 2.86, "ssdam" : 7.07, "thermload": 1 },
