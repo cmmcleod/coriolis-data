@@ -1,5 +1,11 @@
 {
   "mc": [
+    { "id": "7n", "edID": 128049458, "eddbID": 0, "grp": "mc", "class": 4, "rating": "A", "cost": 1177600, "mass": 16, "power": 0.73, "mount": "F", "type": "K", "damage": 4, "armourpen": "A", "rof": 3.0, "dps": 24.5, "mjeps": 0.72, "thermload": 0.4, "clip": 90, "ssdam" : 4.0, "ammo": 2100, "ammocost": 1 },
+    { "id": "7o", "edID": 128681996, "eddbID": 0, "grp": "mc", "class": 4, "rating": "A", "cost": 6377600, "mass": 16, "power": 1.22, "mount": "G", "type": "K", "damage": 4, "armourpen": "A", "rof": 3.4, "dps": 23.3, "mjeps": 1.258, "thermload": 0.5, "clip": 90, "ssdam" : 3.5 , "ammo": 2100, "ammocost": 1 },
+
+    { "id": "7k", "edID": 128049457, "eddbID": 0, "grp": "mc", "class": 3, "rating": "C", "cost": 140400, "mass": 8, "power": 0.64, "mount": "F", "type": "K", "damage": 3, "armourpen": "A", "rof": 5.9, "dps": 20.8, "mjeps": 1.062, "thermload": 0.3, "clip": 90, "ssdam" : 3.5, "ammo": 2100, "ammocost": 1 },
+    { "id": "7l", "edID": 128049461, "eddbID": 0, "grp": "mc", "class": 3, "rating": "C", "cost": 578436, "mass": 8, "power": 0.97, "mount": "G", "type": "K", "damage": 3, "armourpen": "A", "rof": 6.7, "dps": 18.9, "mjeps": 1.675, "thermload": 0.3, "clip": 90, "ssdam" : 2.8, "ammo": 2100, "ammocost": 1 },
+
     { "id": "26", "edID": 128049456, "eddbID": 868, "grp": "mc", "class": 2, "rating": "E", "cost": 38000, "mass": 4, "power": 0.46, "mount": "F", "type": "K", "damage": 2, "armourpen": "A", "rof": 7, "dps": 4, "thermload": 1, "clip": 90, "mjdps" : 6.02, "ssdam" : 1.20, "ammo": 2100, "ammocost": 1 },
     { "id": "27", "edID": 128049460, "eddbID": 870, "grp": "mc", "class": 2, "rating": "F", "cost": 57000, "mass": 4, "power": 0.64, "mount": "G", "type": "K", "damage": 2, "armourpen": "A", "rof": 7.5, "dps": 4, "thermload": 1, "clip": 90, "mjdps" : 5.59, "ssdam" : 1.03, "ammo": 2100, "ammocost": 1 },
     { "id": "28", "edID": 128049463, "eddbID": 872, "grp": "mc", "class": 2, "rating": "F", "cost": 1292800, "mass": 4, "power": 0.5, "mount": "T", "type": "K", "damage": 2, "armourpen": "A", "rof": 5.3, "dps": 3, "thermload": 1, "clip": 90, "mjdps" : 2.15, "ssdam" : 0.52, "ammo": 2100, "ammocost": 1 },
