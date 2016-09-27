@@ -2672,7 +2672,7 @@ module.exports = {
         P: 2.33,
         cost: 5103952,
         mass: 5,
-        power: 3,
+        power: 5,
         optmass: 90,
         maxmass: 200
       }, {
@@ -2687,7 +2687,7 @@ module.exports = {
         P: 2.33,
         cost: 1610080,
         mass: 2.5,
-        power: 3,
+        power: 4,
         optmass: 60,
         maxmass: 120
       } ],
@@ -4782,7 +4782,7 @@ module.exports = {
     hardpoints: {
       pl: [ {
         id: "7q",
-        edID: 128049385,
+        edID: 128049384,
         eddbID: 0,
         grp: "pl",
         "class": 4,
@@ -6635,7 +6635,7 @@ module.exports = {
         armourpen: "F",
         thermload: 0,
         clip: 1,
-        ammo: 3,
+        ammo: 2,
         ammocost: 25
       }, {
         id: "03",
