@@ -24,7 +24,7 @@
     { "id":"tg", "edID": 128064086, "eddbID": 944, "grp": "t", "class": 5, "rating": "B", "M": 0.07, "P": 1.51, "cost": 1701320, "mass": 32, "power": 5.61, "optmass": 770, "maxmass": 1155 },
     { "id":"tf", "edID": 128064087, "eddbID": 945, "grp": "t", "class": 5, "rating": "A", "M": 0.04, "P": 2.33, "cost": 5103950, "mass": 20, "power": 6.12, "optmass": 840, "maxmass": 1260 },
 
-    { "id":"te", "edID": 128064078, "eddbID": 936, "grp": "t", "class": 4, "rating": "E", "M": 0.17, "P": 0.235, "cost": 19880, "mass": 10, "power": 3.82, "optmass": 280, "maxmass": 420 },
+    { "id":"te", "edID": 128064078, "eddbID": 936, "grp": "t", "class": 4, "rating": "E", "M": 0.17, "P": 0.235, "cost": 19880, "mass": 10, "power": 3.28, "optmass": 280, "maxmass": 420 },
     { "id":"td", "edID": 128064079, "eddbID": 937, "grp": "t", "class": 4, "rating": "D", "M": 0.14, "P": 0.5145, "cost": 59630, "mass": 4, "power": 3.69, "optmass": 315, "maxmass": 473 },
     { "id":"tc", "edID": 128064080, "eddbID": 938, "grp": "t", "class": 4, "rating": "C", "M": 0.10, "P": 1, "cost": 178900, "mass": 10, "power": 4.1, "optmass": 350, "maxmass": 525 },
     { "id":"tb", "edID": 128064081, "eddbID": 939, "grp": "t", "class": 4, "rating": "B", "M": 0.07, "P": 1.51, "cost": 536690, "mass": 16, "power": 4.51, "optmass": 385, "maxmass": 578 },
