@@ -2663,7 +2663,7 @@ module.exports = {
       }, {
         id: "tz",
         edID: 128682013,
-        eddbID: 0,
+        eddbID: 1548,
         grp: "t",
         class: 3,
         rating: "A",
@@ -2678,7 +2678,7 @@ module.exports = {
       }, {
         id: "u0",
         edID: 128682014,
-        eddbID: 0,
+        eddbID: 1547,
         grp: "t",
         class: 2,
         rating: "A",
@@ -5483,7 +5483,7 @@ module.exports = {
       mc: [ {
         id: "7n",
         edID: 128049458,
-        eddbID: 0,
+        eddbID: 1542,
         grp: "mc",
         class: 4,
         rating: "A",
@@ -5505,7 +5505,7 @@ module.exports = {
       }, {
         id: "7o",
         edID: 128681996,
-        eddbID: 0,
+        eddbID: 1546,
         grp: "mc",
         class: 4,
         rating: "A",
@@ -5527,7 +5527,7 @@ module.exports = {
       }, {
         id: "7k",
         edID: 128049457,
-        eddbID: 0,
+        eddbID: 1541,
         grp: "mc",
         class: 3,
         rating: "C",
@@ -5549,7 +5549,7 @@ module.exports = {
       }, {
         id: "7l",
         edID: 128049461,
-        eddbID: 0,
+        eddbID: 1543,
         grp: "mc",
         class: 3,
         rating: "C",
@@ -7579,6 +7579,26 @@ module.exports = {
         rating: "E",
         cost: 3829870,
         cargo: 256
+      }, {
+        id: "08",
+        edID: 128681641,
+        eddbID: 1553,
+        grp: "cr",
+        class: 1,
+        rating: "E",
+        cost: 6250,
+        cargo: 1,
+        name: "Corrosion Resistant"
+      }, {
+        id: "08",
+        edID: 128681992,
+        eddbID: 1552,
+        grp: "cr",
+        class: 1,
+        rating: "F",
+        cost: 12563,
+        cargo: 2,
+        name: "Corrosion Resistant"
       } ],
       cc: [ {
         id: "Cf",
