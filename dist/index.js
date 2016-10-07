@@ -7590,7 +7590,7 @@ module.exports = {
         cargo: 1,
         name: "Corrosion Resistant"
       }, {
-        id: "08",
+        id: "09",
         edID: 128681992,
         eddbID: 1552,
         grp: "cr",
