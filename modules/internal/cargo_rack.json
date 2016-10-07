@@ -8,7 +8,7 @@
     { "id": "05", "edID": 128064343, "eddbID": 1196, "grp": "cr", "class": 6, "rating": "E", "cost": 362590,   "cargo": 64 },
     { "id": "06", "edID": 128064344, "eddbID": 1197, "grp": "cr", "class": 7, "rating": "E", "cost": 1178420,  "cargo": 128 },
     { "id": "07", "edID": 128064345, "eddbID": 1198, "grp": "cr", "class": 8, "rating": "E", "cost": 3829870,  "cargo": 256 },
-    { "id": "08", "edID": 128681641, "eddbID": 1553, "grp": "cr", "class": 1, "rating": "E", "cost": 6250,     "cargo": 1, "name": "Corrosion Resistant" },
-    { "id": "09", "edID": 128681992, "eddbID": 1552, "grp": "cr", "class": 1, "rating": "F", "cost": 12563,    "cargo": 2, "name": "Corrosion Resistant" }
+    { "id": "c0", "edID": 128681641, "eddbID": 1553, "grp": "cr", "class": 1, "rating": "E", "cost": 6250,     "cargo": 1, "name": "Corrosion Resistant" },
+    { "id": "c1", "edID": 128681992, "eddbID": 1552, "grp": "cr", "class": 1, "rating": "F", "cost": 12563,    "cargo": 2, "name": "Corrosion Resistant" }
   ]
 }

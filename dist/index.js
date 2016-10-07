@@ -7580,7 +7580,7 @@ module.exports = {
         cost: 3829870,
         cargo: 256
       }, {
-        id: "08",
+        id: "c0",
         edID: 128681641,
         eddbID: 1553,
         grp: "cr",
@@ -7590,7 +7590,7 @@ module.exports = {
         cargo: 1,
         name: "Corrosion Resistant"
       }, {
-        id: "09",
+        id: "c1",
         edID: 128681992,
         eddbID: 1552,
         grp: "cr",
