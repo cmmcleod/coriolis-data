@@ -11021,7 +11021,7 @@ module.exports = {
         maxmul: .7,
         recover: 1.6
       }, {
-        id: "3m",
+        id: "3w",
         edID: 128064262,
         eddbID: 1551,
         grp: "sg",
