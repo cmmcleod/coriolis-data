@@ -6597,6 +6597,19 @@
 					"cost": 5428400,
 					"fuel": 256
 				}
+			],
+			"pas": [
+				{
+					"id": "PA",
+					"edID": 128672317,
+					"eddbID": null,
+					"grp": "pas",
+					"class": 1,
+					"rating": "I",
+					"cost": 500,
+					"power": 0,
+					"mass": 0
+				}
 			]
 		},
 		"hardpoints": {
@@ -6850,6 +6863,46 @@
 				}
 			],
 			"ul": [
+				{
+					"id": "7s",
+					"edID": 128049403,
+					"eddbID": 1549,
+					"grp": "ul",
+					"class": 4,
+					"rating": "E",
+					"cost": 281600,
+					"mass": 16,
+					"power": 2.58,
+					"mount": "F",
+					"type": "T",
+					"damage": 5,
+					"armourpen": "A",
+					"rof": 1.6,
+					"dps": 32.3,
+					"mjeps": 3.71,
+					"ssdam": 20.6,
+					"thermload": 4.5
+				},
+				{
+					"id": "7t",
+					"edID": 128727920,
+					"eddbID": 1550,
+					"grp": "ul",
+					"class": 4,
+					"rating": "E",
+					"cost": 1245600,
+					"mass": 16,
+					"power": 2.59,
+					"mount": "G",
+					"type": "T",
+					"damage": 4,
+					"armourpen": "A",
+					"rof": 2.1,
+					"dps": 25.9,
+					"mjeps": 2.59,
+					"ssdam": 12.1,
+					"thermload": 3.3
+				},
 				{
 					"id": "14",
 					"edID": 128049402,
@@ -13243,6 +13296,24 @@
 					"optmul": 1.2,
 					"maxmul": 0.7,
 					"recover": 1.6
+				},
+				{
+					"id": "3m",
+					"edID": 128064262,
+					"eddbID": 1551,
+					"grp": "sg",
+					"class": 1,
+					"rating": "A",
+					"cost": 88075,
+					"mass": 1.3,
+					"power": 1.68,
+					"minmass": 13,
+					"optmass": 25,
+					"maxmass": 63,
+					"minmul": 1.7,
+					"optmul": 1.2,
+					"maxmul": 0.7,
+					"recover": 1
 				}
 			]
 		}
