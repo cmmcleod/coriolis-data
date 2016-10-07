@@ -4794,7 +4794,7 @@ module.exports = {
       pl: [ {
         id: "7q",
         edID: 128049384,
-        eddbID: 0,
+        eddbID: 1539,
         grp: "pl",
         class: 4,
         rating: "A",
@@ -4813,7 +4813,7 @@ module.exports = {
       }, {
         id: "7r",
         edID: 128681995,
-        eddbID: 0,
+        eddbID: 1545,
         grp: "pl",
         class: 4,
         rating: "A",
@@ -5258,10 +5258,10 @@ module.exports = {
       bl: [ {
         id: "0w",
         edID: 128049431,
-        eddbID: 0,
+        eddbID: 1540,
         grp: "bl",
         class: 4,
-        rating: "C",
+        rating: "A",
         cost: 2396160,
         mass: 16,
         power: 2.9,
@@ -5276,7 +5276,7 @@ module.exports = {
       }, {
         id: "0x",
         edID: 128681994,
-        eddbID: 0,
+        eddbID: 1544,
         grp: "bl",
         class: 4,
         rating: "A",
