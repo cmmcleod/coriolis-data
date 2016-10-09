@@ -58,7 +58,7 @@ describe('JSON Data', function() {
         expect(ids[id]).toBeFalsy('ID already exists: ' + id);
         expect(group[i].grp).toBeDefined('Hardpoint has no group defined, ID:' + id);
         expect(group[i].eddbID).toBeDefined(`Hardpoint ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing EDDB ID`);
-        expect(group[i].edID).toBeDefined(`Hardpoint ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing E:D ID`);
+        expect(group[i].edID || group[i].pp).toBeDefined(`Hardpoint ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing E:D ID`);
         expect(eddbIDs[group[i].eddbID]).toBeFalsy(`EDDB ID [${group[i].eddbID}] already exists: ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''}`);
         expect(edIDs[group[i].edID]).toBeFalsy(`E:D ID [${group[i].edID}] already exists: ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''}`);
         eddbIDs[group[i].eddbID] = true;

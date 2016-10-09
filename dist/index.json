@@ -6859,7 +6859,8 @@
 					"armourpen": "A",
 					"rof": 1.6,
 					"dps": 2,
-					"thermload": 1
+					"thermload": 1,
+					"pp": "Felicia Winters"
 				}
 			],
 			"ul": [
@@ -7100,7 +7101,8 @@
 					"armourpen": "A",
 					"rof": 1.6,
 					"dps": 3,
-					"thermload": 1
+					"thermload": 1,
+					"pp": "Archon Delaine"
 				}
 			],
 			"bl": [
@@ -7338,7 +7340,8 @@
 					"armourpen": "A",
 					"rof": null,
 					"dps": 3,
-					"thermload": 1
+					"thermload": 1,
+					"pp": "Edmund Mahon"
 				}
 			],
 			"mc": [
@@ -7590,7 +7593,8 @@
 					"dps": 4,
 					"thermload": 1,
 					"clip": 60,
-					"ammo": 1000
+					"ammo": 1000,
+					"pp": "Pranav Antal"
 				}
 			],
 			"c": [
@@ -8071,7 +8075,8 @@
 					"dps": 9,
 					"thermload": 1,
 					"clip": 3,
-					"ammo": 90
+					"ammo": 90,
+					"pp": "Zachary Hudson"
 				}
 			],
 			"rg": [
@@ -8140,7 +8145,8 @@
 					"dps": 5,
 					"thermload": 3,
 					"clip": 3,
-					"ammo": 90
+					"ammo": 90,
+					"pp": "Arissa Lavigny-Duval"
 				}
 			],
 			"pa": [
@@ -8233,7 +8239,8 @@
 					"thermload": 4,
 					"clip": 20,
 					"ammo": 300,
-					"ammocost": 67
+					"ammocost": 67,
+					"pp": "Denton Patreus"
 				}
 			],
 			"mr": [
@@ -8353,7 +8360,8 @@
 					"thermload": 3,
 					"clip": 12,
 					"ammo": 120,
-					"missile": "S"
+					"missile": "S",
+					"pp": "Li Yong-Rui"
 				}
 			],
 			"tp": [
@@ -8495,7 +8503,8 @@
 					"damage": 3,
 					"dps": 3,
 					"armourpen": "D",
-					"thermload": 3
+					"thermload": 3,
+					"pp": "Zemina Torval"
 				}
 			],
 			"cs": [
@@ -11420,7 +11429,8 @@
 					"minmul": 2,
 					"optmul": 1.5,
 					"maxmul": 1,
-					"recover": 1.2
+					"recover": 1.2,
+					"pp": "Aisling Duval"
 				},
 				{
 					"id": "p5",
@@ -11438,7 +11448,8 @@
 					"minmul": 2,
 					"optmul": 1.5,
 					"maxmul": 1,
-					"recover": 1.2
+					"recover": 1.2,
+					"pp": "Aisling Duval"
 				},
 				{
 					"id": "p4",
@@ -11456,7 +11467,8 @@
 					"minmul": 2,
 					"optmul": 1.5,
 					"maxmul": 1,
-					"recover": 1.2
+					"recover": 1.2,
+					"pp": "Aisling Duval"
 				},
 				{
 					"id": "p3",
@@ -11474,7 +11486,8 @@
 					"minmul": 2,
 					"optmul": 1.5,
 					"maxmul": 1,
-					"recover": 1.425
+					"recover": 1.425,
+					"pp": "Aisling Duval"
 				},
 				{
 					"id": "p2",
@@ -11492,7 +11505,8 @@
 					"minmul": 2,
 					"optmul": 1.5,
 					"maxmul": 1,
-					"recover": 1.875
+					"recover": 1.875,
+					"pp": "Aisling Duval"
 				},
 				{
 					"id": "p1",
@@ -11510,7 +11524,8 @@
 					"minmul": 2,
 					"optmul": 1.5,
 					"maxmul": 1,
-					"recover": 2.4
+					"recover": 2.4,
+					"pp": "Aisling Duval"
 				},
 				{
 					"id": "p0",
@@ -11528,7 +11543,8 @@
 					"minmul": 2,
 					"optmul": 1.5,
 					"maxmul": 1,
-					"recover": 3
+					"recover": 3,
+					"pp": "Aisling Duval"
 				},
 				{
 					"id": "p7",
@@ -11546,7 +11562,8 @@
 					"minmul": 2,
 					"optmul": 1.5,
 					"maxmul": 1,
-					"recover": 3.6
+					"recover": 3.6,
+					"pp": "Aisling Duval"
 				}
 			],
 			"pc": [

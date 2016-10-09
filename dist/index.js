@@ -5025,7 +5025,8 @@ module.exports = {
         armourpen: "A",
         rof: 1.6,
         dps: 2,
-        thermload: 1
+        thermload: 1,
+        pp: "Felicia Winters"
       } ],
       ul: [ {
         id: "7s",
@@ -5253,7 +5254,8 @@ module.exports = {
         armourpen: "A",
         rof: 1.6,
         dps: 3,
-        thermload: 1
+        thermload: 1,
+        pp: "Archon Delaine"
       } ],
       bl: [ {
         id: "0w",
@@ -5478,7 +5480,8 @@ module.exports = {
         armourpen: "A",
         rof: null,
         dps: 3,
-        thermload: 1
+        thermload: 1,
+        pp: "Edmund Mahon"
       } ],
       mc: [ {
         id: "7n",
@@ -5718,7 +5721,8 @@ module.exports = {
         dps: 4,
         thermload: 1,
         clip: 60,
-        ammo: 1e3
+        ammo: 1e3,
+        pp: "Pranav Antal"
       } ],
       c: [ {
         id: "1q",
@@ -6176,7 +6180,8 @@ module.exports = {
         dps: 9,
         thermload: 1,
         clip: 3,
-        ammo: 90
+        ammo: 90,
+        pp: "Zachary Hudson"
       } ],
       rg: [ {
         id: "29",
@@ -6241,7 +6246,8 @@ module.exports = {
         dps: 5,
         thermload: 3,
         clip: 3,
-        ammo: 90
+        ammo: 90,
+        pp: "Arissa Lavigny-Duval"
       } ],
       pa: [ {
         id: "1g",
@@ -6329,7 +6335,8 @@ module.exports = {
         thermload: 4,
         clip: 20,
         ammo: 300,
-        ammocost: 67
+        ammocost: 67,
+        pp: "Denton Patreus"
       } ],
       mr: [ {
         id: "2f",
@@ -6443,7 +6450,8 @@ module.exports = {
         thermload: 3,
         clip: 12,
         ammo: 120,
-        missile: "S"
+        missile: "S",
+        pp: "Li Yong-Rui"
       } ],
       tp: [ {
         id: "2h",
@@ -6574,7 +6582,8 @@ module.exports = {
         damage: 3,
         dps: 3,
         armourpen: "D",
-        thermload: 3
+        thermload: 3,
+        pp: "Zemina Torval"
       } ],
       cs: [ {
         id: "0d",
@@ -9253,7 +9262,8 @@ module.exports = {
         minmul: 2,
         optmul: 1.5,
         maxmul: 1,
-        recover: 1.2
+        recover: 1.2,
+        pp: "Aisling Duval"
       }, {
         id: "p5",
         edID: 128671324,
@@ -9270,7 +9280,8 @@ module.exports = {
         minmul: 2,
         optmul: 1.5,
         maxmul: 1,
-        recover: 1.2
+        recover: 1.2,
+        pp: "Aisling Duval"
       }, {
         id: "p4",
         edID: 128671325,
@@ -9287,7 +9298,8 @@ module.exports = {
         minmul: 2,
         optmul: 1.5,
         maxmul: 1,
-        recover: 1.2
+        recover: 1.2,
+        pp: "Aisling Duval"
       }, {
         id: "p3",
         edID: 128671326,
@@ -9304,7 +9316,8 @@ module.exports = {
         minmul: 2,
         optmul: 1.5,
         maxmul: 1,
-        recover: 1.425
+        recover: 1.425,
+        pp: "Aisling Duval"
       }, {
         id: "p2",
         edID: 128671327,
@@ -9321,7 +9334,8 @@ module.exports = {
         minmul: 2,
         optmul: 1.5,
         maxmul: 1,
-        recover: 1.875
+        recover: 1.875,
+        pp: "Aisling Duval"
       }, {
         id: "p1",
         edID: 128671328,
@@ -9338,7 +9352,8 @@ module.exports = {
         minmul: 2,
         optmul: 1.5,
         maxmul: 1,
-        recover: 2.4
+        recover: 2.4,
+        pp: "Aisling Duval"
       }, {
         id: "p0",
         edID: 128671329,
@@ -9355,7 +9370,8 @@ module.exports = {
         minmul: 2,
         optmul: 1.5,
         maxmul: 1,
-        recover: 3
+        recover: 3,
+        pp: "Aisling Duval"
       }, {
         id: "p7",
         edID: 128671330,
@@ -9372,7 +9388,8 @@ module.exports = {
         minmul: 2,
         optmul: 1.5,
         maxmul: 1,
-        recover: 3.6
+        recover: 3.6,
+        pp: "Aisling Duval"
       } ],
       pc: [ {
         id: "Pf",

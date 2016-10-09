@@ -2,6 +2,6 @@
   "ml": [
     { "id": "2l", "edID": 128049525, "eddbID": 888, "grp": "ml", "class": 1, "rating": "D", "cost": 6800, "mass": 2, "power": 0.5, "mount": "F", "armourpen": "D", "thermload": 3 },
     { "id": "2m", "edID": 128049526, "eddbID": 889, "grp": "ml", "class": 2, "rating": "D", "cost": 22580, "mass": 2, "power": 0.75, "mount": "F", "armourpen": "D", "thermload": 5 },
-    { "id": "ml", "eddbID": 1479, "grp": "ml", "name": "Mining Lance", "class": 1, "rating": "D", "cost": 13600, "mass": 2, "power": 0.7, "mount": "F", "type": "T", "damage": 3, "dps": 3, "armourpen": "D", "thermload": 3 }
+    { "id": "ml", "eddbID": 1479, "grp": "ml", "name": "Mining Lance", "class": 1, "rating": "D", "cost": 13600, "mass": 2, "power": 0.7, "mount": "F", "type": "T", "damage": 3, "dps": 3, "armourpen": "D", "thermload": 3, "pp": "Zemina Torval" }
   ]
 }

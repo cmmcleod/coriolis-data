@@ -15,6 +15,6 @@
     { "id": "0p", "edID": 128049432, "eddbID": 844, "grp": "bl", "class": 1, "rating": "E", "cost": 74650, "mass": 2, "power": 0.67, "mount": "G", "type": "T", "damage": 4, "armourpen": "A", "rof": null, "dps": 3, "mjdps" : 8.70, "mjeps" : 2.05, "thermload": 3 },
     { "id": "0q", "edID": 128049435, "eddbID": 847, "grp": "bl", "class": 1, "rating": "F", "cost": 500000, "mass": 2, "power": 0.63, "mount": "T", "type": "T", "damage": 3, "armourpen": "A", "rof": null, "dps": 3, "mjdps" : 5.49, "mjeps" : 1.29, "thermload": 2 },
 
-    { "id": "b0", "eddbID": 1476, "grp": "bl", "name": "Retributor", "class": 1, "rating": "E", "cost": 56150, "mass": 2, "power": 0.69, "mount": "F", "type": "T", "damage": 0, "armourpen": "A", "rof": null, "dps": 3, "thermload": 1 }
+    { "id": "b0", "eddbID": 1476, "grp": "bl", "name": "Retributor", "class": 1, "rating": "E", "cost": 56150, "mass": 2, "power": 0.69, "mount": "F", "type": "T", "damage": 0, "armourpen": "A", "rof": null, "dps": 3, "thermload": 1, "pp": "Edmund Mahon" }
   ]
 }

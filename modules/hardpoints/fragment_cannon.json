@@ -12,6 +12,6 @@
     { "id": "21", "edID": 128049451, "eddbID": 863, "grp": "fc", "class": 1, "rating": "E", "cost": 54720, "mass": 2, "power": 0.59, "mount": "G", "type": "K", "damage": 2, "armourpen": "A", "rof": 5.8, "dps": 7, "thermload": 1, "clip": 3, "mjdps" : 3.58, "ssdam" : 6.45, "ammo": 90, "ammocost": 50 },
     { "id": "22", "edID": 128049453, "eddbID": 865, "grp": "fc", "class": 1, "rating": "E", "cost": 182400, "mass": 2, "power": 0.42, "mount": "T", "type": "K", "damage": 1, "armourpen": "A", "rof": 4, "dps": 6, "thermload": 1, "clip": 3, "mjdps" : 2.11, "ssdam" : 3.87, "ammo": 90, "ammocost": 50 },
 
-    { "id": "pa", "edID": 128671343, "eddbID": 1478, "grp": "fc", "name": "Pacifier", "class": 3, "rating": "C", "cost": 1400830, "mass": 8, "power": 1.02, "mount": "F", "type": "K", "damage": 3, "armourpen": "A", "rof": 4.5, "dps": 9, "thermload": 1, "clip": 3, "ammo": 90 }
+    { "id": "pa", "edID": 128671343, "eddbID": 1478, "grp": "fc", "name": "Pacifier", "class": 3, "rating": "C", "cost": 1400830, "mass": 8, "power": 1.02, "mount": "F", "type": "K", "damage": 3, "armourpen": "A", "rof": 4.5, "dps": 9, "thermload": 1, "clip": 3, "ammo": 90, "pp": "Zachary Hudson" }
   ]
 }
