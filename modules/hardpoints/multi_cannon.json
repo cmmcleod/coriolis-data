@@ -14,6 +14,6 @@
     { "id": "24", "edID": 128049459, "eddbID": 869, "grp": "mc", "class": 1, "rating": "G", "cost": 14250, "mass": 2, "integrity": 40, "power": 0.37, "mount": "G", "type": "K", "armourpen": 22, "breachdps": 5.8, "breachmin": 0.4, "breachmax": 0.8, "dps": 6.8, "eps": 0.58, "hps": 0.83, "range": 4000, "rof": 8.3, "clip": 90, "ammo": 2100, "speed": 1600, "reload": 4, "roundspershot": 1 },
     { "id": "25", "edID": 128049462, "eddbID": 871, "grp": "mc", "class": 1, "rating": "G", "cost": 81600, "mass": 2, "integrity": 40, "power": 0.26, "mount": "T", "type": "K", "armourpen": 22, "breachdps": 3.55, "breachmin": 0.4, "breachmax": 0.8, "dps": 4, "eps": 0.213, "hps": 0.00, "range": 4000, "rof": 7.1, "clip": 90, "ammo": 2100, "speed": 1600, "reload": 4, "roundspershot": 1 },
 
-    { "id": "e0", "eddbID": 1481, "grp": "mc", "name": "Enforcer", "class": 1, "rating": "F", "cost": 13980, "mass": 2, "power": 0.28, "mount": "F", "type": "K", "damage": 4, "armourpen": "A", "rof": 4.3, "dps": 4, "thermload": 1, "clip": 60, "ammo": 1000 }
+    { "id": "e0", "eddbID": 1481, "grp": "mc", "name": "Enforcer", "class": 1, "rating": "F", "cost": 13980, "mass": 2, "power": 0.28, "mount": "F", "type": "K", "damage": 4, "armourpen": "A", "rof": 4.3, "dps": 4, "thermload": 1, "clip": 60, "ammo": 1000, "pp": "Pranav Antal" }
   ]
 }

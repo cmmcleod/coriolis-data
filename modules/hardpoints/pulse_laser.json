@@ -15,6 +15,6 @@
     { "id": "18", "edID": 128049385, "eddbID": 826, "grp": "pl", "class": 1, "rating": "G", "cost": 6600, "mass": 2, "integrity": 40, "power": 0.39, "mount": "G", "type": "T", "armourpen": 20, "breachdps": 5.2, "breachmin": 0.4, "breachmax": 0.8, "dps": 6.2, "eps": 1.24, "hps": 1.2, "range": 3000, "rof": 4 },
     { "id": "19", "edID": 128049388, "eddbID": 829, "grp": "pl", "class": 1, "rating": "G", "cost": 26000, "mass": 2, "integrity": 40, "power": 0.38, "mount": "T", "type": "T", "armourpen": 20, "breachdps": 3.3, "breachmin": 0.4, "breachmax": 0.8, "dps": 4, "eps": 0.627, "hps": 6.6, "range": 3000, "rof": 3.3 },
 
-    { "id": "PL", "eddbID": 1483, "grp": "pl", "name": "Disruptor", "class": 2, "rating": "E", "cost": 26400, "mass": 4, "power": 0.7, "mount": "F", "type": "T", "damage": 2, "armourpen": "A", "rof": 1.6, "dps": 2, "thermload": 1 }
+    { "id": "PL", "eddbID": 1483, "grp": "pl", "name": "Disruptor", "class": 2, "rating": "E", "cost": 26400, "mass": 4, "power": 0.7, "mount": "F", "type": "T", "damage": 2, "armourpen": "A", "rof": 1.6, "dps": 2, "thermload": 1, "pp": "Felicia Winters" }
   ]
 }

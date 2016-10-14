@@ -268,32 +268,22 @@ module.exports = {
       retailCost: -1,
       bulkheads: [ {
         id: "cl",
-        edID: -1,
-        eddbID: -1,
         cost: 0,
         mass: 0
       }, {
         id: "cm",
-        edID: -1,
-        eddbID: -1,
         cost: -1,
         mass: 83
       }, {
         id: "cn",
-        edID: -1,
-        eddbID: -1,
         cost: -1,
         mass: 165
       }, {
         id: "co",
-        edID: -1,
-        eddbID: -1,
         cost: -1,
         mass: 165
       }, {
         id: "cp",
-        edID: -1,
-        eddbID: -1,
         cost: -1,
         mass: 165
       } ],
@@ -2781,7 +2771,7 @@ module.exports = {
       }, {
         id: "tz",
         edID: 128682013,
-        eddbID: 0,
+        eddbID: 1548,
         grp: "t",
         class: 3,
         rating: "A",
@@ -2796,7 +2786,7 @@ module.exports = {
       }, {
         id: "u0",
         edID: 128682014,
-        eddbID: 0,
+        eddbID: 1547,
         grp: "t",
         class: 2,
         rating: "A",
@@ -4899,7 +4889,7 @@ module.exports = {
       pas: [ {
         id: "PA",
         edID: 128672317,
-        eddbID: null,
+        eddbID: 1538,
         grp: "pas",
         class: 1,
         rating: "I",
@@ -5167,7 +5157,8 @@ module.exports = {
         armourpen: "A",
         rof: 1.6,
         dps: 2,
-        thermload: 1
+        thermload: 1,
+        pp: "Felicia Winters"
       } ],
       ul: [ {
         id: "7s",
@@ -5450,12 +5441,13 @@ module.exports = {
         armourpen: "A",
         rof: 1.6,
         dps: 3,
-        thermload: 1
+        thermload: 1,
+        pp: "Archon Delaine"
       } ],
       bl: [ {
         id: "0w",
         edID: 128049431,
-        eddbID: 0,
+        eddbID: 1540,
         grp: "bl",
         class: 4,
         rating: "A",
@@ -5475,7 +5467,7 @@ module.exports = {
       }, {
         id: "0x",
         edID: 128681994,
-        eddbID: 0,
+        eddbID: 1544,
         grp: "bl",
         class: 4,
         rating: "A",
@@ -5688,12 +5680,13 @@ module.exports = {
         damage: 0,
         armourpen: "A",
         dps: 3,
-        thermload: 1
+        thermload: 1,
+        pp: "Edmund Mahon"
       } ],
       mc: [ {
         id: "7n",
         edID: 128049458,
-        eddbID: 0,
+        eddbID: 1542,
         grp: "mc",
         class: 4,
         rating: "A",
@@ -5720,7 +5713,7 @@ module.exports = {
       }, {
         id: "7o",
         edID: 128681996,
-        eddbID: 0,
+        eddbID: 1546,
         grp: "mc",
         class: 4,
         rating: "A",
@@ -5747,7 +5740,7 @@ module.exports = {
       }, {
         id: "7k",
         edID: 128049457,
-        eddbID: 0,
+        eddbID: 1541,
         grp: "mc",
         class: 3,
         rating: "C",
@@ -5774,7 +5767,7 @@ module.exports = {
       }, {
         id: "7l",
         edID: 128049461,
-        eddbID: 0,
+        eddbID: 1543,
         grp: "mc",
         class: 3,
         rating: "C",
@@ -5978,7 +5971,8 @@ module.exports = {
         dps: 4,
         thermload: 1,
         clip: 60,
-        ammo: 1e3
+        ammo: 1e3,
+        pp: "Pranav Antal"
       } ],
       c: [ {
         id: "1q",
@@ -6538,7 +6532,8 @@ module.exports = {
         dps: 9,
         thermload: 1,
         clip: 3,
-        ammo: 90
+        ammo: 90,
+        pp: "Zachary Hudson"
       } ],
       rg: [ {
         id: "29",
@@ -6609,7 +6604,8 @@ module.exports = {
         dps: 5,
         thermload: 3,
         clip: 3,
-        ammo: 90
+        ammo: 90,
+        pp: "Arissa Lavigny-Duval"
       } ],
       pa: [ {
         id: "2c",
@@ -6712,12 +6708,11 @@ module.exports = {
         thermload: 4,
         clip: 20,
         ammo: 300,
-        ammocost: 67
+        ammocost: 67,
+        pp: "Denton Patreus"
       } ],
       mr: [ {
         id: "1z",
-        edID: 0,
-        eddbID: 0,
         grp: "mr",
         name: "Rocket Propelled FSD Disruptor",
         class: 2,
@@ -6864,7 +6859,8 @@ module.exports = {
         thermload: 3,
         clip: 12,
         ammo: 120,
-        missile: "S"
+        missile: "S",
+        pp: "Li Yong-Rui"
       } ],
       tp: [ {
         id: "2h",
@@ -7043,7 +7039,8 @@ module.exports = {
         damage: 3,
         dps: 3,
         armourpen: "D",
-        thermload: 3
+        thermload: 3,
+        pp: "Zemina Torval"
       } ],
       cs: [ {
         id: "0d",
@@ -8045,6 +8042,26 @@ module.exports = {
         rating: "E",
         cost: 3829870,
         cargo: 256
+      }, {
+        id: "1w",
+        edID: 128681641,
+        eddbID: 1553,
+        grp: "cr",
+        class: 1,
+        rating: "E",
+        cost: 6250,
+        cargo: 1,
+        name: "Corrosion Resistant"
+      }, {
+        id: "1y",
+        edID: 128681992,
+        eddbID: 1552,
+        grp: "cr",
+        class: 1,
+        rating: "F",
+        cost: 12563,
+        cargo: 2,
+        name: "Corrosion Resistant"
       } ],
       cc: [ {
         id: "Cf",
@@ -8320,8 +8337,6 @@ module.exports = {
       } ],
       fh: [ {
         id: "fh",
-        edID: -1,
-        eddbID: -1,
         grp: "fh",
         class: 7,
         rating: "D",
@@ -8332,8 +8347,6 @@ module.exports = {
         rebuildsperbay: 15
       }, {
         id: "fm",
-        edID: -1,
-        eddbID: -1,
         grp: "fh",
         class: 6,
         rating: "D",
@@ -8344,8 +8357,6 @@ module.exports = {
         rebuildsperbay: 8
       }, {
         id: "fr",
-        edID: -1,
-        eddbID: -1,
         grp: "fh",
         class: 5,
         rating: "D",
@@ -9736,7 +9747,8 @@ module.exports = {
         minmul: 2,
         optmul: 1.5,
         maxmul: 1,
-        recover: 1.2
+        recover: 1.2,
+        pp: "Aisling Duval"
       }, {
         id: "p5",
         edID: 128671324,
@@ -9753,7 +9765,8 @@ module.exports = {
         minmul: 2,
         optmul: 1.5,
         maxmul: 1,
-        recover: 1.2
+        recover: 1.2,
+        pp: "Aisling Duval"
       }, {
         id: "p4",
         edID: 128671325,
@@ -9770,7 +9783,8 @@ module.exports = {
         minmul: 2,
         optmul: 1.5,
         maxmul: 1,
-        recover: 1.2
+        recover: 1.2,
+        pp: "Aisling Duval"
       }, {
         id: "p3",
         edID: 128671326,
@@ -9787,7 +9801,8 @@ module.exports = {
         minmul: 2,
         optmul: 1.5,
         maxmul: 1,
-        recover: 1.425
+        recover: 1.425,
+        pp: "Aisling Duval"
       }, {
         id: "p2",
         edID: 128671327,
@@ -9804,7 +9819,8 @@ module.exports = {
         minmul: 2,
         optmul: 1.5,
         maxmul: 1,
-        recover: 1.875
+        recover: 1.875,
+        pp: "Aisling Duval"
       }, {
         id: "p1",
         edID: 128671328,
@@ -9821,7 +9837,8 @@ module.exports = {
         minmul: 2,
         optmul: 1.5,
         maxmul: 1,
-        recover: 2.4
+        recover: 2.4,
+        pp: "Aisling Duval"
       }, {
         id: "p0",
         edID: 128671329,
@@ -9838,7 +9855,8 @@ module.exports = {
         minmul: 2,
         optmul: 1.5,
         maxmul: 1,
-        recover: 3
+        recover: 3,
+        pp: "Aisling Duval"
       }, {
         id: "p7",
         edID: 128671330,
@@ -9855,7 +9873,8 @@ module.exports = {
         minmul: 2,
         optmul: 1.5,
         maxmul: 1,
-        recover: 3.6
+        recover: 3.6,
+        pp: "Aisling Duval"
       } ],
       pc: [ {
         id: "Pf",
@@ -10100,8 +10119,6 @@ module.exports = {
       } ],
       pce: [ {
         id: "ma",
-        edID: -1,
-        eddbID: -1,
         grp: "pce",
         class: 2,
         rating: "E",
@@ -10110,8 +10127,6 @@ module.exports = {
         passengers: 2
       }, {
         id: "mb",
-        edID: -1,
-        eddbID: -1,
         grp: "pce",
         class: 3,
         rating: "E",
@@ -10120,8 +10135,6 @@ module.exports = {
         passengers: 4
       }, {
         id: "mc",
-        edID: -1,
-        eddbID: -1,
         grp: "pce",
         class: 4,
         rating: "E",
@@ -10130,8 +10143,6 @@ module.exports = {
         passengers: 8
       }, {
         id: "md",
-        edID: -1,
-        eddbID: -1,
         grp: "pce",
         class: 5,
         rating: "E",
@@ -10140,8 +10151,6 @@ module.exports = {
         passengers: 16
       }, {
         id: "me",
-        edID: -1,
-        eddbID: -1,
         grp: "pce",
         class: 6,
         rating: "E",
@@ -10151,8 +10160,6 @@ module.exports = {
       } ],
       pci: [ {
         id: "mf",
-        edID: -1,
-        eddbID: -1,
         grp: "pci",
         class: 3,
         rating: "D",
@@ -10161,8 +10168,6 @@ module.exports = {
         passengers: 3
       }, {
         id: "mg",
-        edID: -1,
-        eddbID: -1,
         grp: "pci",
         class: 4,
         rating: "D",
@@ -10171,8 +10176,6 @@ module.exports = {
         passengers: 6
       }, {
         id: "mh",
-        edID: -1,
-        eddbID: -1,
         grp: "pci",
         class: 5,
         rating: "D",
@@ -10181,8 +10184,6 @@ module.exports = {
         passengers: 10
       }, {
         id: "mi",
-        edID: -1,
-        eddbID: -1,
         grp: "pci",
         class: 6,
         rating: "D",
@@ -10192,8 +10193,6 @@ module.exports = {
       } ],
       pcm: [ {
         id: "mj",
-        edID: -1,
-        eddbID: -1,
         grp: "pcm",
         class: 4,
         rating: "C",
@@ -10202,8 +10201,6 @@ module.exports = {
         passengers: 3
       }, {
         id: "mk",
-        edID: -1,
-        eddbID: -1,
         grp: "pcm",
         class: 5,
         rating: "C",
@@ -10212,8 +10209,6 @@ module.exports = {
         passengers: 6
       }, {
         id: "ml",
-        edID: -1,
-        eddbID: -1,
         grp: "pcm",
         class: 6,
         rating: "C",
@@ -10223,8 +10218,6 @@ module.exports = {
       } ],
       pcq: [ {
         id: "mm",
-        edID: -1,
-        eddbID: -1,
         grp: "pcq",
         class: 5,
         rating: "B",
@@ -10233,8 +10226,6 @@ module.exports = {
         passengers: 4
       }, {
         id: "mn",
-        edID: -1,
-        eddbID: -1,
         grp: "pcq",
         class: 6,
         rating: "B",

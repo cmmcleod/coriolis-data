@@ -503,36 +503,26 @@
 			"bulkheads": [
 				{
 					"id": "cl",
-					"edID": -1,
-					"eddbID": -1,
 					"cost": 0,
 					"mass": 0
 				},
 				{
 					"id": "cm",
-					"edID": -1,
-					"eddbID": -1,
 					"cost": -1,
 					"mass": 83
 				},
 				{
 					"id": "cn",
-					"edID": -1,
-					"eddbID": -1,
 					"cost": -1,
 					"mass": 165
 				},
 				{
 					"id": "co",
-					"edID": -1,
-					"eddbID": -1,
 					"cost": -1,
 					"mass": 165
 				},
 				{
 					"id": "cp",
-					"edID": -1,
-					"eddbID": -1,
 					"cost": -1,
 					"mass": 165
 				}
@@ -4501,7 +4491,7 @@
 				{
 					"id": "tz",
 					"edID": 128682013,
-					"eddbID": 0,
+					"eddbID": 1548,
 					"grp": "t",
 					"class": 3,
 					"rating": "A",
@@ -4517,7 +4507,7 @@
 				{
 					"id": "u0",
 					"edID": 128682014,
-					"eddbID": 0,
+					"eddbID": 1547,
 					"grp": "t",
 					"class": 2,
 					"rating": "A",
@@ -6790,7 +6780,7 @@
 				{
 					"id": "PA",
 					"edID": 128672317,
-					"eddbID": null,
+					"eddbID": 1538,
 					"grp": "pas",
 					"class": 1,
 					"rating": "I",
@@ -7071,7 +7061,8 @@
 					"armourpen": "A",
 					"rof": 1.6,
 					"dps": 2,
-					"thermload": 1
+					"thermload": 1,
+					"pp": "Felicia Winters"
 				}
 			],
 			"ul": [
@@ -7367,14 +7358,15 @@
 					"armourpen": "A",
 					"rof": 1.6,
 					"dps": 3,
-					"thermload": 1
+					"thermload": 1,
+					"pp": "Archon Delaine"
 				}
 			],
 			"bl": [
 				{
 					"id": "0w",
 					"edID": 128049431,
-					"eddbID": 0,
+					"eddbID": 1540,
 					"grp": "bl",
 					"class": 4,
 					"rating": "A",
@@ -7395,7 +7387,7 @@
 				{
 					"id": "0x",
 					"edID": 128681994,
-					"eddbID": 0,
+					"eddbID": 1544,
 					"grp": "bl",
 					"class": 4,
 					"rating": "A",
@@ -7618,14 +7610,15 @@
 					"damage": 0,
 					"armourpen": "A",
 					"dps": 3,
-					"thermload": 1
+					"thermload": 1,
+					"pp": "Edmund Mahon"
 				}
 			],
 			"mc": [
 				{
 					"id": "7n",
 					"edID": 128049458,
-					"eddbID": 0,
+					"eddbID": 1542,
 					"grp": "mc",
 					"class": 4,
 					"rating": "A",
@@ -7653,7 +7646,7 @@
 				{
 					"id": "7o",
 					"edID": 128681996,
-					"eddbID": 0,
+					"eddbID": 1546,
 					"grp": "mc",
 					"class": 4,
 					"rating": "A",
@@ -7681,7 +7674,7 @@
 				{
 					"id": "7k",
 					"edID": 128049457,
-					"eddbID": 0,
+					"eddbID": 1541,
 					"grp": "mc",
 					"class": 3,
 					"rating": "C",
@@ -7709,7 +7702,7 @@
 				{
 					"id": "7l",
 					"edID": 128049461,
-					"eddbID": 0,
+					"eddbID": 1543,
 					"grp": "mc",
 					"class": 3,
 					"rating": "C",
@@ -7920,7 +7913,8 @@
 					"dps": 4,
 					"thermload": 1,
 					"clip": 60,
-					"ammo": 1000
+					"ammo": 1000,
+					"pp": "Pranav Antal"
 				}
 			],
 			"c": [
@@ -8503,7 +8497,8 @@
 					"dps": 9,
 					"thermload": 1,
 					"clip": 3,
-					"ammo": 90
+					"ammo": 90,
+					"pp": "Zachary Hudson"
 				}
 			],
 			"rg": [
@@ -8578,7 +8573,8 @@
 					"dps": 5,
 					"thermload": 3,
 					"clip": 3,
-					"ammo": 90
+					"ammo": 90,
+					"pp": "Arissa Lavigny-Duval"
 				}
 			],
 			"pa": [
@@ -8686,14 +8682,13 @@
 					"thermload": 4,
 					"clip": 20,
 					"ammo": 300,
-					"ammocost": 67
+					"ammocost": 67,
+					"pp": "Denton Patreus"
 				}
 			],
 			"mr": [
 				{
 					"id": "1z",
-					"edID": 0,
-					"eddbID": 0,
 					"grp": "mr",
 					"name": "Rocket Propelled FSD Disruptor",
 					"class": 2,
@@ -8845,7 +8840,8 @@
 					"thermload": 3,
 					"clip": 12,
 					"ammo": 120,
-					"missile": "S"
+					"missile": "S",
+					"pp": "Li Yong-Rui"
 				}
 			],
 			"tp": [
@@ -9035,7 +9031,8 @@
 					"damage": 3,
 					"dps": 3,
 					"armourpen": "D",
-					"thermload": 3
+					"thermload": 3,
+					"pp": "Zemina Torval"
 				}
 			],
 			"cs": [
@@ -10125,6 +10122,28 @@
 					"rating": "E",
 					"cost": 3829870,
 					"cargo": 256
+				},
+				{
+					"id": "1w",
+					"edID": 128681641,
+					"eddbID": 1553,
+					"grp": "cr",
+					"class": 1,
+					"rating": "E",
+					"cost": 6250,
+					"cargo": 1,
+					"name": "Corrosion Resistant"
+				},
+				{
+					"id": "1y",
+					"edID": 128681992,
+					"eddbID": 1552,
+					"grp": "cr",
+					"class": 1,
+					"rating": "F",
+					"cost": 12563,
+					"cargo": 2,
+					"name": "Corrosion Resistant"
 				}
 			],
 			"cc": [
@@ -10425,8 +10444,6 @@
 			"fh": [
 				{
 					"id": "fh",
-					"edID": -1,
-					"eddbID": -1,
 					"grp": "fh",
 					"class": 7,
 					"rating": "D",
@@ -10438,8 +10455,6 @@
 				},
 				{
 					"id": "fm",
-					"edID": -1,
-					"eddbID": -1,
 					"grp": "fh",
 					"class": 6,
 					"rating": "D",
@@ -10451,8 +10466,6 @@
 				},
 				{
 					"id": "fr",
-					"edID": -1,
-					"eddbID": -1,
 					"grp": "fh",
 					"class": 5,
 					"rating": "D",
@@ -11976,7 +11989,8 @@
 					"minmul": 2,
 					"optmul": 1.5,
 					"maxmul": 1,
-					"recover": 1.2
+					"recover": 1.2,
+					"pp": "Aisling Duval"
 				},
 				{
 					"id": "p5",
@@ -11994,7 +12008,8 @@
 					"minmul": 2,
 					"optmul": 1.5,
 					"maxmul": 1,
-					"recover": 1.2
+					"recover": 1.2,
+					"pp": "Aisling Duval"
 				},
 				{
 					"id": "p4",
@@ -12012,7 +12027,8 @@
 					"minmul": 2,
 					"optmul": 1.5,
 					"maxmul": 1,
-					"recover": 1.2
+					"recover": 1.2,
+					"pp": "Aisling Duval"
 				},
 				{
 					"id": "p3",
@@ -12030,7 +12046,8 @@
 					"minmul": 2,
 					"optmul": 1.5,
 					"maxmul": 1,
-					"recover": 1.425
+					"recover": 1.425,
+					"pp": "Aisling Duval"
 				},
 				{
 					"id": "p2",
@@ -12048,7 +12065,8 @@
 					"minmul": 2,
 					"optmul": 1.5,
 					"maxmul": 1,
-					"recover": 1.875
+					"recover": 1.875,
+					"pp": "Aisling Duval"
 				},
 				{
 					"id": "p1",
@@ -12066,7 +12084,8 @@
 					"minmul": 2,
 					"optmul": 1.5,
 					"maxmul": 1,
-					"recover": 2.4
+					"recover": 2.4,
+					"pp": "Aisling Duval"
 				},
 				{
 					"id": "p0",
@@ -12084,7 +12103,8 @@
 					"minmul": 2,
 					"optmul": 1.5,
 					"maxmul": 1,
-					"recover": 3
+					"recover": 3,
+					"pp": "Aisling Duval"
 				},
 				{
 					"id": "p7",
@@ -12102,7 +12122,8 @@
 					"minmul": 2,
 					"optmul": 1.5,
 					"maxmul": 1,
-					"recover": 3.6
+					"recover": 3.6,
+					"pp": "Aisling Duval"
 				}
 			],
 			"pc": [
@@ -12370,8 +12391,6 @@
 			"pce": [
 				{
 					"id": "ma",
-					"edID": -1,
-					"eddbID": -1,
 					"grp": "pce",
 					"class": 2,
 					"rating": "E",
@@ -12381,8 +12400,6 @@
 				},
 				{
 					"id": "mb",
-					"edID": -1,
-					"eddbID": -1,
 					"grp": "pce",
 					"class": 3,
 					"rating": "E",
@@ -12392,8 +12409,6 @@
 				},
 				{
 					"id": "mc",
-					"edID": -1,
-					"eddbID": -1,
 					"grp": "pce",
 					"class": 4,
 					"rating": "E",
@@ -12403,8 +12418,6 @@
 				},
 				{
 					"id": "md",
-					"edID": -1,
-					"eddbID": -1,
 					"grp": "pce",
 					"class": 5,
 					"rating": "E",
@@ -12414,8 +12427,6 @@
 				},
 				{
 					"id": "me",
-					"edID": -1,
-					"eddbID": -1,
 					"grp": "pce",
 					"class": 6,
 					"rating": "E",
@@ -12427,8 +12438,6 @@
 			"pci": [
 				{
 					"id": "mf",
-					"edID": -1,
-					"eddbID": -1,
 					"grp": "pci",
 					"class": 3,
 					"rating": "D",
@@ -12438,8 +12447,6 @@
 				},
 				{
 					"id": "mg",
-					"edID": -1,
-					"eddbID": -1,
 					"grp": "pci",
 					"class": 4,
 					"rating": "D",
@@ -12449,8 +12456,6 @@
 				},
 				{
 					"id": "mh",
-					"edID": -1,
-					"eddbID": -1,
 					"grp": "pci",
 					"class": 5,
 					"rating": "D",
@@ -12460,8 +12465,6 @@
 				},
 				{
 					"id": "mi",
-					"edID": -1,
-					"eddbID": -1,
 					"grp": "pci",
 					"class": 6,
 					"rating": "D",
@@ -12473,8 +12476,6 @@
 			"pcm": [
 				{
 					"id": "mj",
-					"edID": -1,
-					"eddbID": -1,
 					"grp": "pcm",
 					"class": 4,
 					"rating": "C",
@@ -12484,8 +12485,6 @@
 				},
 				{
 					"id": "mk",
-					"edID": -1,
-					"eddbID": -1,
 					"grp": "pcm",
 					"class": 5,
 					"rating": "C",
@@ -12495,8 +12494,6 @@
 				},
 				{
 					"id": "ml",
-					"edID": -1,
-					"eddbID": -1,
 					"grp": "pcm",
 					"class": 6,
 					"rating": "C",
@@ -12508,8 +12505,6 @@
 			"pcq": [
 				{
 					"id": "mm",
-					"edID": -1,
-					"eddbID": -1,
 					"grp": "pcq",
 					"class": 5,
 					"rating": "B",
@@ -12519,8 +12514,6 @@
 				},
 				{
 					"id": "mn",
-					"edID": -1,
-					"eddbID": -1,
 					"grp": "pcq",
 					"class": 6,
 					"rating": "B",

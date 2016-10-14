@@ -1,7 +1,7 @@
 {
   "bl": [
-    { "id": "0w", "edID": 128049431, "eddbID": 0, "grp": "bl", "class": 4, "rating": "A", "cost": 2396160, "mass": 16, "integrity": 80, "power": 2.9, "mount": "F", "type": "T", "armourpen": 60, "breachdps": 33.1, "breachmin": 0.4, "breachmax": 0.8, "dps": 41.4, "eps": 9.10, "hps": 9.9 },
-    { "id": "0x", "edID": 128681994, "eddbID": 0, "grp": "bl", "class": 4, "rating": "A", "cost": 8746160, "mass": 16, "integrity": 80, "power": 2.86, "mount": "G", "type": "T", "armourpen": 60, "breachdps": 26.1, "breachmin": 0.4, "breachmax": 0.8, "dps": 32.7, "eps" : 8.99, "hps": 10.6 },
+    { "id": "0w", "edID": 128049431, "eddbID": 1540, "grp": "bl", "class": 4, "rating": "A", "cost": 2396160, "mass": 16, "integrity": 80, "power": 2.9, "mount": "F", "type": "T", "armourpen": 60, "breachdps": 33.1, "breachmin": 0.4, "breachmax": 0.8, "dps": 41.4, "eps": 9.10, "hps": 9.9 },
+    { "id": "0x", "edID": 128681994, "eddbID": 1544, "grp": "bl", "class": 4, "rating": "A", "cost": 8746160, "mass": 16, "integrity": 80, "power": 2.86, "mount": "G", "type": "T", "armourpen": 60, "breachdps": 26.1, "breachmin": 0.4, "breachmax": 0.8, "dps": 32.7, "eps" : 8.99, "hps": 10.6 },
 
     { "id": "0u", "edID": 128049430, "eddbID": 843, "grp": "bl", "class": 3, "rating": "C", "cost": 1177600, "mass": 8, "integrity": 64, "power": 1.8, "mount": "F", "type": "T", "armourpen": 50, "breachdps": 20.6, "breachmin": 0.4, "breachmax": 0.8, "dps": 25.8, "eps" : 5.67, "hps" : 7.2 },
     { "id": "0v", "edID": 128049434, "eddbID": 846, "grp": "bl", "class": 3, "rating": "C", "cost": 2396160, "mass": 8, "integrity": 64, "power": 1.78, "mount": "G", "type": "T", "armourpen": 50, "breachdps": 16.2, "breachmin": 0.4, "breachmax": 0.8, "dps": 20.3, "eps" : 5.58, "hps": 7.6 },
@@ -15,6 +15,6 @@
     { "id": "0p", "edID": 128049432, "eddbID": 844, "grp": "bl", "class": 1, "rating": "E", "cost": 74650, "mass": 2, "integrity": 40, "power": 0.67, "mount": "G", "type": "T", "armourpen": 18, "breachdps": 6.1, "breachmin": 0.4, "breachmax": 0.8, "dps": 7.7, "eps": 2.11, "hps": 3.7, "range": 3000 },
     { "id": "0q", "edID": 128049435, "eddbID": 847, "grp": "bl", "class": 1, "rating": "F", "cost": 500000, "mass": 2, "integrity": 40, "power": 0.63, "mount": "T", "type": "T", "armourpen": 18, "breachdps": 4.3, "breachmin": 0.4, "breachmax": 0.8, "dps": 5.4, "eps" : 1.32, "hps" : 2.4 },
 
-    { "id": "b0", "eddbID": 1476, "grp": "bl", "name": "Retributor", "class": 1, "rating": "E", "cost": 56150, "mass": 2, "power": 0.69, "mount": "F", "type": "T", "damage": 0, "armourpen": "A", "dps": 3, "thermload": 1 }
+    { "id": "b0", "eddbID": 1476, "grp": "bl", "name": "Retributor", "class": 1, "rating": "E", "cost": 56150, "mass": 2, "power": 0.69, "mount": "F", "type": "T", "damage": 0, "armourpen": "A", "dps": 3, "thermload": 1, "pp": "Edmund Mahon" }
   ]
 }
