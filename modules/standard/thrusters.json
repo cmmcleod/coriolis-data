@@ -42,7 +42,7 @@
     { "id":"t1", "edID": 128064071, "eddbID": 929, "grp": "t", "class": 2, "rating": "B", "M": 0.07, "P": 1.51, "cost": 53410, "mass": 4, "power": 2.75, "optmass": 66, "maxmass": 99 },
     { "id":"t0", "edID": 128064072, "eddbID": 930, "grp": "t", "class": 2, "rating": "A", "M": 0.04, "P": 2.33, "cost": 160220, "mass": 2.5, "power": 3, "optmass": 72, "maxmass": 108 },
 
-    { "id":"tz", "edID": 128682013, "eddbID": 1548, "grp": "t", "class": 3, "rating": "A", "name": "Enhanced Performance", "M": 0.04, "P": 2.33, "cost": 5103952, "mass": 5, "power": 5, "optmass": 90, "maxmass": 200 },
-    { "id":"u0", "edID": 128682014, "eddbID": 1547, "grp": "t", "class": 2, "rating": "A", "name": "Enhanced Performance", "M": 0.04, "P": 2.33, "cost": 1610080, "mass": 2.5, "power": 4, "optmass": 60, "maxmass": 120 }
+    { "id":"tz", "edID": 128682013, "eddbID": 0, "grp": "t", "class": 3, "rating": "A", "name": "Enhanced Performance", "M": 0.04, "P": 2.33, "cost": 5103952, "mass": 5, "power": 5, "optmass": 90, "maxmass": 200 },
+    { "id":"u0", "edID": 128682014, "eddbID": 0, "grp": "t", "class": 2, "rating": "A", "name": "Enhanced Performance", "M": 0.04, "P": 2.33, "cost": 1610080, "mass": 2.5, "power": 4, "optmass": 60, "maxmass": 120 }
   ]
 }

@@ -42,6 +42,6 @@
     { "id": "3s", "edID": 128064266, "eddbID": 1119, "grp": "sg", "class": 2, "rating": "B", "cost": 53410,     "mass": 4,   "power": 1.8,  "minmass": 28,  "optmass": 55,   "maxmass": 138,  "minmul": 1.6, "optmul": 1.1, "maxmul": 0.6, "recover": 1.6 },
     { "id": "3r", "edID": 128064267, "eddbID": 1120, "grp": "sg", "class": 2, "rating": "A", "cost": 160220,    "mass": 2.5, "power": 2.1,  "minmass": 28,  "optmass": 55,   "maxmass": 138,  "minmul": 1.7, "optmul": 1.2, "maxmul": 0.7, "recover": 1.6 },
 
-    { "id": "3w", "edID": 128064262, "eddbID": 1551, "grp": "sg", "class": 1, "rating": "A", "cost": 88075,     "mass": 1.3, "power": 1.68,  "minmass": 13,  "optmass": 25,  "maxmass": 63,   "minmul": 1.7, "optmul": 1.2, "maxmul": 0.7, "recover": 1.0 }
+    { "id": "1x", "edID": 128064262, "eddbID": 1551, "grp": "sg", "class": 1, "rating": "A", "cost": 88075,     "mass": 1.3, "power": 1.68,  "minmass": 13,  "optmass": 25,  "maxmass": 63,   "minmul": 1.7, "optmul": 1.2, "maxmul": 0.7, "recover": 1.0 }
   ]
 }
