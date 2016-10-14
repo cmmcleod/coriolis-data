@@ -5582,7 +5582,7 @@ module.exports = {
         breachmin: .4,
         breachmax: .8,
         dps: 12.5,
-        edps: 3.44,
+        eps: 3.44,
         hps: 5.3
       }, {
         id: "0t",
@@ -6720,19 +6720,20 @@ module.exports = {
         cost: 190227,
         mass: 4,
         power: 1.2,
+        integrity: 51,
         mount: "F",
-        type: "?",
-        damage: 50,
-        armourpen: "?",
+        type: "E",
+        armourpen: 60,
         rof: .5,
-        dps: 0,
-        thermload: 0,
+        dps: 25,
+        eps: .12,
         clip: 12,
         ammo: 48,
-        mjdps: 0,
-        ssdam: 0,
         missile: "D",
-        ammocost: 0
+        speed: 750,
+        breachdps: 0,
+        breachmin: 0,
+        breachmax: 0
       }, {
         id: "2f",
         edID: 128666725,
@@ -6860,7 +6861,10 @@ module.exports = {
         clip: 12,
         ammo: 120,
         missile: "S",
-        pp: "Li Yong-Rui"
+        pp: "Li Yong-Rui",
+        breachdps: 0,
+        breachmin: 0,
+        breachmax: 0
       } ],
       tp: [ {
         id: "2h",
@@ -6933,6 +6937,7 @@ module.exports = {
         breachmin: 0,
         breachmax: 0,
         dps: 44,
+        eps: 0,
         hps: 5,
         rof: 1,
         clip: 3,
@@ -6956,6 +6961,7 @@ module.exports = {
         breachmin: 0,
         breachmax: 0,
         dps: 44,
+        eps: 0,
         hps: 7.5,
         rof: 1,
         clip: 3,
@@ -7049,10 +7055,12 @@ module.exports = {
         grp: "cs",
         class: 0,
         rating: "E",
+        integrity: 32,
         cost: 13540,
         mass: 1.3,
         power: .2,
         range: 2e3,
+        angle: 15,
         time: 10
       }, {
         id: "0c",
@@ -7061,10 +7069,12 @@ module.exports = {
         grp: "cs",
         class: 0,
         rating: "D",
+        integrity: 24,
         cost: 40630,
         mass: 1.3,
         power: .4,
         range: 2500,
+        angle: 15,
         time: 10
       }, {
         id: "0b",
@@ -7073,10 +7083,12 @@ module.exports = {
         grp: "cs",
         class: 0,
         rating: "C",
+        integrity: 40,
         cost: 121900,
         mass: 1.3,
         power: .8,
         range: 3e3,
+        angle: 15,
         time: 10
       }, {
         id: "0a",
@@ -7085,10 +7097,12 @@ module.exports = {
         grp: "cs",
         class: 0,
         rating: "B",
+        integrity: 56,
         cost: 365700,
         mass: 1.3,
         power: 1.6,
         range: 3500,
+        angle: 15,
         time: 10
       }, {
         id: "09",
@@ -7097,10 +7111,12 @@ module.exports = {
         grp: "cs",
         class: 0,
         rating: "A",
+        integrity: 48,
         cost: 1097100,
         mass: 1.3,
         power: 3.2,
         range: 4e3,
+        angle: 15,
         time: 10
       } ],
       cm: [ {
@@ -7113,12 +7129,15 @@ module.exports = {
         rating: "I",
         cost: 8500,
         mass: 1.3,
+        integrity: 20,
         power: .2,
         passive: 1,
-        thermload: 2,
+        eps: 4,
+        hps: 4,
         clip: 1,
         ammo: 10,
-        ammocost: 30
+        reload: 10,
+        duration: 20
       }, {
         id: "01",
         edID: 128049516,
@@ -7129,6 +7148,7 @@ module.exports = {
         rating: "F",
         cost: 12500,
         mass: 1.3,
+        integrity: 20,
         power: .2,
         range: 3e3,
         chargeup: 4,
@@ -7144,12 +7164,15 @@ module.exports = {
         rating: "I",
         cost: 3500,
         mass: 1.3,
+        integrity: 20,
         power: .2,
         passive: 1,
-        thermload: 0,
+        rof: .2,
+        eps: .4,
         clip: 1,
         ammo: 2,
-        ammocost: 25
+        duration: 10,
+        reload: 10
       }, {
         id: "03",
         edID: 128049522,
@@ -7157,15 +7180,21 @@ module.exports = {
         grp: "cm",
         name: "Point Defence",
         class: 0,
+        type: "K",
         rating: "I",
         cost: 18550,
         mass: .5,
+        integrity: 20,
         power: .2,
         passive: 1,
-        thermload: 1,
+        speed: 1e3,
+        rof: 10,
         clip: 50,
         ammo: 1e4,
-        ammocost: 1
+        reload: 0,
+        burst: 4,
+        burstrof: 15,
+        jitter: 1.5
       } ],
       ws: [ {
         id: "0i",
@@ -7176,6 +7205,7 @@ module.exports = {
         rating: "E",
         cost: 13540,
         mass: 1.3,
+        integrity: 32,
         power: .2,
         range: 2e3,
         time: 10
@@ -7188,6 +7218,7 @@ module.exports = {
         rating: "D",
         cost: 40630,
         mass: 1.3,
+        integrity: 24,
         power: .4,
         range: 2500,
         time: 10
@@ -7200,6 +7231,7 @@ module.exports = {
         rating: "C",
         cost: 121900,
         mass: 1.3,
+        integrity: 40,
         power: .8,
         range: 3e3,
         time: 10
@@ -7212,6 +7244,7 @@ module.exports = {
         rating: "B",
         cost: 365700,
         mass: 1.3,
+        integrity: 56,
         power: 1.6,
         range: 3500,
         time: 10
@@ -7224,6 +7257,7 @@ module.exports = {
         rating: "A",
         cost: 1097100,
         mass: 1.3,
+        integrity: 48,
         power: 3.2,
         range: 4e3,
         time: 10
@@ -7237,6 +7271,7 @@ module.exports = {
         rating: "E",
         cost: 13540,
         mass: 1.3,
+        integrity: 32,
         power: .2,
         range: 2e3,
         time: 10
@@ -7249,6 +7284,7 @@ module.exports = {
         rating: "D",
         cost: 40630,
         mass: 1.3,
+        integrity: 24,
         power: .4,
         range: 2500,
         time: 10
@@ -7261,6 +7297,7 @@ module.exports = {
         rating: "C",
         cost: 121900,
         mass: 1.3,
+        integrity: 40,
         power: .8,
         range: 3e3,
         time: 10
@@ -7273,6 +7310,7 @@ module.exports = {
         rating: "B",
         cost: 365700,
         mass: 1.3,
+        integrity: 56,
         power: 1.6,
         range: 3500,
         time: 10
@@ -7285,6 +7323,7 @@ module.exports = {
         rating: "A",
         cost: 1097100,
         mass: 1.3,
+        integrity: 48,
         power: 3.2,
         range: 4e3,
         time: 10
@@ -7298,6 +7337,7 @@ module.exports = {
         rating: "E",
         cost: 1e4,
         mass: .5,
+        integrity: 25,
         power: .2,
         passive: 1,
         shieldmul: .04
@@ -7310,6 +7350,7 @@ module.exports = {
         rating: "D",
         cost: 23e3,
         mass: 1,
+        integrity: 35,
         power: .5,
         passive: 1,
         shieldmul: .08
@@ -7322,6 +7363,7 @@ module.exports = {
         rating: "C",
         cost: 53e3,
         mass: 2,
+        integrity: 40,
         power: .7,
         passive: 1,
         shieldmul: .12
@@ -7334,6 +7376,7 @@ module.exports = {
         rating: "B",
         cost: 122e3,
         mass: 3,
+        integrity: 45,
         power: 1,
         passive: 1,
         shieldmul: .16
@@ -7346,6 +7389,7 @@ module.exports = {
         rating: "A",
         cost: 281e3,
         mass: 3.5,
+        integrity: 48,
         power: 1.2,
         passive: 1,
         shieldmul: .2

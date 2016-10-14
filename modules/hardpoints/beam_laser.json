@@ -8,7 +8,7 @@
     { "id": "0o", "edID": 128049437, "eddbID": 849, "grp": "bl", "class": 3, "rating": "D", "cost": 19399600, "mass": 8, "integrity": 64, "power": 1.68, "mount": "T", "type": "T", "armourpen": 50, "breachdps": 11.5, "breachmin": 0.4, "breachmax": 0.8, "dps": 14.4, "eps" : 3.51, "hps" : 5.1 },
 
     { "id": "0r", "edID": 128049429, "eddbID": 842, "grp": "bl", "class": 2, "rating": "D", "cost": 299520, "mass": 4, "integrity": 51, "power": 1.12, "mount": "F", "type": "T", "armourpen": 35, "breachdps": 12.8, "breachmin": 0.4, "breachmax": 0.8, "dps": 16, "eps" : 3.51, "hps" : 5.1 },
-    { "id": "0s", "edID": 128049433, "eddbID": 845, "grp": "bl", "class": 2, "rating": "D", "cost": 500600, "mass": 4, "integrity": 51, "power": 1.1, "mount": "G", "type": "T", "armourpen": 35, "breachdps": 10, "breachmin": 0.4, "breachmax": 0.8, "dps": 12.5, "edps": 3.44, "hps" : 5.3 },
+    { "id": "0s", "edID": 128049433, "eddbID": 845, "grp": "bl", "class": 2, "rating": "D", "cost": 500600, "mass": 4, "integrity": 51, "power": 1.1, "mount": "G", "type": "T", "armourpen": 35, "breachdps": 10, "breachmin": 0.4, "breachmax": 0.8, "dps": 12.5, "eps": 3.44, "hps" : 5.3 },
     { "id": "0t", "edID": 128049436, "eddbID": 848, "grp": "bl", "class": 2, "rating": "E", "cost": 2099900, "mass": 4, "integrity": 51, "power": 1.03, "mount": "T", "type": "T", "armourpen": 35, "breachdps": 7.1, "breachmin": 0.4, "breachmax": 0.8, "dps": 8.8, "eps" : 2.16, "hps" : 3.5 },
 
     { "id": "10", "edID": 128049428, "eddbID": 841, "grp": "bl", "class": 1, "rating": "E", "cost": 37430, "mass": 2, "integrity": 40, "power": 0.69, "mount": "F", "type": "T", "armourpen": 18, "breachdps": 7.9, "breachmin": 0.4, "breachmax": 0.8, "dps": 9.8, "eps" : 2.16, "hps" : 3.5 },
