@@ -1,6 +1,22 @@
 {
   "pcq": [
-    { "id": "mm", "grp": "pcq", "class": 5, "rating": "B", "cost": -1, "mass": 20, "passengers": 4 },
-    { "id": "mn", "grp": "pcq", "class": 6, "rating": "B", "cost": -1, "mass": 40, "passengers": 8 }
+    {
+      "class": 5,
+      "cost": -1,
+      "grp": "pcq",
+      "id": "mm",
+      "mass": 20,
+      "passengers": 4,
+      "rating": "B"
+    },
+    {
+      "class": 6,
+      "cost": -1,
+      "grp": "pcq",
+      "id": "mn",
+      "mass": 40,
+      "passengers": 8,
+      "rating": "B"
+    }
   ]
 }

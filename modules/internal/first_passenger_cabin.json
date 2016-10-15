@@ -1,7 +1,31 @@
 {
   "pcm": [
-    { "id": "mj", "grp": "pcm", "class": 4, "rating": "C", "cost": -1, "mass": 10, "passengers": 3 },
-    { "id": "mk", "grp": "pcm", "class": 5, "rating": "C", "cost": -1, "mass": 20, "passengers": 6 },
-    { "id": "ml", "grp": "pcm", "class": 6, "rating": "C", "cost": -1, "mass": 40, "passengers": 12 }
+    {
+      "class": 4,
+      "cost": -1,
+      "grp": "pcm",
+      "id": "mj",
+      "mass": 10,
+      "passengers": 3,
+      "rating": "C"
+    },
+    {
+      "class": 5,
+      "cost": -1,
+      "grp": "pcm",
+      "id": "mk",
+      "mass": 20,
+      "passengers": 6,
+      "rating": "C"
+    },
+    {
+      "class": 6,
+      "cost": -1,
+      "grp": "pcm",
+      "id": "ml",
+      "mass": 40,
+      "passengers": 12,
+      "rating": "C"
+    }
   ]
 }
