@@ -7382,7 +7382,8 @@
 					"breachmax": 0.8,
 					"dps": 41.4,
 					"eps": 9.1,
-					"hps": 9.9
+					"hps": 9.9,
+					"range": 3000
 				},
 				{
 					"id": "0x",
@@ -7403,7 +7404,8 @@
 					"breachmax": 0.8,
 					"dps": 32.7,
 					"eps": 8.99,
-					"hps": 10.6
+					"hps": 10.6,
+					"range": 3000
 				},
 				{
 					"id": "0u",
@@ -7424,7 +7426,8 @@
 					"breachmax": 0.8,
 					"dps": 25.8,
 					"eps": 5.67,
-					"hps": 7.2
+					"hps": 7.2,
+					"range": 3000
 				},
 				{
 					"id": "0v",
@@ -7445,7 +7448,8 @@
 					"breachmax": 0.8,
 					"dps": 20.3,
 					"eps": 5.58,
-					"hps": 7.6
+					"hps": 7.6,
+					"range": 3000
 				},
 				{
 					"id": "0o",
@@ -7466,7 +7470,8 @@
 					"breachmax": 0.8,
 					"dps": 14.4,
 					"eps": 3.51,
-					"hps": 5.1
+					"hps": 5.1,
+					"range": 3000
 				},
 				{
 					"id": "0r",
@@ -7487,7 +7492,8 @@
 					"breachmax": 0.8,
 					"dps": 16,
 					"eps": 3.51,
-					"hps": 5.1
+					"hps": 5.1,
+					"range": 3000
 				},
 				{
 					"id": "0s",
@@ -7508,7 +7514,8 @@
 					"breachmax": 0.8,
 					"dps": 12.5,
 					"eps": 3.44,
-					"hps": 5.3
+					"hps": 5.3,
+					"range": 3000
 				},
 				{
 					"id": "0t",
@@ -7529,7 +7536,8 @@
 					"breachmax": 0.8,
 					"dps": 8.8,
 					"eps": 2.16,
-					"hps": 3.5
+					"hps": 3.5,
+					"range": 3000
 				},
 				{
 					"id": "10",
@@ -7550,7 +7558,8 @@
 					"breachmax": 0.8,
 					"dps": 9.8,
 					"eps": 2.16,
-					"hps": 3.5
+					"hps": 3.5,
+					"range": 3000
 				},
 				{
 					"id": "0p",
@@ -7593,10 +7602,12 @@
 					"breachmax": 0.8,
 					"dps": 5.4,
 					"eps": 1.32,
-					"hps": 2.4
+					"hps": 2.4,
+					"range": 3000
 				},
 				{
 					"id": "b0",
+					"edID": 128671346,
 					"eddbID": 1476,
 					"grp": "bl",
 					"name": "Retributor",
@@ -7604,14 +7615,18 @@
 					"rating": "E",
 					"cost": 56150,
 					"mass": 2,
+					"integrity": 40,
 					"power": 0.69,
 					"mount": "F",
 					"type": "T",
-					"damage": 0,
-					"armourpen": "A",
-					"dps": 3,
-					"thermload": 1,
-					"pp": "Edmund Mahon"
+					"armourpen": 18,
+					"breachdps": 3.9,
+					"breachmin": 0.4,
+					"breachmax": 0.8,
+					"dps": 4.9,
+					"eps": 2.8,
+					"hps": 2.7,
+					"range": 3000
 				}
 			],
 			"mc": [

@@ -5463,7 +5463,8 @@ module.exports = {
         breachmax: .8,
         dps: 41.4,
         eps: 9.1,
-        hps: 9.9
+        hps: 9.9,
+        range: 3e3
       }, {
         id: "0x",
         edID: 128681994,
@@ -5483,7 +5484,8 @@ module.exports = {
         breachmax: .8,
         dps: 32.7,
         eps: 8.99,
-        hps: 10.6
+        hps: 10.6,
+        range: 3e3
       }, {
         id: "0u",
         edID: 128049430,
@@ -5503,7 +5505,8 @@ module.exports = {
         breachmax: .8,
         dps: 25.8,
         eps: 5.67,
-        hps: 7.2
+        hps: 7.2,
+        range: 3e3
       }, {
         id: "0v",
         edID: 128049434,
@@ -5523,7 +5526,8 @@ module.exports = {
         breachmax: .8,
         dps: 20.3,
         eps: 5.58,
-        hps: 7.6
+        hps: 7.6,
+        range: 3e3
       }, {
         id: "0o",
         edID: 128049437,
@@ -5543,7 +5547,8 @@ module.exports = {
         breachmax: .8,
         dps: 14.4,
         eps: 3.51,
-        hps: 5.1
+        hps: 5.1,
+        range: 3e3
       }, {
         id: "0r",
         edID: 128049429,
@@ -5563,7 +5568,8 @@ module.exports = {
         breachmax: .8,
         dps: 16,
         eps: 3.51,
-        hps: 5.1
+        hps: 5.1,
+        range: 3e3
       }, {
         id: "0s",
         edID: 128049433,
@@ -5583,7 +5589,8 @@ module.exports = {
         breachmax: .8,
         dps: 12.5,
         eps: 3.44,
-        hps: 5.3
+        hps: 5.3,
+        range: 3e3
       }, {
         id: "0t",
         edID: 128049436,
@@ -5603,7 +5610,8 @@ module.exports = {
         breachmax: .8,
         dps: 8.8,
         eps: 2.16,
-        hps: 3.5
+        hps: 3.5,
+        range: 3e3
       }, {
         id: "10",
         edID: 128049428,
@@ -5623,7 +5631,8 @@ module.exports = {
         breachmax: .8,
         dps: 9.8,
         eps: 2.16,
-        hps: 3.5
+        hps: 3.5,
+        range: 3e3
       }, {
         id: "0p",
         edID: 128049432,
@@ -5664,9 +5673,11 @@ module.exports = {
         breachmax: .8,
         dps: 5.4,
         eps: 1.32,
-        hps: 2.4
+        hps: 2.4,
+        range: 3e3
       }, {
         id: "b0",
+        edID: 128671346,
         eddbID: 1476,
         grp: "bl",
         name: "Retributor",
@@ -5674,14 +5685,18 @@ module.exports = {
         rating: "E",
         cost: 56150,
         mass: 2,
+        integrity: 40,
         power: .69,
         mount: "F",
         type: "T",
-        damage: 0,
-        armourpen: "A",
-        dps: 3,
-        thermload: 1,
-        pp: "Edmund Mahon"
+        armourpen: 18,
+        breachdps: 3.9,
+        breachmin: .4,
+        breachmax: .8,
+        dps: 4.9,
+        eps: 2.8,
+        hps: 2.7,
+        range: 3e3
       } ],
       mc: [ {
         id: "7n",
