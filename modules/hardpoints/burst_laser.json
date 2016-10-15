@@ -15,6 +15,6 @@
     { "id": "12", "edID": 128049404, "eddbID": 835, "grp": "ul", "class": 1, "rating": "G", "cost": 8600, "mass": 2, "integrity": 40, "power": 0.64, "mount": "G", "type": "T", "armourpen": 20, "breachdps": 5.3, "breachmin": 0.4, "breachmax": 0.8, "dps":6.4, "eps": 1.4, "hps": 1.6, "range": 3000, "rof": 5.3, "burst": 3, "burstrof": 17 },
     { "id": "13", "edID": 128049407, "eddbID": 838, "grp": "ul", "class": 1, "rating": "G", "cost": 52800, "mass": 2, "integrity": 40, "power": 0.6, "mount": "T", "type": "T", "armourpen": 20, "breachdps": 1.92, "breachmin": 0.4, "breachmax": 0.8, "dps": 4.2, "eps": 0.768, "hps": 0.96, "range": 3000, "rof": 4.8, "burst": 3, "burstrof": 19 },
 
-    { "id": "cy", "edID": 128671449, "eddbID": 1477, "grp": "ul", "name": "Cytoscrambler", "class": 1, "rating": "F", "cost": 8800, "mass": 2, "power": 0.65, "mount": "F", "type": "T", "damage": 2, "armourpen": "A", "rof": 1.6, "dps": 3, "thermload": 1, "pp": "Archon Delaine" }
+    { "id": "cy", "edID": 128671449, "eddbID": 1477, "grp": "ul", "name": "Cytoscrambler", "class": 1, "rating": "F", "cost": 8800, "mass": 2, "integrity": 40, "power": 0.8, "mount": "F", "type": "T", "armourpen": 1, "breachdps": 15.25, "breachmin": 0, "breachmax": 0, "dps": 18.3, "eps": 3.05, "hps": 2.29, "range": 600, "rof": 7.6, "burst": 8, "burstrof": 20, "pp": "Archon Delaine" }
   ]
 }
