@@ -8,6 +8,6 @@
     { "id": "2d", "edID": 128666724, "eddbID": 1326, "grp": "mr", "class": 1, "rating": "B", "cost": 32180, "mass": 2, "integrity": 40, "power": 0.4, "mount": "F", "type": "E", "armourpen": 60, "breachdps": 0, "breachmin": 0, "breachmax": 0, "dps": 25, "eps": 0.12, "hps": 1.8, "rof": 0.5, "clip": 8, "ammo": 16, "speed": 750, "reload": 5, "roundspershot": 1, "missile": "D" },
     { "id": "2e", "edID": 128049492, "eddbID": 878, "grp": "mr", "class": 1, "rating": "B", "cost": 72600, "mass": 2, "integrity": 40, "power": 0.6, "mount": "F", "type": "E", "armourpen": 60, "breachdps": 0, "breachmin": 0, "breachmax": 0, "dps": 13.3, "eps": 0.07, "hps": 1.08, "rof": 0.3, "clip": 6, "ammo": 6, "speed": 625, "reload": 12, "roundspershot": 1, "missile": "S" },
 
-    { "id": "Ph", "edID": 128671344, "eddbID": 1480, "grp": "mr", "name": "Pack-Hound", "class": 2, "rating": "B", "cost": 768600, "mass": 4, "power": 1.2, "mount": "F", "type": "E", "damage": 3, "armourpen": "F", "rof": 0.5, "dps": 4, "thermload": 3, "clip": 12, "ammo": 120, "missile": "S", "pp": "Li Yong-Rui", "breachdps": 0, "breachmin": 0, "breachmax": 0 }
+    { "id": "Ph", "edID": 128671344, "eddbID": 1480, "grp": "mr", "name": "Pack-Hound", "class": 2, "rating": "B", "cost": 768600, "mass": 4, "integrity": 51, "power": 1.2, "mount": "F", "type": "E", "armourpen": 60, "breachdps": 3.6, "breachmin": 0, "breachmax": 0, "dps": 72, "eps": 0.48, "hps": 7.2, "rof": 2, "clip": 12, "ammo": 120, "speed": 600, "reload": 5, "roundspershot": 4, "missile": "S", "pp": "Li Yong-Rui" }
   ]
 }

@@ -15,6 +15,6 @@
     { "id": "0p", "edID": 128049432, "eddbID": 844, "grp": "bl", "class": 1, "rating": "E", "cost": 74650, "mass": 2, "integrity": 40, "power": 0.67, "mount": "G", "type": "T", "armourpen": 18, "breachdps": 6.1, "breachmin": 0.4, "breachmax": 0.8, "dps": 7.7, "eps": 2.11, "hps": 3.7, "range": 3000 },
     { "id": "0q", "edID": 128049435, "eddbID": 847, "grp": "bl", "class": 1, "rating": "F", "cost": 500000, "mass": 2, "integrity": 40, "power": 0.63, "mount": "T", "type": "T", "armourpen": 18, "breachdps": 4.3, "breachmin": 0.4, "breachmax": 0.8, "dps": 5.4, "eps" : 1.32, "hps" : 2.4, "range": 3000 },
 
-    { "id": "b0", "edID": 128671346, "eddbID": 1476, "grp": "bl", "name": "Retributor", "class": 1, "rating": "E", "cost": 56150, "mass": 2, "integrity": 40, "power": 0.69, "mount": "F", "type": "T", "armourpen": 18, "breachdps": 3.9, "breachmin": 0.4, "breachmax": 0.8, "dps": 4.9, "eps": 2.8, "hps": 2.7, "range": 3000 }
+    { "id": "b0", "edID": 128671346, "eddbID": 1476, "grp": "bl", "name": "Retributor", "class": 1, "rating": "E", "cost": 56150, "mass": 2, "integrity": 40, "power": 0.69, "mount": "F", "type": "T", "armourpen": 18, "breachdps": 3.9, "breachmin": 0.4, "breachmax": 0.8, "dps": 4.9, "eps": 2.8, "hps": 2.7, "range": 3000, "pp": "Edmund Mahon" }
   ]
 }
