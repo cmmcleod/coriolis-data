@@ -1,0 +1,49 @@
+{
+  "pce": [
+    {
+      "class": 2,
+      "cost": -1,
+      "grp": "pce",
+      "id": "ma",
+      "mass": 2.5,
+      "passengers": 2,
+      "rating": "E"
+    },
+    {
+      "class": 3,
+      "cost": -1,
+      "grp": "pce",
+      "id": "mb",
+      "mass": 5,
+      "passengers": 4,
+      "rating": "E"
+    },
+    {
+      "class": 4,
+      "cost": -1,
+      "grp": "pce",
+      "id": "mc",
+      "mass": 10,
+      "passengers": 8,
+      "rating": "E"
+    },
+    {
+      "class": 5,
+      "cost": -1,
+      "grp": "pce",
+      "id": "md",
+      "mass": 20,
+      "passengers": 16,
+      "rating": "E"
+    },
+    {
+      "class": 6,
+      "cost": -1,
+      "grp": "pce",
+      "id": "me",
+      "mass": 40,
+      "passengers": 32,
+      "rating": "E"
+    }
+  ]
+}

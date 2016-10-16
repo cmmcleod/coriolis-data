@@ -1,7 +1,62 @@
 {
   "ml": [
-    { "id": "2l", "edID": 128049525, "eddbID": 888, "grp": "ml", "class": 1, "rating": "D", "cost": 6800, "mass": 2, "power": 0.5, "mount": "F", "armourpen": "D", "thermload": 3 },
-    { "id": "2m", "edID": 128049526, "eddbID": 889, "grp": "ml", "class": 2, "rating": "D", "cost": 22580, "mass": 2, "power": 0.75, "mount": "F", "armourpen": "D", "thermload": 5 },
-    { "id": "ml", "eddbID": 1479, "grp": "ml", "name": "Mining Lance", "class": 1, "rating": "D", "cost": 13600, "mass": 2, "power": 0.7, "mount": "F", "type": "T", "damage": 3, "dps": 3, "armourpen": "D", "thermload": 3, "pp": "Zemina Torval" }
+    {
+      "armourpen": 18,
+      "breachdps": 0.3,
+      "breachmax": 0.2,
+      "breachmin": 0.1,
+      "class": 1,
+      "cost": 6800,
+      "dps": 2,
+      "edID": 128049525,
+      "eddbID": 888,
+      "eps": 1.5,
+      "grp": "ml",
+      "hps": 2,
+      "id": "2l",
+      "integrity": 40,
+      "mass": 2,
+      "mount": "F",
+      "power": 0.5,
+      "rating": "D"
+    },
+    {
+      "armourpen": 18,
+      "breachdps": 0.6,
+      "breachmax": 0.2,
+      "breachmin": 0.1,
+      "class": 2,
+      "cost": 22580,
+      "dps": 4,
+      "edID": 128049526,
+      "eddbID": 889,
+      "eps": 3,
+      "grp": "ml",
+      "hps": 4,
+      "id": "2m",
+      "integrity": 51,
+      "mass": 2,
+      "mount": "F",
+      "power": 0.75,
+      "rating": "D"
+    },
+    {
+      "armourpen": "D",
+      "class": 1,
+      "cost": 13600,
+      "damage": 3,
+      "dps": 3,
+      "eddbID": 1479,
+      "grp": "ml",
+      "id": "ml",
+      "mass": 2,
+      "mount": "F",
+      "name": "Mining Lance",
+      "power": 0.7,
+      "pp": "Zemina Torval",
+      "rating": "D",
+      "thermload": 3,
+      "type": "T"
+    }
   ]
 }

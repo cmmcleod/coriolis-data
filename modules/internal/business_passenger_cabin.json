@@ -1,0 +1,40 @@
+{
+  "pci": [
+    {
+      "class": 3,
+      "cost": -1,
+      "grp": "pci",
+      "id": "mf",
+      "mass": 5,
+      "passengers": 3,
+      "rating": "D"
+    },
+    {
+      "class": 4,
+      "cost": -1,
+      "grp": "pci",
+      "id": "mg",
+      "mass": 10,
+      "passengers": 6,
+      "rating": "D"
+    },
+    {
+      "class": 5,
+      "cost": -1,
+      "grp": "pci",
+      "id": "mh",
+      "mass": 20,
+      "passengers": 10,
+      "rating": "D"
+    },
+    {
+      "class": 6,
+      "cost": -1,
+      "grp": "pci",
+      "id": "mi",
+      "mass": 40,
+      "passengers": 16,
+      "rating": "D"
+    }
+  ]
+}

@@ -1,5 +1,15 @@
 {
   "dc": [
-    { "id": "24", "edID": 128049549, "eddbID": 890, "grp": "dc", "name": "Standard Docking Computer", "class": 1, "rating": "E", "cost": 4500, "power": 0.39 }
+    {
+      "class": 1,
+      "cost": 4500,
+      "edID": 128049549,
+      "eddbID": 890,
+      "grp": "dc",
+      "id": "24",
+      "name": "Standard Docking Computer",
+      "power": 0.39,
+      "rating": "E"
+    }
   ]
 }

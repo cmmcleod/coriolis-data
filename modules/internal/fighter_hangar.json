@@ -1,0 +1,37 @@
+{
+  "fh": [
+    {
+      "bays": 2,
+      "class": 7,
+      "cost": -1,
+      "grp": "fh",
+      "id": "fh",
+      "mass": 60,
+      "power": 0.35,
+      "rating": "D",
+      "rebuildsperbay": 15
+    },
+    {
+      "bays": 2,
+      "class": 6,
+      "cost": -1,
+      "grp": "fh",
+      "id": "fm",
+      "mass": 40,
+      "power": 0.35,
+      "rating": "D",
+      "rebuildsperbay": 8
+    },
+    {
+      "bays": 1,
+      "class": 5,
+      "cost": -1,
+      "grp": "fh",
+      "id": "fr",
+      "mass": 20,
+      "power": 0.25,
+      "rating": "D",
+      "rebuildsperbay": 6
+    }
+  ]
+}

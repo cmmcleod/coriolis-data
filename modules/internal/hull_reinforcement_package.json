@@ -1,18 +1,114 @@
 {
   "hr": [
-    { "id": "2e", "edID": 128668545, "eddbID": 1381, "grp": "hr", "class": 5, "rating": "E", "cost": 150000, "mass": 64, "armouradd": 360 },
-    { "id": "2d", "edID": 128668546, "eddbID": 1382, "grp": "hr", "class": 5, "rating": "D", "cost": 450000, "mass": 32, "armouradd": 390 },
-
-    { "id": "2c", "edID": 128668543, "eddbID": 1379, "grp": "hr", "class": 4, "rating": "E", "cost": 65000, "mass": 32, "armouradd": 300 },
-    { "id": "2b", "edID": 128668544, "eddbID": 1380, "grp": "hr", "class": 4, "rating": "D", "cost": 195000, "mass": 16, "armouradd": 330 },
-
-    { "id": "2a", "edID": 128668541, "eddbID": 1377, "grp": "hr", "class": 3, "rating": "E", "cost": 28000, "mass": 16, "armouradd": 230 },
-    { "id": "29", "edID": 128668542, "eddbID": 1378, "grp": "hr", "class": 3, "rating": "D", "cost": 84000, "mass": 8, "armouradd": 260 },
-
-    { "id": "28", "edID": 128668539, "eddbID": 1375, "grp": "hr", "class": 2, "rating": "E", "cost": 12000, "mass": 8, "armouradd": 150 },
-    { "id": "27", "edID": 128668540, "eddbID": 1376, "grp": "hr", "class": 2, "rating": "D", "cost": 36000, "mass": 4, "armouradd": 190 },
-
-    { "id": "26", "edID": 128668537, "eddbID": 1373, "grp": "hr", "class": 1, "rating": "E", "cost": 5000, "mass": 4, "armouradd": 80 },
-    { "id": "25", "edID": 128668538, "eddbID": 1374, "grp": "hr", "class": 1, "rating": "D", "cost": 15000, "mass": 2, "armouradd": 110 }
+    {
+      "armouradd": 360,
+      "class": 5,
+      "cost": 150000,
+      "edID": 128668545,
+      "eddbID": 1381,
+      "grp": "hr",
+      "id": "2e",
+      "mass": 64,
+      "rating": "E"
+    },
+    {
+      "armouradd": 390,
+      "class": 5,
+      "cost": 450000,
+      "edID": 128668546,
+      "eddbID": 1382,
+      "grp": "hr",
+      "id": "2d",
+      "mass": 32,
+      "rating": "D"
+    },
+    {
+      "armouradd": 300,
+      "class": 4,
+      "cost": 65000,
+      "edID": 128668543,
+      "eddbID": 1379,
+      "grp": "hr",
+      "id": "2c",
+      "mass": 32,
+      "rating": "E"
+    },
+    {
+      "armouradd": 330,
+      "class": 4,
+      "cost": 195000,
+      "edID": 128668544,
+      "eddbID": 1380,
+      "grp": "hr",
+      "id": "2b",
+      "mass": 16,
+      "rating": "D"
+    },
+    {
+      "armouradd": 230,
+      "class": 3,
+      "cost": 28000,
+      "edID": 128668541,
+      "eddbID": 1377,
+      "grp": "hr",
+      "id": "2a",
+      "mass": 16,
+      "rating": "E"
+    },
+    {
+      "armouradd": 260,
+      "class": 3,
+      "cost": 84000,
+      "edID": 128668542,
+      "eddbID": 1378,
+      "grp": "hr",
+      "id": "29",
+      "mass": 8,
+      "rating": "D"
+    },
+    {
+      "armouradd": 150,
+      "class": 2,
+      "cost": 12000,
+      "edID": 128668539,
+      "eddbID": 1375,
+      "grp": "hr",
+      "id": "28",
+      "mass": 8,
+      "rating": "E"
+    },
+    {
+      "armouradd": 190,
+      "class": 2,
+      "cost": 36000,
+      "edID": 128668540,
+      "eddbID": 1376,
+      "grp": "hr",
+      "id": "27",
+      "mass": 4,
+      "rating": "D"
+    },
+    {
+      "armouradd": 80,
+      "class": 1,
+      "cost": 5000,
+      "edID": 128668537,
+      "eddbID": 1373,
+      "grp": "hr",
+      "id": "26",
+      "mass": 4,
+      "rating": "E"
+    },
+    {
+      "armouradd": 110,
+      "class": 1,
+      "cost": 15000,
+      "edID": 128668538,
+      "eddbID": 1374,
+      "grp": "hr",
+      "id": "25",
+      "mass": 2,
+      "rating": "D"
+    }
   ]
 }
