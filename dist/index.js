@@ -247,7 +247,7 @@ module.exports = {
     },
     beluga: {
       edID: -1,
-      eddbID: -1,
+      eddbID: 30,
       properties: {
         name: "Beluga Liner",
         manufacturer: "Saud Kruger",
