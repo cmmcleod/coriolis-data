@@ -268,22 +268,27 @@ module.exports = {
       retailCost: -1,
       bulkheads: [ {
         id: "cl",
+        eddbID: 1554,
         cost: 0,
         mass: 0
       }, {
         id: "cm",
+        eddbID: 1555,
         cost: -1,
         mass: 83
       }, {
         id: "cn",
+        eddbID: 1556,
         cost: -1,
         mass: 165
       }, {
         id: "co",
+        eddbID: 1557,
         cost: -1,
         mass: 165
       }, {
         id: "cp",
+        eddbID: 1558,
         cost: -1,
         mass: 165
       } ],
@@ -6751,6 +6756,7 @@ module.exports = {
         clip: 12,
         cost: 190227,
         dps: 25,
+        eddbID: 1559,
         eps: .12,
         grp: "mr",
         id: "1z",
@@ -8417,6 +8423,7 @@ module.exports = {
         bays: 2,
         class: 7,
         cost: -1,
+        eddbID: 1560,
         grp: "fh",
         id: "fh",
         mass: 60,
@@ -8427,6 +8434,7 @@ module.exports = {
         bays: 2,
         class: 6,
         cost: -1,
+        eddbID: 1561,
         grp: "fh",
         id: "fm",
         mass: 40,
@@ -8437,6 +8445,7 @@ module.exports = {
         bays: 1,
         class: 5,
         cost: -1,
+        eddbID: 1562,
         grp: "fh",
         id: "fr",
         mass: 20,
@@ -10198,6 +10207,7 @@ module.exports = {
       pce: [ {
         class: 2,
         cost: -1,
+        eddbID: 1563,
         grp: "pce",
         id: "ma",
         mass: 2.5,
@@ -10206,6 +10216,7 @@ module.exports = {
       }, {
         class: 3,
         cost: -1,
+        eddbID: 1564,
         grp: "pce",
         id: "mb",
         mass: 5,
@@ -10214,6 +10225,7 @@ module.exports = {
       }, {
         class: 4,
         cost: -1,
+        eddbID: 1565,
         grp: "pce",
         id: "mc",
         mass: 10,
@@ -10222,6 +10234,7 @@ module.exports = {
       }, {
         class: 5,
         cost: -1,
+        eddbID: 1566,
         grp: "pce",
         id: "md",
         mass: 20,
@@ -10230,6 +10243,7 @@ module.exports = {
       }, {
         class: 6,
         cost: -1,
+        eddbID: 1567,
         grp: "pce",
         id: "me",
         mass: 40,
@@ -10239,6 +10253,7 @@ module.exports = {
       pci: [ {
         class: 3,
         cost: -1,
+        eddbID: 1568,
         grp: "pci",
         id: "mf",
         mass: 5,
@@ -10247,6 +10262,7 @@ module.exports = {
       }, {
         class: 4,
         cost: -1,
+        eddbID: 1569,
         grp: "pci",
         id: "mg",
         mass: 10,
@@ -10255,6 +10271,7 @@ module.exports = {
       }, {
         class: 5,
         cost: -1,
+        eddbID: 1570,
         grp: "pci",
         id: "mh",
         mass: 20,
@@ -10263,6 +10280,7 @@ module.exports = {
       }, {
         class: 6,
         cost: -1,
+        eddbID: 1571,
         grp: "pci",
         id: "mi",
         mass: 40,
@@ -10272,6 +10290,7 @@ module.exports = {
       pcm: [ {
         class: 4,
         cost: -1,
+        eddbID: 1572,
         grp: "pcm",
         id: "mj",
         mass: 10,
@@ -10280,6 +10299,7 @@ module.exports = {
       }, {
         class: 5,
         cost: -1,
+        eddbID: 1573,
         grp: "pcm",
         id: "mk",
         mass: 20,
@@ -10288,6 +10308,7 @@ module.exports = {
       }, {
         class: 6,
         cost: -1,
+        eddbID: 1574,
         grp: "pcm",
         id: "ml",
         mass: 40,
@@ -10297,6 +10318,7 @@ module.exports = {
       pcq: [ {
         class: 5,
         cost: -1,
+        eddbID: 1575,
         grp: "pcq",
         id: "mm",
         mass: 20,
@@ -10305,6 +10327,7 @@ module.exports = {
       }, {
         class: 6,
         cost: -1,
+        eddbID: 1576,
         grp: "pcq",
         id: "mn",
         mass: 40,

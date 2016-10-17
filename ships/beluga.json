@@ -21,11 +21,11 @@
     },
     "retailCost": -1,
     "bulkheads": [
-      { "id": "cl", "cost": 0, "mass": 0 },
-      { "id": "cm", "cost": -1, "mass": 83 },
-      { "id": "cn", "cost": -1, "mass": 165 },
-      { "id": "co", "cost": -1, "mass": 165 },
-      { "id": "cp", "cost": -1, "mass": 165 }
+      { "id": "cl", "eddbID": 1554,"cost": 0, "mass": 0 },
+      { "id": "cm", "eddbID": 1555,"cost": -1, "mass": 83 },
+      { "id": "cn", "eddbID": 1556,"cost": -1, "mass": 165 },
+      { "id": "co", "eddbID": 1557,"cost": -1, "mass": 165 },
+      { "id": "cp", "eddbID": 1558,"cost": -1, "mass": 165 }
     ],
     "slots": {
       "standard": [6, 7, 7, 8, 6, 5, 7],

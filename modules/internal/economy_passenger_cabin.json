@@ -3,6 +3,7 @@
     {
       "class": 2,
       "cost": -1,
+      "eddbID": 1563,
       "grp": "pce",
       "id": "ma",
       "mass": 2.5,
@@ -12,6 +13,7 @@
     {
       "class": 3,
       "cost": -1,
+      "eddbID": 1564,
       "grp": "pce",
       "id": "mb",
       "mass": 5,
@@ -21,6 +23,7 @@
     {
       "class": 4,
       "cost": -1,
+      "eddbID": 1565,
       "grp": "pce",
       "id": "mc",
       "mass": 10,
@@ -30,6 +33,7 @@
     {
       "class": 5,
       "cost": -1,
+      "eddbID": 1566,
       "grp": "pce",
       "id": "md",
       "mass": 20,
@@ -39,6 +43,7 @@
     {
       "class": 6,
       "cost": -1,
+      "eddbID": 1567,
       "grp": "pce",
       "id": "me",
       "mass": 40,
