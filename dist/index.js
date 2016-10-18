@@ -6766,6 +6766,7 @@ module.exports = {
         mount: "F",
         name: "Rocket Propelled FSD Disruptor",
         power: 1.2,
+        pp: "Yuri Grom",
         rating: "B",
         rof: .5,
         speed: 750,
