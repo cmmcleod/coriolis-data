@@ -3,7 +3,7 @@
     {
       "bays": 2,
       "class": 7,
-      "cost": -1,
+      "cost": 2079090,
       "eddbID": 1560,
       "grp": "fh",
       "id": "fh",
@@ -15,7 +15,7 @@
     {
       "bays": 2,
       "class": 6,
-      "cost": -1,
+      "cost": 1640350,
       "eddbID": 1561,
       "grp": "fh",
       "id": "fm",
@@ -27,7 +27,7 @@
     {
       "bays": 1,
       "class": 5,
-      "cost": -1,
+      "cost": 505130,
       "eddbID": 1562,
       "grp": "fh",
       "id": "fr",
