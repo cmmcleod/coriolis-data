@@ -3,6 +3,7 @@
     {
       "class": 3,
       "cost": -1,
+      "eddbID": 1568,
       "grp": "pci",
       "id": "mf",
       "mass": 5,
@@ -12,6 +13,7 @@
     {
       "class": 4,
       "cost": -1,
+      "eddbID": 1569,
       "grp": "pci",
       "id": "mg",
       "mass": 10,
@@ -21,6 +23,7 @@
     {
       "class": 5,
       "cost": -1,
+      "eddbID": 1570,
       "grp": "pci",
       "id": "mh",
       "mass": 20,
@@ -30,6 +33,7 @@
     {
       "class": 6,
       "cost": -1,
+      "eddbID": 1571,
       "grp": "pci",
       "id": "mi",
       "mass": 40,
