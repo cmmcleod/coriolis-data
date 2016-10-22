@@ -1,27 +1,224 @@
 {
   "rf": [
-    { "id": "23", "edID": 128666687, "eddbID": 1289, "grp": "rf", "class": 4, "rating": "E", "cost": 55570, "power": 0.25, "bins": 4 },
-    { "id": "22", "edID": 128666691, "eddbID": 1293, "grp": "rf", "class": 4, "rating": "D", "cost": 166700, "power": 0.33, "bins": 5 },
-    { "id": "21", "edID": 128666695, "eddbID": 1297, "grp": "rf", "class": 4, "rating": "C", "cost": 500090, "power": 0.41, "bins": 7 },
-    { "id": "20", "edID": 128666699, "eddbID": 1301, "grp": "rf", "class": 4, "rating": "B", "cost": 1500280, "power": 0.49, "bins": 9 },
-    { "id": "1v", "edID": 128666703, "eddbID": 1305, "grp": "rf", "class": 4, "rating": "A", "cost": 4500850, "power": 0.57, "bins": 10 },
-
-    { "id": "1u", "edID": 128666686, "eddbID": 1288, "grp": "rf", "class": 3, "rating": "E", "cost": 26460, "power": 0.2, "bins": 3 },
-    { "id": "1t", "edID": 128666690, "eddbID": 1292, "grp": "rf", "class": 3, "rating": "D", "cost": 79380, "power": 0.27, "bins": 4 },
-    { "id": "1s", "edID": 128666694, "eddbID": 1296, "grp": "rf", "class": 3, "rating": "C", "cost": 238140, "power": 0.34, "bins": 6 },
-    { "id": "1r", "edID": 128666698, "eddbID": 1300, "grp": "rf", "class": 3, "rating": "B", "cost": 714420, "power": 0.41, "bins": 7 },
-    { "id": "1q", "edID": 128666702, "eddbID": 1304, "grp": "rf", "class": 3, "rating": "A", "cost": 2143260, "power": 0.48, "bins": 8 },
-
-    { "id": "1p", "edID": 128666685, "eddbID": 1287, "grp": "rf", "class": 2, "rating": "E", "cost": 12600, "power": 0.17, "bins": 2 },
-    { "id": "1o", "edID": 128666689, "eddbID": 1291, "grp": "rf", "class": 2, "rating": "D", "cost": 37800, "power": 0.22, "bins": 3 },
-    { "id": "1n", "edID": 128666693, "eddbID": 1295, "grp": "rf", "class": 2, "rating": "C", "cost": 113400, "power": 0.28, "bins": 4 },
-    { "id": "1m", "edID": 128666697, "eddbID": 1299, "grp": "rf", "class": 2, "rating": "B", "cost": 340200, "power": 0.34, "bins": 5 },
-    { "id": "1l", "edID": 128666701, "eddbID": 1303, "grp": "rf", "class": 2, "rating": "A", "cost": 1020600, "power": 0.39, "bins": 6 },
-
-    { "id": "1k", "edID": 128666684, "eddbID": 1286, "grp": "rf", "class": 1, "rating": "E", "cost": 6000, "power": 0.14, "bins": 1 },
-    { "id": "1j", "edID": 128666688, "eddbID": 1290, "grp": "rf", "class": 1, "rating": "D", "cost": 18000, "power": 0.18, "bins": 1 },
-    { "id": "1i", "edID": 128666692, "eddbID": 1294, "grp": "rf", "class": 1, "rating": "C", "cost": 54000, "power": 0.23, "bins": 2 },
-    { "id": "1h", "edID": 128666696, "eddbID": 1298, "grp": "rf", "class": 1, "rating": "B", "cost": 162000, "power": 0.28, "bins": 3 },
-    { "id": "1g", "edID": 128666700, "eddbID": 1302, "grp": "rf", "class": 1, "rating": "A", "cost": 486000, "power": 0.32, "bins": 4 }
+    {
+      "bins": 4,
+      "class": 4,
+      "cost": 55570,
+      "edID": 128666687,
+      "eddbID": 1289,
+      "grp": "rf",
+      "id": "23",
+      "power": 0.25,
+      "rating": "E"
+    },
+    {
+      "bins": 5,
+      "class": 4,
+      "cost": 166700,
+      "edID": 128666691,
+      "eddbID": 1293,
+      "grp": "rf",
+      "id": "22",
+      "power": 0.33,
+      "rating": "D"
+    },
+    {
+      "bins": 7,
+      "class": 4,
+      "cost": 500090,
+      "edID": 128666695,
+      "eddbID": 1297,
+      "grp": "rf",
+      "id": "21",
+      "power": 0.41,
+      "rating": "C"
+    },
+    {
+      "bins": 9,
+      "class": 4,
+      "cost": 1500280,
+      "edID": 128666699,
+      "eddbID": 1301,
+      "grp": "rf",
+      "id": "20",
+      "power": 0.49,
+      "rating": "B"
+    },
+    {
+      "bins": 10,
+      "class": 4,
+      "cost": 4500850,
+      "edID": 128666703,
+      "eddbID": 1305,
+      "grp": "rf",
+      "id": "1v",
+      "power": 0.57,
+      "rating": "A"
+    },
+    {
+      "bins": 3,
+      "class": 3,
+      "cost": 26460,
+      "edID": 128666686,
+      "eddbID": 1288,
+      "grp": "rf",
+      "id": "1u",
+      "power": 0.2,
+      "rating": "E"
+    },
+    {
+      "bins": 4,
+      "class": 3,
+      "cost": 79380,
+      "edID": 128666690,
+      "eddbID": 1292,
+      "grp": "rf",
+      "id": "1t",
+      "power": 0.27,
+      "rating": "D"
+    },
+    {
+      "bins": 6,
+      "class": 3,
+      "cost": 238140,
+      "edID": 128666694,
+      "eddbID": 1296,
+      "grp": "rf",
+      "id": "1s",
+      "power": 0.34,
+      "rating": "C"
+    },
+    {
+      "bins": 7,
+      "class": 3,
+      "cost": 714420,
+      "edID": 128666698,
+      "eddbID": 1300,
+      "grp": "rf",
+      "id": "1r",
+      "power": 0.41,
+      "rating": "B"
+    },
+    {
+      "bins": 8,
+      "class": 3,
+      "cost": 2143260,
+      "edID": 128666702,
+      "eddbID": 1304,
+      "grp": "rf",
+      "id": "1q",
+      "power": 0.48,
+      "rating": "A"
+    },
+    {
+      "bins": 2,
+      "class": 2,
+      "cost": 12600,
+      "edID": 128666685,
+      "eddbID": 1287,
+      "grp": "rf",
+      "id": "1p",
+      "power": 0.17,
+      "rating": "E"
+    },
+    {
+      "bins": 3,
+      "class": 2,
+      "cost": 37800,
+      "edID": 128666689,
+      "eddbID": 1291,
+      "grp": "rf",
+      "id": "1o",
+      "power": 0.22,
+      "rating": "D"
+    },
+    {
+      "bins": 4,
+      "class": 2,
+      "cost": 113400,
+      "edID": 128666693,
+      "eddbID": 1295,
+      "grp": "rf",
+      "id": "1n",
+      "power": 0.28,
+      "rating": "C"
+    },
+    {
+      "bins": 5,
+      "class": 2,
+      "cost": 340200,
+      "edID": 128666697,
+      "eddbID": 1299,
+      "grp": "rf",
+      "id": "1m",
+      "power": 0.34,
+      "rating": "B"
+    },
+    {
+      "bins": 6,
+      "class": 2,
+      "cost": 1020600,
+      "edID": 128666701,
+      "eddbID": 1303,
+      "grp": "rf",
+      "id": "1l",
+      "power": 0.39,
+      "rating": "A"
+    },
+    {
+      "bins": 1,
+      "class": 1,
+      "cost": 6000,
+      "edID": 128666684,
+      "eddbID": 1286,
+      "grp": "rf",
+      "id": "1k",
+      "power": 0.14,
+      "rating": "E"
+    },
+    {
+      "bins": 1,
+      "class": 1,
+      "cost": 18000,
+      "edID": 128666688,
+      "eddbID": 1290,
+      "grp": "rf",
+      "id": "1j",
+      "power": 0.18,
+      "rating": "D"
+    },
+    {
+      "bins": 2,
+      "class": 1,
+      "cost": 54000,
+      "edID": 128666692,
+      "eddbID": 1294,
+      "grp": "rf",
+      "id": "1i",
+      "power": 0.23,
+      "rating": "C"
+    },
+    {
+      "bins": 3,
+      "class": 1,
+      "cost": 162000,
+      "edID": 128666696,
+      "eddbID": 1298,
+      "grp": "rf",
+      "id": "1h",
+      "power": 0.28,
+      "rating": "B"
+    },
+    {
+      "bins": 4,
+      "class": 1,
+      "cost": 486000,
+      "edID": 128666700,
+      "eddbID": 1302,
+      "grp": "rf",
+      "id": "1g",
+      "power": 0.32,
+      "rating": "A"
+    }
   ]
 }

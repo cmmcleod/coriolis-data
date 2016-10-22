@@ -1,0 +1,34 @@
+{
+  "pcm": [
+    {
+      "class": 4,
+      "cost": -1,
+      "eddbID": 1572,
+      "grp": "pcm",
+      "id": "mj",
+      "mass": 10,
+      "passengers": 3,
+      "rating": "C"
+    },
+    {
+      "class": 5,
+      "cost": -1,
+      "eddbID": 1573,
+      "grp": "pcm",
+      "id": "mk",
+      "mass": 20,
+      "passengers": 6,
+      "rating": "C"
+    },
+    {
+      "class": 6,
+      "cost": -1,
+      "eddbID": 1574,
+      "grp": "pcm",
+      "id": "ml",
+      "mass": 40,
+      "passengers": 12,
+      "rating": "C"
+    }
+  ]
+}

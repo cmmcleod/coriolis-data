@@ -1,5 +1,15 @@
 {
   "pas": [
-    { "id": "PA", "edID": 128672317, "eddbID": null, "grp": "pas", "class": 1, "rating": "I", "cost": 500, "power": 0.0, "mass": 0 }
+    {
+      "class": 1,
+      "cost": 500,
+      "edID": 128672317,
+      "eddbID": 1538,
+      "grp": "pas",
+      "id": "PA",
+      "mass": 0,
+      "power": 0,
+      "rating": "I"
+    }
   ]
 }

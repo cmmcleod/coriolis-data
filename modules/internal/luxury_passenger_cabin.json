@@ -1,0 +1,24 @@
+{
+  "pcq": [
+    {
+      "class": 5,
+      "cost": -1,
+      "eddbID": 1575,
+      "grp": "pcq",
+      "id": "mm",
+      "mass": 20,
+      "passengers": 4,
+      "rating": "B"
+    },
+    {
+      "class": 6,
+      "cost": -1,
+      "eddbID": 1576,
+      "grp": "pcq",
+      "id": "mn",
+      "mass": 40,
+      "passengers": 8,
+      "rating": "B"
+    }
+  ]
+}
