@@ -14364,5 +14364,74 @@
 				}
 			]
 		}
+	},
+	"Modifications": {
+		"modifiers": {
+			"1": {
+				"value": "pGen",
+				"description": "Modifier for power generation",
+				"operator": "multiply"
+			},
+			"2": {
+				"value": "power",
+				"description": "Modifier for power usage",
+				"operator": "multiply"
+			},
+			"3": {
+				"value": "integrity",
+				"description": "Modifier for integrity",
+				"operator": "multiply"
+			},
+			"4": {
+				"value": "mass",
+				"description": "Modifier for mass",
+				"operator": "multiply"
+			},
+			"5": {
+				"value": "eff",
+				"description": "Modifier for heat efficiency",
+				"operator": "multiply"
+			}
+		},
+		"validity": {
+			"pp": [
+				1,
+				3,
+				4,
+				5
+			],
+			"t": [
+				2,
+				3,
+				4,
+				5
+			],
+			"fsd": [
+				2,
+				3,
+				4,
+				5
+			],
+			"ls": [
+				2,
+				3,
+				4,
+				5
+			],
+			"pd": [
+				2,
+				3,
+				4,
+				5
+			],
+			"s": [
+				2,
+				3,
+				4,
+				5
+			],
+			"ft": [],
+			"pas": []
+		}
 	}
 }
