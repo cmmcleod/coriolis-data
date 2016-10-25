@@ -14369,26 +14369,31 @@
 		"modifiers": {
 			"1": {
 				"value": "pGen",
+				"name": "Power generation",
 				"description": "Modifier for power generation",
 				"operator": "multiply"
 			},
 			"2": {
 				"value": "power",
+				"name": "Power usage",
 				"description": "Modifier for power usage",
 				"operator": "multiply"
 			},
 			"3": {
 				"value": "integrity",
+				"name": "Integrity",
 				"description": "Modifier for integrity",
 				"operator": "multiply"
 			},
 			"4": {
 				"value": "mass",
+				"name": "Mass",
 				"description": "Modifier for mass",
 				"operator": "multiply"
 			},
 			"5": {
 				"value": "eff",
+				"name": "Heat efficiency",
 				"description": "Modifier for heat efficiency",
 				"operator": "multiply"
 			}
