@@ -11978,7 +11978,9 @@ module.exports = {
         value: "pGen",
         name: "Power generation",
         description: "Modifier for power generation",
-        operator: "multiply"
+        operator: "multiply",
+        min: -.35,
+        max: .5
       },
       "2": {
         value: "power",
@@ -11996,7 +11998,9 @@ module.exports = {
         value: "mass",
         name: "Mass",
         description: "Modifier for mass",
-        operator: "multiply"
+        operator: "multiply",
+        min: -1,
+        max: 3.5
       },
       "5": {
         value: "eff",
