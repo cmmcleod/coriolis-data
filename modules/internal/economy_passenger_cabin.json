@@ -2,7 +2,8 @@
   "pce": [
     {
       "class": 2,
-      "cost": -1,
+      "cost": 4320,
+      "edID": 128734690,
       "eddbID": 1563,
       "grp": "pce",
       "id": "ma",
@@ -12,7 +13,8 @@
     },
     {
       "class": 3,
-      "cost": -1,
+      "cost": 8670,
+      "edID": 128734691,
       "eddbID": 1564,
       "grp": "pce",
       "id": "mb",
@@ -22,7 +24,8 @@
     },
     {
       "class": 4,
-      "cost": -1,
+      "cost": 18960,
+      "edID": 128727922,
       "eddbID": 1565,
       "grp": "pce",
       "id": "mc",
@@ -32,7 +35,8 @@
     },
     {
       "class": 5,
-      "cost": -1,
+      "cost": 34960,
+      "edID": 128734693,
       "eddbID": 1566,
       "grp": "pce",
       "id": "md",
@@ -42,7 +46,8 @@
     },
     {
       "class": 6,
-      "cost": -1,
+      "cost": 61420,
+      "edID": 12872926,
       "eddbID": 1567,
       "grp": "pce",
       "id": "me",
