@@ -246,13 +246,13 @@ module.exports = {
       }
     },
     beluga: {
-      edID: -1,
+      edID: 128049345,
       eddbID: 30,
       properties: {
         name: "Beluga Liner",
         manufacturer: "Saud Kruger",
         class: 3,
-        hullCost: -1,
+        hullCost: 79654610,
         speed: 195,
         boost: 273,
         boostEnergy: 20,
@@ -265,31 +265,36 @@ module.exports = {
         luxuryCabins: true,
         fighterHangars: true
       },
-      retailCost: -1,
+      retailCost: 84532770,
       bulkheads: [ {
         id: "cl",
+        edID: 128049346,
         eddbID: 1554,
         cost: 0,
         mass: 0
       }, {
         id: "cm",
+        edID: 128049347,
         eddbID: 1555,
-        cost: -1,
+        cost: 33813120,
         mass: 83
       }, {
         id: "cn",
+        edID: 128049348,
         eddbID: 1556,
-        cost: -1,
+        cost: 76079500,
         mass: 165
       }, {
         id: "co",
+        edID: 128049349,
         eddbID: 1557,
-        cost: -1,
+        cost: 179801200,
         mass: 165
       }, {
         id: "cp",
+        edID: 128049350,
         eddbID: 1558,
-        cost: -1,
+        cost: 199243730,
         mass: 165
       } ],
       slots: {
@@ -6749,7 +6754,7 @@ module.exports = {
       mr: [ {
         ammo: 48,
         armourpen: 60,
-        breachdps: 0,
+        breachdps: 4.8,
         breachmax: 0,
         breachmin: 0,
         class: 2,
@@ -6759,6 +6764,7 @@ module.exports = {
         eddbID: 1559,
         eps: .12,
         grp: "mr",
+        hps: 1.08,
         id: "1z",
         integrity: 51,
         mass: 4,
@@ -6880,18 +6886,18 @@ module.exports = {
       }, {
         ammo: 120,
         armourpen: 60,
-        breachdps: 3.6,
+        breachdps: 6,
         breachmax: 0,
         breachmin: 0,
         class: 2,
         clip: 12,
         cost: 768600,
-        dps: 72,
+        dps: 60,
         edID: 128671344,
         eddbID: 1480,
-        eps: .48,
+        eps: 1.92,
         grp: "mr",
-        hps: 7.2,
+        hps: 28.8,
         id: "Ph",
         integrity: 51,
         mass: 4,
@@ -7018,6 +7024,7 @@ module.exports = {
         clip: 3,
         cost: 36400,
         dps: 32,
+        eps: 0,
         edID: 128671448,
         eddbID: 1523,
         grp: "nl",
@@ -7178,7 +7185,8 @@ module.exports = {
         passive: 1,
         power: .2,
         rating: "I",
-        reload: 10
+        reload: 10,
+        rof: 1
       }, {
         activepower: 4,
         chargeup: 4,
@@ -8423,7 +8431,8 @@ module.exports = {
       fh: [ {
         bays: 2,
         class: 7,
-        cost: -1,
+        cost: 575660,
+        edID: 128727930,
         eddbID: 1560,
         grp: "fh",
         id: "fh",
@@ -8434,7 +8443,8 @@ module.exports = {
       }, {
         bays: 2,
         class: 6,
-        cost: -1,
+        cost: 1869350,
+        edID: 128727931,
         eddbID: 1561,
         grp: "fh",
         id: "fm",
@@ -8445,7 +8455,8 @@ module.exports = {
       }, {
         bays: 1,
         class: 5,
-        cost: -1,
+        cost: 2369330,
+        edID: 128727932,
         eddbID: 1562,
         grp: "fh",
         id: "fr",
@@ -10207,7 +10218,8 @@ module.exports = {
       } ],
       pce: [ {
         class: 2,
-        cost: -1,
+        cost: 4320,
+        edID: 128734690,
         eddbID: 1563,
         grp: "pce",
         id: "ma",
@@ -10216,7 +10228,8 @@ module.exports = {
         rating: "E"
       }, {
         class: 3,
-        cost: -1,
+        cost: 8670,
+        edID: 128734691,
         eddbID: 1564,
         grp: "pce",
         id: "mb",
@@ -10225,7 +10238,8 @@ module.exports = {
         rating: "E"
       }, {
         class: 4,
-        cost: -1,
+        cost: 18960,
+        edID: 128727922,
         eddbID: 1565,
         grp: "pce",
         id: "mc",
@@ -10234,7 +10248,8 @@ module.exports = {
         rating: "E"
       }, {
         class: 5,
-        cost: -1,
+        cost: 34960,
+        edID: 128734693,
         eddbID: 1566,
         grp: "pce",
         id: "md",
@@ -10243,7 +10258,8 @@ module.exports = {
         rating: "E"
       }, {
         class: 6,
-        cost: -1,
+        cost: 61420,
+        edID: 12872926,
         eddbID: 1567,
         grp: "pce",
         id: "me",
@@ -10253,7 +10269,8 @@ module.exports = {
       } ],
       pci: [ {
         class: 3,
-        cost: -1,
+        cost: 26720,
+        edID: 128734692,
         eddbID: 1568,
         grp: "pci",
         id: "mf",
@@ -10262,7 +10279,8 @@ module.exports = {
         rating: "D"
       }, {
         class: 4,
-        cost: -1,
+        cost: 56870,
+        edID: 128727923,
         eddbID: 1569,
         grp: "pci",
         id: "mg",
@@ -10271,7 +10289,8 @@ module.exports = {
         rating: "D"
       }, {
         class: 5,
-        cost: -1,
+        cost: 92370,
+        edID: 128734694,
         eddbID: 1570,
         grp: "pci",
         id: "mh",
@@ -10280,7 +10299,8 @@ module.exports = {
         rating: "D"
       }, {
         class: 6,
-        cost: -1,
+        cost: 184240,
+        edID: 128727927,
         eddbID: 1571,
         grp: "pci",
         id: "mi",
@@ -10290,7 +10310,8 @@ module.exports = {
       } ],
       pcm: [ {
         class: 4,
-        cost: -1,
+        cost: 170600,
+        edID: 128727924,
         eddbID: 1572,
         grp: "pcm",
         id: "mj",
@@ -10299,7 +10320,8 @@ module.exports = {
         rating: "C"
       }, {
         class: 5,
-        cost: -1,
+        cost: 340540,
+        edID: 128734695,
         eddbID: 1573,
         grp: "pcm",
         id: "mk",
@@ -10308,7 +10330,8 @@ module.exports = {
         rating: "C"
       }, {
         class: 6,
-        cost: -1,
+        cost: 552700,
+        edID: 128727928,
         eddbID: 1574,
         grp: "pcm",
         id: "ml",
@@ -10318,7 +10341,8 @@ module.exports = {
       } ],
       pcq: [ {
         class: 5,
-        cost: -1,
+        cost: 1658100,
+        edID: 128727095,
         eddbID: 1575,
         grp: "pcq",
         id: "mm",
@@ -10327,7 +10351,8 @@ module.exports = {
         rating: "B"
       }, {
         class: 6,
-        cost: -1,
+        cost: 4974300,
+        edID: 128727929,
         eddbID: 1576,
         grp: "pcq",
         id: "mn",

@@ -18,7 +18,8 @@
       "passive": 1,
       "power": 0.2,
       "rating": "I",
-      "reload": 10
+      "reload": 10,
+      "rof": 1
     },
     {
       "activepower": 4,
