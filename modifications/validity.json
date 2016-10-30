@@ -1,40 +1,165 @@
 {
   "pp": [
-    1,
-    3,
-    4,
-    5
+    "mass",
+    "integrity",
+    "pGen",
+    "eff"
   ],
   "t": [
-    2,
-    3,
-    4,
-    5
+    "mass",
+    "integrity",
+    "power",
+    "optmass",
+    "optmult",
+    "hps"
   ],
   "fsd": [
-    2,
-    3,
-    4,
-    5
+    "mass",
+    "integrity",
+    "power",
+    "boot",
+    "optmass",
+    "hps",
+    "maxfuel"
   ],
   "ls": [
-    2,
-    3,
-    4,
-    5
+    "mass",
+    "integrity",
+    "power",
+    "boot"
   ],
   "pd": [
-    2,
-    3,
-    4,
-    5
+    "mass",
+    "integrity",
+    "power",
+    "boot",
+    "syscap",
+    "engcap",
+    "wepcap",
+    "sysrate",
+    "engrate",
+    "weprate"
   ],
   "s": [
-    2,
-    3,
-    4,
-    5
+    "mass",
+    "integrity",
+    "power",
+    "boot"
+  ],
+  "am": [
+    "integrity",
+    "power",
+    "boot"
+  ],
+  "bsg": [
+    "mass",
+    "integrity",
+    "power",
+    "boot",
+    "eps",
+    "optmass",
+    "optmul",
+    "kinres",
+    "thermres",
+    "regen",
+    "brokenregen"
+  ],
+  "pci": [],
+  "cr": [],
+  "cc": [
+    "mass",
+    "integrity",
+    "power",
+    "boot"
+  ],
+  "dc": [],
+  "pci": [],
+  "fh": [],
+  "pcm": [],
+  "fi": [
+    "mass",
+    "integrity",
+    "power",
+    "boot",
+    "range",
+    "arc"
+  ],
+  "fs": [
+    "mass",
+    "integrity",
+    "power",
+    "boot"
+  ],
+  "fx": [
+    "mass",
+    "integrity",
+    "power",
+    "boot"
+  ],
+  "hb": [
+    "mass",
+    "integrity",
+    "power",
+    "boot"
+  ],
+  "hr": [
+    "mass",
+    "kinres",
+    "thermres",
+    "explres",
+    "armour",
+    "hullboost"
   ],
   "ft": [],
-  "pas": []
+  "pcq": [],
+  "pv": [],
+  "psg": [
+    "mass",
+    "integrity",
+    "power",
+    "boot",
+    "eps",
+    "optmass",
+    "optmul",
+    "kinres",
+    "thermres",
+    "regen",
+    "brokenregen"
+  ],
+  "pc": [
+    "mass",
+    "integrity",
+    "power",
+    "boot"
+  ],
+  "rf": [
+    "mass",
+    "integrity",
+    "power",
+    "boot"
+  ],
+  "sc": [],
+  "scb": [
+    "integrity",
+    "power",
+    "hps",
+    "eps",
+    "delay",
+    "duration",
+    "shield",
+    "boot"
+  ],
+  "sg": [
+    "mass",
+    "integrity",
+    "power",
+    "boot",
+    "eps",
+    "optmass",
+    "optmul",
+    "reskin",
+    "restherm",
+    "regen",
+    "brokenregen"
+  ]
 }
