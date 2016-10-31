@@ -14484,6 +14484,7 @@
 			"bsg": [
 				"boot",
 				"brokenregen",
+				"explres",
 				"integrity",
 				"kinres",
 				"mass",
@@ -14697,6 +14698,7 @@
 			"psg": [
 				"boot",
 				"brokenregen",
+				"explres",
 				"integrity",
 				"kinres",
 				"mass",
@@ -14757,6 +14759,7 @@
 			"sg": [
 				"boot",
 				"brokenregen",
+				"explres",
 				"integrity",
 				"kinres",
 				"mass",
