@@ -12085,7 +12085,7 @@ module.exports = {
       rf: [ "boot", "integrity", "mass", "power" ],
       rg: [ "ammo", "armourpen", "clip", "damage", "distdraw", "integrity", "jitter", "mass", "power", "range", "reload", "rof", "thermload" ],
       s: [ "boot", "integrity", "mass", "power" ],
-      sb: [ "explres", "integrity", "kinres", "mass", "power", "shieldboost", "thermres" ],
+      sb: [ "explres", "integrity", "kinres", "mass", "power", "shieldmul", "thermres" ],
       sc: [],
       scb: [ "boot", "delay", "duration", "integrity", "power", "shield", "thermload" ],
       sg: [ "boot", "brokenregen", "integrity", "kinres", "mass", "optmass", "optmul", "power", "regen", "thermload", "thermres" ],
