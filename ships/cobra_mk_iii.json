@@ -9,10 +9,10 @@
       "hullCost": 205800,
       "speed": 280,
       "boost": 400,
-      "boostEnergy": 11,
+      "boostEnergy": 10,
       "agility": 6,
       "baseShieldStrength": 80,
-      "baseArmour": 216,
+      "baseArmour": 120,
       "hullMass": 180,
       "masslock": 8,
       "pipSpeed": 0.125

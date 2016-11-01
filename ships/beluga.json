@@ -1,0 +1,48 @@
+{
+  "beluga": {
+    "edID": 128049345,
+    "eddbID": 30,
+    "properties": {
+      "name": "Beluga Liner",
+      "manufacturer": "Saud Kruger",
+      "class": 3,
+      "hullCost": 79654610,
+      "speed": 200,
+      "boost": 280,
+      "boostEnergy": 19,
+      "agility": 2,
+      "baseShieldStrength": 280,
+      "baseArmour": 280,
+      "hullMass": 1100,
+      "masslock": 18,
+      "pipSpeed": -1,
+      "luxuryCabins": true,
+      "fighterHangars": true
+    },
+    "retailCost": 84532770,
+    "bulkheads": [
+      { "id": "cl", "edID": 128049346, "eddbID": 1554,"cost": 0, "mass": 0 },
+      { "id": "cm", "edID": 128049347, "eddbID": 1555,"cost": 33813120, "mass": 83 },
+      { "id": "cn", "edID": 128049348, "eddbID": 1556,"cost": 76079500, "mass": 165 },
+      { "id": "co", "edID": 128049349, "eddbID": 1557,"cost": 179801200, "mass": 165 },
+      { "id": "cp", "edID": 128049350, "eddbID": 1558,"cost": 199243730, "mass": 165 }
+    ],
+    "slots": {
+      "standard": [6, 7, 7, 8, 6, 5, 7],
+      "hardpoints": [2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0],
+      "internal": [
+        6, 6,
+        { "class": 6, "eligible": { "cr": 1, "hr": 1, "pce": 1, "pci": 1, "pcm": 1, "pcq": 1 } },
+        { "class": 6, "eligible": { "cr": 1, "hr": 1, "pce": 1, "pci": 1, "pcm": 1, "pcq": 1 } },
+        { "class": 5, "eligible": { "cr": 1, "hr": 1, "pce": 1, "pci": 1, "pcm": 1, "pcq": 1 } },
+        { "class": 5, "eligible": { "cr": 1, "hr": 1, "pce": 1, "pci": 1, "pcm": 1, "pcq": 1 } },
+        4, 3, 3, 3, 3
+      ]
+    },
+    "defaults": {
+      "standard": ["6E", "7E", "7E", "8E", "6E", "5E", "7C"],
+      "hardpoints": [17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "internal": ["4j", "04", "6dbusiness", "6dbusiness", "4dbusiness", "4dbusiness", "02", "01", 0, 0, "2h"]
+    }
+  }
+}

@@ -6,7 +6,8 @@ module.exports = {
     ls: require('./standard/life_support').ls,
     pd: require('./standard/power_distributor').pd,
     s: require('./standard/sensors').s,
-    ft: require('./standard/fuel_tank').ft
+    ft: require('./standard/fuel_tank').ft,
+    pas: require('./standard/planetary_approach_suite').pas
   },
   hardpoints: {
     pl: require('./hardpoints/pulse_laser').pl,
@@ -33,6 +34,7 @@ module.exports = {
     cr: require('./internal/cargo_rack').cr,
     cc: require('./internal/collector_limpet_controllers').cc,
     dc: require('./internal/docking_computer').dc,
+    fh: require('./internal/fighter_hangar').fh,
     fi: require('./internal/frame_shift_drive_interdictor').fi,
     fs: require('./internal/fuel_scoop').fs,
     ft: require('./internal/internal_fuel_tank').ft,
@@ -42,6 +44,10 @@ module.exports = {
     pv: require('./internal/planetary_vehicle_hanger').pv,
     psg: require('./internal/pristmatic_shield_generator').psg,
     pc: require('./internal/prospector_limpet_controllers').pc,
+    pce: require('./internal/economy_passenger_cabin').pce,
+    pci: require('./internal/business_passenger_cabin').pci,
+    pcm: require('./internal/first_passenger_cabin').pcm,
+    pcq: require('./internal/luxury_passenger_cabin').pcq,
     rf: require('./internal/refinery').rf,
     sc: require('./internal/scanner').sc,
     scb: require('./internal/shield_cell_bank').scb,

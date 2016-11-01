@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/cmmcleod/coriolis-data.svg?branch=master)](https://travis-ci.org/cmmcleod/coriolis-data)
+[![Build Status](https://travis-ci.org/EDCD/coriolis-data.svg?branch=master)](https://travis-ci.org/EDCD/coriolis-data)
 # Coriolis Data Files
 
 JSON Data modelling Elite Dangerous ships and components.

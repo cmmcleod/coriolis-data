@@ -12,7 +12,7 @@
       "boostEnergy": 10,
       "agility": 4,
       "baseShieldStrength": 150,
-      "baseArmour": 270,
+      "baseArmour": 150,
       "hullMass": 190,
       "masslock": 7,
       "pipSpeed": 0.0875

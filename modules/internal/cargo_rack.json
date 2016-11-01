@@ -1,12 +1,106 @@
 {
   "cr": [
-    { "id": "00", "edID": 128064338, "eddbID": 1191, "grp": "cr", "class": 1, "rating": "E", "cost": 1000,     "cargo": 2 },
-    { "id": "01", "edID": 128064339, "eddbID": 1192, "grp": "cr", "class": 2, "rating": "E", "cost": 3250,     "cargo": 4 },
-    { "id": "02", "edID": 128064340, "eddbID": 1193, "grp": "cr", "class": 3, "rating": "E", "cost": 10560,    "cargo": 8 },
-    { "id": "03", "edID": 128064341, "eddbID": 1194, "grp": "cr", "class": 4, "rating": "E", "cost": 34330,    "cargo": 16 },
-    { "id": "04", "edID": 128064342, "eddbID": 1195, "grp": "cr", "class": 5, "rating": "E", "cost": 111570,   "cargo": 32 },
-    { "id": "05", "edID": 128064343, "eddbID": 1196, "grp": "cr", "class": 6, "rating": "E", "cost": 362590,   "cargo": 64 },
-    { "id": "06", "edID": 128064344, "eddbID": 1197, "grp": "cr", "class": 7, "rating": "E", "cost": 1178420,  "cargo": 128 },
-    { "id": "07", "edID": 128064345, "eddbID": 1198, "grp": "cr", "class": 8, "rating": "E", "cost": 3829870,  "cargo": 256 }
+    {
+      "cargo": 2,
+      "class": 1,
+      "cost": 1000,
+      "edID": 128064338,
+      "eddbID": 1191,
+      "grp": "cr",
+      "id": "00",
+      "rating": "E"
+    },
+    {
+      "cargo": 4,
+      "class": 2,
+      "cost": 3250,
+      "edID": 128064339,
+      "eddbID": 1192,
+      "grp": "cr",
+      "id": "01",
+      "rating": "E"
+    },
+    {
+      "cargo": 8,
+      "class": 3,
+      "cost": 10560,
+      "edID": 128064340,
+      "eddbID": 1193,
+      "grp": "cr",
+      "id": "02",
+      "rating": "E"
+    },
+    {
+      "cargo": 16,
+      "class": 4,
+      "cost": 34330,
+      "edID": 128064341,
+      "eddbID": 1194,
+      "grp": "cr",
+      "id": "03",
+      "rating": "E"
+    },
+    {
+      "cargo": 32,
+      "class": 5,
+      "cost": 111570,
+      "edID": 128064342,
+      "eddbID": 1195,
+      "grp": "cr",
+      "id": "04",
+      "rating": "E"
+    },
+    {
+      "cargo": 64,
+      "class": 6,
+      "cost": 362590,
+      "edID": 128064343,
+      "eddbID": 1196,
+      "grp": "cr",
+      "id": "05",
+      "rating": "E"
+    },
+    {
+      "cargo": 128,
+      "class": 7,
+      "cost": 1178420,
+      "edID": 128064344,
+      "eddbID": 1197,
+      "grp": "cr",
+      "id": "06",
+      "rating": "E"
+    },
+    {
+      "cargo": 256,
+      "class": 8,
+      "cost": 3829870,
+      "edID": 128064345,
+      "eddbID": 1198,
+      "grp": "cr",
+      "id": "07",
+      "rating": "E"
+    },
+    {
+      "cargo": 1,
+      "class": 1,
+      "cost": 6250,
+      "edID": 128681641,
+      "eddbID": 1553,
+      "grp": "cr",
+      "id": "1w",
+      "name": "Corrosion Resistant",
+      "rating": "E"
+    },
+    {
+      "cargo": 2,
+      "class": 1,
+      "cost": 12563,
+      "edID": 128681992,
+      "eddbID": 1552,
+      "grp": "cr",
+      "id": "1y",
+      "name": "Corrosion Resistant",
+      "rating": "F"
+    }
   ]
 }

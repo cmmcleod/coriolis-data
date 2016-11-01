@@ -35,13 +35,17 @@ describe('JSON Data', function() {
       for (var i = 0; i < group.length; i++) {
         var id = group[i].id;
         expect(ids[id]).toBeFalsy('ID already exists: ' + id);
-        expect(group[i].edID).toBeDefined('Standard module' + id + ' is missing E:D ID');
-        expect(group[i].eddbID).toBeDefined('Standard module' + id + ' is missing EDDB ID');
+        expect(group[i].edID > 0).toBeTruthy('Standard module ' + id + ' is missing E:D ID');
+        expect(group[i].eddbID > 0 || group[i].pp).toBeTruthy('Standard module' + id + ' is missing EDDB ID');
         expect(group[i].grp).toBeDefined(`No group defined, Type: ${s}, ID: ${id}, Index: ${i}`);
         expect(eddbIDs[group[i].eddbID]).toBeFalsy(`EDDB ID [${group[i].eddbID}] already exists for ID: ${id}, Index: ${i}`);
         expect(edIDs[group[i].edID]).toBeFalsy(`E:D ID [${group[i].edID}] already exists for ID: ${id}, Index: ${i}`);
-        eddbIDs[group[i].eddbID] = true;
-        edIDs[group[i].edID] = true;
+        if (group[i].eddbID) {
+          eddbIDs[group[i].eddbID] = true;
+        }
+        if (group[i].edID) {
+          edIDs[group[i].edID] = true;
+        }
         ids[id] = true;
       }
     }
@@ -57,13 +61,31 @@ describe('JSON Data', function() {
         var id = group[i].id;
         expect(ids[id]).toBeFalsy('ID already exists: ' + id);
         expect(group[i].grp).toBeDefined('Hardpoint has no group defined, ID:' + id);
-        expect(group[i].eddbID).toBeDefined(`Hardpoint ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing EDDB ID`);
-        expect(group[i].edID).toBeDefined(`Hardpoint ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing E:D ID`);
+        expect(group[i].mass).toBeDefined(`Hardpoint ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing mass`);
+        expect(group[i].integrity).toBeDefined(`Hardpoint ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing integrity`);
+        expect(group[i].eddbID > 0).toBeTruthy(`Hardpoint ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing EDDB ID`);
+        expect(group[i].edID > 0 || group[i].pp).toBeTruthy(`Hardpoint ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing E:D ID`);
         expect(eddbIDs[group[i].eddbID]).toBeFalsy(`EDDB ID [${group[i].eddbID}] already exists: ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''}`);
         expect(edIDs[group[i].edID]).toBeFalsy(`E:D ID [${group[i].edID}] already exists: ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''}`);
-        eddbIDs[group[i].eddbID] = true;
+        if (group[i].eddbID) {
+          eddbIDs[group[i].eddbID] = true;
+        }
         if (group[i].edID) {
           edIDs[group[i].edID] = true;
+        }
+	if (group[i].dps) {
+            expect(group[i].dps).toBeDefined(`Hardpoint ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing dps`);
+            expect(group[i].breachmin).toBeDefined(`Hardpoint ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing breachmin`);
+            expect(group[i].breachmax).toBeDefined(`Hardpoint ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing breachmax`);
+            expect(group[i].breachdps).toBeDefined(`Hardpoint ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing breachdps`);
+            expect(group[i].armourpen).toBeDefined(`Hardpoint ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing armourpen`);
+            expect(group[i].eps).toBeDefined(`Hardpoint ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing eps`);
+            expect(group[i].hps).toBeDefined(`Hardpoint ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing hps`);
+        }
+	if (group[i].ammo || group[i].reload || group[i].clip) {
+            expect(group[i].ammo).toBeDefined(`Hardpoint ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing ammo`);
+            expect(group[i].clip).toBeDefined(`Hardpoint ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing clip`);
+            expect(group[i].reload).toBeDefined(`Hardpoint ${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing reload`);
         }
         ids[id] = true;
       }
@@ -80,14 +102,18 @@ describe('JSON Data', function() {
         var id = group[i].id;
         expect(group[i].grp).toBeDefined(`No group defined, ID: ${id}`);
         expect(ids[id]).toBeFalsy('ID already exists: ' + id);
-        expect(group[i].eddbID).toBeDefined(`${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing EDDB ID`);
-        expect(group[i].edID).toBeDefined(`${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing E:D ID`);
+        expect(group[i].eddbID > 0 || group[i].pp).toBeTruthy(`${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing EDDB ID`);
+        expect(group[i].edID > 0).toBeTruthy(`${group[i].grp}:${id} ${group[i].name ? group[i].name : ''} is missing E:D ID`);
         if (group[i].grp != 'ft') { // Standard and Internal Fuel tanks have the same IDs
           expect(eddbIDs[group[i].eddbID]).toBeFalsy(`EDDB ID [${group[i].eddbID}] already exists:  ${id}`);
           expect(edIDs[group[i].edID]).toBeFalsy(`E:D ID [${group[i].edID}] already exists:  ${id}`);
         }
-        eddbIDs[group[i].eddbID] = true;
-        edIDs[group[i].edID] = true;
+        if (group[i].eddbID) {
+          eddbIDs[group[i].eddbID] = true;
+        }
+        if (group[i].edID) {
+          edIDs[group[i].edID] = true;
+        }
         ids[id] = true;
       }
     }
@@ -100,8 +126,8 @@ describe('JSON Data', function() {
       for (var p = 0; p < shipProperties.length; p++) {
         expect(Ships[s].properties[shipProperties[p]]).toBeDefined(shipProperties[p] + ' is missing for ' + s);
       }
-      expect(Ships[s].eddbID).toBeDefined(s + ' is missing EDDB ID');
-      expect(Ships[s].edID).toBeDefined(s + ' is missing E:D ID');
+      expect(Ships[s].eddbID > 0).toBeTruthy(s + ' is missing EDDB ID');
+      expect(Ships[s].edID > 0).toBeTruthy(s + ' is missing E:D ID');
       expect(edIDs[Ships[s].edID]).toBeFalsy(`${s} E:D ID [${Ships[s].edID}] already exists`);
       expect(Ships[s].slots.standard.length).toEqual(7, s + ' is missing standard slots');
       expect(Ships[s].defaults.standard.length).toEqual(7, s + ' is missing standard defaults');
@@ -110,18 +136,24 @@ describe('JSON Data', function() {
       expect(Ships[s].retailCost).toBeGreaterThan(Ships[s].properties.hullCost, s + ' has invalid retail cost');
       expect(Ships[s].bulkheads).toBeDefined(s + ' is missing bulkheads');
       expect(Ships[s].bulkheads.length).toEqual(5, s + ' is missing bulkheads');
-      edIDs[Ships[s].edID] = true;
+      if (Ships[s].edID) {
+        edIDs[Ships[s].edID] = true;
+      }
 
       for (var i = 0; i < Ships[s].bulkheads.length; i++) {
         var b = Ships[s].bulkheads[i];
         expect(b.id).toBeDefined(`${s} bulkhead [${i}] is missing an ID`);
         expect(bulkheadIds[b.id]).toBeFalsy(`${s} bulkhead [${i} - ${b.id}] ID already exists`);
-        expect(b.eddbID).toBeDefined(`${s} bulkhead [${i} - ${b.id}] is missing EDDB ID`);
+        expect(b.eddbID > 0).toBeTruthy(`${s} bulkhead [${i} - ${b.id}] is missing EDDB ID`);
         expect(eddbIDs[b.eddbID]).toBeFalsy(`EDDB ID [${b.eddbID}] already exists: ${s} bulkhead [${i} - ${b.id}]`);
-        expect(b.edID).toBeDefined(`${s} bulkhead [${i} - ${b.id}] is missing E:D ID`);
+        expect(b.edID > 0).toBeTruthy(`${s} bulkhead [${i} - ${b.id}] is missing E:D ID`);
         expect(edIDs[b.edID]).toBeFalsy(`E:D ID [${b.edID}] already exists: ${s} bulkhead [${i} - ${b.id}]`);
-        edIDs[b.edID] = true;
-        eddbIDs[b.eddbID] = true;
+        if (b.eddbID) {
+          eddbIDs[b.eddbID] = true;
+        }
+        if (b.edID) {
+          edIDs[b.edID] = true;
+        }
         bulkheadIds[b.id] = true;
       }
     }
