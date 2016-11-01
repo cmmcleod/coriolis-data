@@ -2435,7 +2435,7 @@ module.exports = {
         integrity: 105,
         mass: 32,
         maxmass: 2430,
-        maxmul: .86,
+        maxmul: 1.86,
         minmass: 810,
         minmul: .86,
         optmass: 1620,
@@ -6055,7 +6055,6 @@ module.exports = {
         rating: "C",
         reload: 4,
         rof: 5.9,
-        roundspershot: 1,
         speed: 1600,
         type: "K"
       }, {
@@ -6067,12 +6066,14 @@ module.exports = {
         class: 3,
         clip: 90,
         cost: 578436,
+        damage: 2.83,
+        distdraw: .25,
         dps: 18.9,
         edID: 128049461,
         eddbID: 1543,
         eps: 1.675,
         grp: "mc",
-        hps: 2.01,
+        hps: 2.22,
         id: "7l",
         integrity: 64,
         mass: 8,
@@ -6081,9 +6082,9 @@ module.exports = {
         range: 4e3,
         rating: "C",
         reload: 4,
-        rof: 6.7,
-        roundspershot: 1,
+        rof: 6.667,
         speed: 1600,
+        thermload: .333,
         type: "K"
       }, {
         ammo: 2100,
@@ -6109,7 +6110,6 @@ module.exports = {
         rating: "E",
         reload: 4,
         rof: 7.1,
-        roundspershot: 1,
         speed: 1600,
         type: "K"
       }, {
@@ -6136,7 +6136,6 @@ module.exports = {
         rating: "F",
         reload: 4,
         rof: 7.7,
-        roundspershot: 1,
         speed: 1600,
         type: "K"
       }, {
@@ -6163,7 +6162,6 @@ module.exports = {
         rating: "F",
         reload: 4,
         rof: 6.2,
-        roundspershot: 1,
         speed: 1600,
         type: "K"
       }, {
@@ -6190,7 +6188,6 @@ module.exports = {
         rating: "F",
         reload: 4,
         rof: 7.7,
-        roundspershot: 1,
         speed: 1600,
         type: "K"
       }, {
@@ -6217,7 +6214,6 @@ module.exports = {
         rating: "G",
         reload: 4,
         rof: 8.3,
-        roundspershot: 1,
         speed: 1600,
         type: "K"
       }, {
@@ -6244,7 +6240,6 @@ module.exports = {
         rating: "G",
         reload: 4,
         rof: 7.1,
-        roundspershot: 1,
         speed: 1600,
         type: "K"
       }, {

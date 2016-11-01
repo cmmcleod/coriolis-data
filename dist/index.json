@@ -4126,7 +4126,7 @@
 					"integrity": 105,
 					"mass": 32,
 					"maxmass": 2430,
-					"maxmul": 0.86,
+					"maxmul": 1.86,
 					"minmass": 810,
 					"minmul": 0.86,
 					"optmass": 1620,
@@ -7989,7 +7989,6 @@
 					"rating": "C",
 					"reload": 4,
 					"rof": 5.9,
-					"roundspershot": 1,
 					"speed": 1600,
 					"type": "K"
 				},
@@ -8002,12 +8001,14 @@
 					"class": 3,
 					"clip": 90,
 					"cost": 578436,
+					"damage": 2.83,
+					"distdraw": 0.25,
 					"dps": 18.9,
 					"edID": 128049461,
 					"eddbID": 1543,
 					"eps": 1.675,
 					"grp": "mc",
-					"hps": 2.01,
+					"hps": 2.22,
 					"id": "7l",
 					"integrity": 64,
 					"mass": 8,
@@ -8016,9 +8017,9 @@
 					"range": 4000,
 					"rating": "C",
 					"reload": 4,
-					"rof": 6.7,
-					"roundspershot": 1,
+					"rof": 6.667,
 					"speed": 1600,
+					"thermload": 0.333,
 					"type": "K"
 				},
 				{
@@ -8045,7 +8046,6 @@
 					"rating": "E",
 					"reload": 4,
 					"rof": 7.1,
-					"roundspershot": 1,
 					"speed": 1600,
 					"type": "K"
 				},
@@ -8073,7 +8073,6 @@
 					"rating": "F",
 					"reload": 4,
 					"rof": 7.7,
-					"roundspershot": 1,
 					"speed": 1600,
 					"type": "K"
 				},
@@ -8101,7 +8100,6 @@
 					"rating": "F",
 					"reload": 4,
 					"rof": 6.2,
-					"roundspershot": 1,
 					"speed": 1600,
 					"type": "K"
 				},
@@ -8129,7 +8127,6 @@
 					"rating": "F",
 					"reload": 4,
 					"rof": 7.7,
-					"roundspershot": 1,
 					"speed": 1600,
 					"type": "K"
 				},
@@ -8157,7 +8154,6 @@
 					"rating": "G",
 					"reload": 4,
 					"rof": 8.3,
-					"roundspershot": 1,
 					"speed": 1600,
 					"type": "K"
 				},
@@ -8185,7 +8181,6 @@
 					"rating": "G",
 					"reload": 4,
 					"rof": 7.1,
-					"roundspershot": 1,
 					"speed": 1600,
 					"type": "K"
 				},
