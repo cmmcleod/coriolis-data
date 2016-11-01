@@ -12054,7 +12054,7 @@ module.exports = {
       dc: [],
       fc: [ "ammo", "armourpen", "burst", "clip", "damage", "distdraw", "integrity", "jitter", "mass", "power", "range", "reload", "rof", "thermload" ],
       fh: [],
-      fi: [ "arc", "boot", "integrity", "mass", "power", "range" ],
+      fi: [ "boot", "facinglimit", "integrity", "mass", "power", "range" ],
       fs: [ "boot", "integrity", "mass", "power" ],
       fsd: [ "boot", "integrity", "mass", "maxfuel", "optmass", "power", "thermload" ],
       ft: [],

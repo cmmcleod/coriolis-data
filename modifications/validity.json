@@ -75,8 +75,8 @@
   ],
   "fh": [],
   "fi": [
-    "arc",
     "boot",
+    "facinglimit",
     "integrity",
     "mass",
     "power",
