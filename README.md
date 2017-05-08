@@ -1,4 +1,7 @@
-[![Build Status](https://travis-ci.org/cmmcleod/coriolis-data.svg?branch=master)](https://travis-ci.org/cmmcleod/coriolis-data)
+## Deprecation Notice
+
+This repo is deprecated in favour of [EDCD/coriolis-data](https://github.com/EDCD/coriolis-data) which is being maintained by the Elite Dangerous:Community Developers group.
+
 # Coriolis Data Files
 
 JSON Data modelling Elite Dangerous ships and components.
