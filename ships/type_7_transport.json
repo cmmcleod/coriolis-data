@@ -28,7 +28,7 @@
     "slots": {
       "standard": [4, 5, 5, 4, 3, 3, 5],
       "hardpoints": [1, 1, 1, 1, 0, 0, 0, 0],
-      "internal": [6, 6, 5, 5, 4, 4, 2, 2]
+      "internal": [6, 6, 6, 5, 5, 5, 3, 3]
     },
     "defaults": {
       "standard": ["4E", "5E", "5E", "4E", "3E", "3E", "5C"],
